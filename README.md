@@ -36,15 +36,13 @@ Appreciate anyone help for this project!
 ### 🐉 Anime Wallpapers
 - ✨ Anime Pictures: (https://anime-pictures.net/) – High-quality 4K anime wallpapers  
 - WallpaperWaifu: (https://wallpaperwaifu.com/) – Anime-style wallpapers and packs  
-- TheOtaku: (https://theotaku.com/) – Anime fanart, wallpapers, and profiles  
+- TheOtaku: (https://theotaku.com/wallpapers/) – Anime fanart, wallpapers, and profiles  
 - MyLiveWallpapers: (https://mylivewallpapers.com/) – Anime live wallpapers for Windows and Android
 - 
 
 ---
 ### 🐭Small Places
-- Material Wallpapers: (https://github.com/ravenhost/material-wallpapers/tree/master/Material_Design) - Only 21 images
 - Solarized Wallpapers: (https://github.com/visika/solarized-wallpapers) - Solarized repo
-- Futuristic: (https://github.com/dolphin-electric/cryotech-wallpapers) - Only 4 images, Good quality
 - ArchMinimal: (https://github.com/LagrangianLad/arch-minimal-wallpapers) -Few wallpapers
 - Debian-HD: (https://github.com/UncleSpellbinder/Debian-HD-Wallpaper) - 5 images, 4K
 - Manjaro: (https://github.com/jaerrib/manjaro-wallpapers) - Small and old
