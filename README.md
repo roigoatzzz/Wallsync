@@ -5,7 +5,7 @@
 <h1 align="center">🎨 WallSync Megathread</h1>
 
 A curated list of wallpaper resources from across the web — for anime fans, minimalists, aesthetic lovers, and anyone who wants to make their desktop look beautiful.
----
+<hr />
 ## How to Contribute?
 
 If you want to suggest a resource or fix, feel free to open an issue or submit a pull request.  
@@ -16,7 +16,7 @@ Please follow these guidelines:
 - Thank you for helping improve this project!
 
 Help make this megathread better for everyone!
----
+<hr />
 <p align="center">✨= My Favorite Places</p>
 
 ### Summary
@@ -41,7 +41,7 @@ Help make this megathread better for everyone!
 - [Other](#other-places)
 - [Sources](#sources)
 
----
+<hr />
 ## 📂 Categories
 
 ### 🔍Recommended Places
@@ -54,7 +54,7 @@ Help make this megathread better for everyone!
 - [WallpaperAccess](https://wallpaperaccess.com/) - Mobile/Desktop  
 - [WallpaperDen](https://wallpapersden.com/) - Resolution can be set to user's choice  
 
----
+<hr />
 
 ### ⭕Wallpaper Converter
 
@@ -62,13 +62,13 @@ Help make this megathread better for everyone!
 - [Dipc](https://github.com/doprz/dipc) - Convert any image/wallpaper default palette into palette you like.  
 - [Gowall](https://github.com/Achno/gowall) - Convert images palette into your favorite one.
 
----
+<hr />
 
 ### 🔄Reverse Image Search
 
 - [Rev Wallpaper Search](https://we-img-search.ordinall.me/) – Reverse search engine for wallpaper sources  
 
----
+<hr />
 
 ### ✨Subreddits Wallpapers
 
@@ -79,7 +79,7 @@ Help make this megathread better for everyone!
 - [r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds) – Community of live wallpaper fans  
 - [r/MultiWall](https://www.reddit.com/r/multiwall/) - Community for Monitors wallpapers  
 
----
+<hr />
 
 ### 🐉Anime Wallpapers
 
@@ -88,7 +88,7 @@ Help make this megathread better for everyone!
 - [TheOtaku](https://theotaku.com/wallpapers/) – Anime fanart, wallpapers, and profiles  
 - [HaoWallpaper](https://haowallpaper.com/) - Chinese wallpapers  
 
----
+<hr />
 
 ### 🐭Small Places
 
@@ -98,7 +98,7 @@ Help make this megathread better for everyone!
 - [Manjaro](https://github.com/jaerrib/manjaro-wallpapers) - Small and old  
 - [Ozan_1327 YouTube](https://www.youtube.com/@ozan_1327/videos) - 5 videos, live wallpapers  
 
----
+<hr />
 
 ### 🖼️Specific OS  
 
@@ -107,7 +107,7 @@ Help make this megathread better for everyone!
 - [PlayStation Wallpapers](https://www.playstation.com/en-us/wallpapers/) - PlayStation-theme high res wallpapers  
 - [SteamDeck Wallpapers Archive](https://archive.org/details/SDDesktopWallpaper) - Archive of SD desktop mode  
 
----
+<hr />
 
 ### 🍎Apple Only
 
@@ -115,7 +115,7 @@ Help make this megathread better for everyone!
 - [BasicAppleBlog Wallpapers](https://basicappleguy.com/basicappleblog/category/Wallpaper) – Custom iOS/macOS style wallpapers  
 - [Applescoop](https://applescoop.org/wallpapers/) - For iPhone  
 
----
+<hr />
 
 ### ⚪Minimalist Clean
 
@@ -124,21 +124,21 @@ Help make this megathread better for everyone!
 - [Positron Dream](https://www.positrondream.com/) – Minimalist and clean aesthetics  
 - [SetAsWall](https://www.setaswall.com/) – Multiple style categories with simple UI, good quality  
 
----
+<hr />
 
 ### 🌄Scenic Customizable
 
 - [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations) – Custom landscape artwork  
 - [CoolBackgrounds](https://coolbackgrounds.io/) – Generate abstract backgrounds and gradients  
 
----
+<hr />
 
 ### 🎬Studio Ghibli
 
 - [Studio Ghibli Official](https://www.ghibli.jp/info/013772) – Official wallpapers from Studio Ghibli  
 - ✨ [Ghibli Upscaled](https://rentry.co/FMHYBase64#ghibli-upscaled) – 4K upscaled versions of Ghibli artwork  
 
----
+<hr />
 
 ### 🪟Windows Wallpapers
 
@@ -150,7 +150,7 @@ Help make this megathread better for everyone!
 - [Microsoft Design Wallpapers](https://microsoft.design/wallpapers/) - Official from Microsoft  
 - [WallpaperHub](https://www.wallpaperhub.app/) - Official Windows Wallpapers Collections  
 
----
+<hr />
 
 ### 🎥✨Live Wallpapers
 
@@ -163,7 +163,7 @@ Help make this megathread better for everyone!
 - [MyLiveWallpapers](https://mylivewallpapers.com/) – Anime live wallpapers  
 - [DesktopHut](https://www.desktophut.com/) - Live Wallpapers  
 
----
+<hr />
 
 ### 👥Multi-Monitor
 
@@ -171,7 +171,7 @@ Help make this megathread better for everyone!
 - [WallpapersWide](https://wallpaperswide.com/) - Wide wallpapers, choice of resolution  
 - [WallpaperFusion](https://www.wallpaperfusion.com/) - For multiple monitors  
 
----
+<hr />
 
 ### ✨🐱GitHub Pages
 
@@ -185,14 +185,14 @@ Help make this megathread better for everyone!
 - [TokyoNight Wallpapers](https://github.com/tokyo-night/wallpapers) - For TokyoNight fans  
 - [Walls Collections](https://github.com/orangci/walls), [Walls Collections 2](https://github.com/dharmx/walls) - Random Collections  
 
----
+<hr />
 
 ### 📖Wallpapers Collections
 
 - [GetWallpapers](https://getwallpapers.com/), [WallpaperTag](https://wallpapertag.com/) - Collections of wallpapers, multiple options  
 - [Wallpapers GitLab](https://gitlab.com/dwt1/wallpapers) - GitLab collection  
 
----
+<hr />
 
 ### 💬Telegram Sources
 
@@ -203,7 +203,7 @@ Help make this megathread better for everyone!
 - [Amoled](https://t.me/amoledwallpapers) - Amoled wallpapers  
 - [Phones](https://t.me/New_4K_Wallpapers) - Only phone wallpapers  
 
----
+<hr />
 
 ### Linux / Desktop Environments Backgrounds
 
@@ -223,7 +223,7 @@ Help make this megathread better for everyone!
 - [VoidLinux Wallpapers](https://github.com/oSoWoSo/Void-Wallpapers/tree/main/assets/walls) - Unofficial  
 - [Zorin OS 17 Wallpapers](https://drive.google.com/file/d/1XYFNkCi2pDdujL9QNZvkU2eqFE1U86n3/view) - Unofficial  
 
----
+<hr />
 
 ### 📱Other Places
 
@@ -235,13 +235,13 @@ Help make this megathread better for everyone!
 - [WallpaperCat](https://wallpapercat.com/) - Good collection, option for dual-screen  
 - [PixGround](https://www.pixground.com/) - Collections by genre, most AI-generated  
 
----
+<hr />
 
 ### 🔖Sources
 ✨FMHY: (https://fmhy.net/)
 
 🌟All the repos/websites gathered here.
----
+<hr />
 ## Stay Connected
 
 <p align="center">
