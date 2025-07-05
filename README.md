@@ -241,7 +241,8 @@ Help make this megathread better for everyone!
 - [WallsPic](https://wallspic.com/) – Mixed high-res wallpapers  
 - [WallpaperFlare](https://www.wallpaperflare.com/) – Massive collection of all genres  
 - [WallpaperCat](https://wallpapercat.com/) - Good collection, option for dual-screen  
-- [PixGround](https://www.pixground.com/) - Collections by genre, most AI-generated  
+- [PixGround](https://www.pixground.com/) - Collections by genre, most AI-generated
+- [WallpaperOk](https://wallpapersok.com/) -A lot of collections, Works better on chromium-browsers.  
 
 <hr />
 
