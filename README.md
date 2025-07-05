@@ -57,9 +57,9 @@ Appreciate anyone help for this project!
 
 ### ⚪ Minimalist / Clean
 - Simple Desktops: (https://simpledesktops.com/) – Minimalist one-object wallpapers  
-- Minimalistic Wallpapers: (https://minimalistic-wallpaper.demolab.com/) – Dynamic minimalist wallpaper builder  
-- Positron Dream: (https://www.positrondream.com/) – Sci-fi and clean aesthetics  
-- SetAsWall: (https://www.setaswall.com/) – Multiple style categories with simple UI
+- Minimalistic Wallpapers: (https://minimalistic-wallpaper.demolab.com/) – Dynamic minimalist wallpaper 
+- Positron Dream: (https://www.positrondream.com/) – Minimalist and clean aesthetics  
+- SetAsWall: (https://www.setaswall.com/) – Multiple style categories with simple UI , Good quality.
 
 ---
 
@@ -146,7 +146,7 @@ Appreciate anyone help for this project!
 - Ubuntu Budgie: (https://github.com/UbuntuBudgie/budgie-wallpapers) - Official
 - Ubuntu Cinnamon: (https://github.com/ubuntucinnamon/ubuntucinnamon-wallpapers/tree/master/usr/share/backgrounds/ubuntucinnamon) - Official
 - VoidLinux: (https://github.com/oSoWoSo/Void-Wallpapers/tree/main/assets/walls) - Unofficial
-- Zorinos: (https://drive.google.com/file/d/1XYFNkCi2pDdujL9QNZvkU2eqFE1U86n3/view) -Unofficial
+- Zorin OS 17: (https://drive.google.com/file/d/1XYFNkCi2pDdujL9QNZvkU2eqFE1U86n3/view) -Unofficial
 ### 🔖Sources
 ✨FMHY: (https://fmhy.net/)
 
