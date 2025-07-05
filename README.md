@@ -106,7 +106,6 @@ Appreciate anyone help for this project!
 ---
 
 ### 🎞️ Movie & TV Screencaps
-- Screencaps.us: (https://screencaps.us/) – High-res screengrabs from movies and shows  
 - Shot.cafe: (https://shot.cafe/) – Minimalist screencap collection
 
 ### ✨🐱Github Pages
