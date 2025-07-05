@@ -191,3 +191,10 @@ Appreciate anyone help for this project!
 ✨FMHY: (https://fmhy.net/)
 
 🌟All the repos/websites gathered here.
+
+
+---
+## Stay Connected
+
+[![GitHub stars](https://img.shields.io/github/stars/leroiduflow/Wallsync?style=social)](https://github.com/leroiduflow/Wallsync/stargazers)  
+*© 2025 Wallsync — Created with ❤️*
