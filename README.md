@@ -1,7 +1,14 @@
 # <h1 align="center">🎨 WallSync Megathread</h1>
 
 A curated list of wallpaper resources from across the web — for anime fans, minimalists, aesthetic lovers, and anyone who wants to make their desktop look nice.
-Appreciate anyone help for this project!
+---
+How to Contribute
+
+Suggestions? Add an issue or PR!
+
+Share your favorite wallpaper sources or tools.
+
+Help improve the mega-thread for everyone.
 ---
 #<h1 align="center">✨= My Favorite Places</h1>
 ---
