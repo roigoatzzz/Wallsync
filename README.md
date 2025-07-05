@@ -37,7 +37,7 @@ Help make this megathread better for everyone!
 - [Github](#github-pages)
 - [Collections](#wallpapers-collections)
 - [Telegram](#telegram-sources)
-- [Linux/Desktop Environments](#linux--desktop-environments)
+- [Linux/Desktop Environments](#linux--desktop-environments-backgrounds)
 - [Other](#other-places)
 - [Sources](#sources)
 
