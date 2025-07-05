@@ -29,7 +29,8 @@ Appreciate anyone help for this project!
 - r/AmoledBackgrounds: (https://www.reddit.com/r/Amoledbackgrounds/) -Amoled Backgrounds
 - r/Wallpaper: (https://www.reddit.com/r/wallpaper/) – General wallpaper sharing community
 - r/MobileWallpaper: (https://www.reddit.com/r/MobileWallpaper/) -For Smartphones/Tablets
-- r/LivingBackgrounds: (https://reddit.com/r/LivingBackgrounds) – Community of live wallpaper fans 
+- r/LivingBackgrounds: (https://reddit.com/r/LivingBackgrounds) – Community of live wallpaper fans
+- r/MutliWall: (https://www.reddit.com/r/multiwall/) -Community for Monitors wallpapers
 ---
 
 ### 🐉 Anime Wallpapers
@@ -42,8 +43,11 @@ Appreciate anyone help for this project!
 ---
 ### 🐭Small Places
 - Material Wallpapers: (https://github.com/ravenhost/material-wallpapers/tree/master/Material_Design) - Only 21 images
-- Solarized Wallpapers: (https://github.com/visika/solarized-wallpapers) -Solarized repo
-- Futuristic: (https://github.com/dolphin-electric/cryotech-wallpapers) -Only 4 images, Good quality
+- Solarized Wallpapers: (https://github.com/visika/solarized-wallpapers) - Solarized repo
+- Futuristic: (https://github.com/dolphin-electric/cryotech-wallpapers) - Only 4 images, Good quality
+- ArchMinimal: (https://github.com/LagrangianLad/arch-minimal-wallpapers) -Few wallpapers
+- Debian-HD: (https://github.com/UncleSpellbinder/Debian-HD-Wallpaper) - 5 images, 4K
+- Manjaro: (https://github.com/jaerrib/manjaro-wallpapers) - Small and old
 
 
 ### 🖼️ Specific OS  
@@ -94,6 +98,8 @@ Appreciate anyone help for this project!
 
 ### 👥 Multi-Monitor 
 - DualMonitorBackgrounds: (https://www.dualmonitorbackgrounds.com/) – Wallpapers for dual monitor setups
+- WallpapersWide: (https://wallpaperswide.com/) - WideWallpapers, choice of resolution
+- WallpaperFusion: (https://www.wallpaperfusion.com/) -For Mutliple munitors
 
 ---
 
@@ -128,7 +134,21 @@ Appreciate anyone help for this project!
 - G_Walls (Telegram): (https://t.me/G_Walls) – Wallpaper drops via Telegram
 - Catppuccin Wallpapers: (https://t.me/catppuccinwallpapers) - Reuploads of the github
 
-
+### Linux/Desktop Environnments Backgrounds
+-✨Distros: (https://github.com/LinuxKits/Distro-wallpapers) -Unofficial, but most are here
+- Archcraft: (https://github.com/archcraft-os/archcraft-wallpapers) - Official repo
+- Arch: (https://archlinux.org/packages/extra/any/archlinux-wallpaper/) - Official from wiki
+- CachyOs: (https://github.com/CachyOS/cachyos-wallpapers) - Official repo
+- Deepin: (https://github.com/linuxdeepin/deepin-wallpapers) - Unofficial
+- Endeavouros: (https://github.com/EndeavourOS-Community-Editions/Community-wallpapers) - Official repo
+- Fedora: (https://fedoraproject.org/wiki/Wallpapers) - Default ones for each release
+- Gnome: (https://zebreus.github.io/all-gnome-backgrounds/) - Gnome backgrounds, Unofficial
+- Linux-Mint: (https://github.com/rt2yrru/linux_mint_wallpaper) - Not official, But has most of them
+- OpenSuse: (https://en.opensuse.org/openSUSE:Wallpapers) - Official from wiki
+- Ubuntu Budgie: (https://github.com/UbuntuBudgie/budgie-wallpapers) - Official
+- Ubuntu Cinnamon: (https://github.com/ubuntucinnamon/ubuntucinnamon-wallpapers/tree/master/usr/share/backgrounds/ubuntucinnamon) - Official
+- VoidLinux: (https://github.com/oSoWoSo/Void-Wallpapers/tree/main/assets/walls) -Unofficial
+- Zorinos: (https://drive.google.com/file/d/1XYFNkCi2pDdujL9QNZvkU2eqFE1U86n3/view) -Unofficial
 ### 🔖Sources
 FMHY: (https://fmhy.net/)
 All the repos/websites gathered here.
