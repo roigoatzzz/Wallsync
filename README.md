@@ -209,7 +209,8 @@ Help make this megathread better for everyone!
 
 ### Linux / Desktop Environments 
 
-- ✨ [Distros Wallpapers](https://github.com/LinuxKits/Distro-wallpapers) - Unofficial, but most are here  
+- ✨ [Distros Wallpapers](https://github.com/LinuxKits/Distro-wallpapers) - Unofficial, but most are here
+- [Awesome-Wallpapers](https://github.com/dpejoh/awesome-wallpapers) - Good quality, no updates since 5 months
 - [Archcraft Wallpapers](https://github.com/archcraft-os/archcraft-wallpapers) - Official repo  
 - [Arch Linux Wallpapers](https://archlinux.org/packages/extra/any/archlinux-wallpaper/) - Official from wiki  
 - [CachyOS Wallpapers](https://github.com/CachyOS/cachyos-wallpapers) - Official repo  
