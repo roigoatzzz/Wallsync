@@ -246,7 +246,6 @@ Help make this megathread better for everyone!
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/leroiduflow/Wallsync?style=social&logo=github" />
-  <img src="https://img.shields.io/github/stars/leroiduflow/Wallsync?style=social" />
   <img src="https://img.shields.io/github/forks/leroiduflow/Wallsync?style=social" />
   <img src="https://img.shields.io/github/watchers/leroiduflow/Wallsync?style=social" />
   <img src="https://img.shields.io/github/license/leroiduflow/Wallsync" />
