@@ -7,90 +7,90 @@ A curated list of wallpaper resources from across the web — for anime fans, mi
 ## 📂 Categories
 
 ### 🔍 Wallpaper Search Engines
-- wallhaven.cc(https://wallhaven.cc/) – Huge searchable database  
-  • ⭐ (Wallbase Downloader)(https://github.com/eramdam/WallbaseDirectDownloader) – 4K download support  
-  • (Wallhaven Desktop Client)(https://github.com/luisflorido/wallhaven-desktop)
-- (Wallpaper Abyss)(https://wall.alphacoders.com/)
-- (WallpaperCave)(https://wallpapercave.com/)
-- (WallpapersCraft)(https://wallpaperscraft.com/)
-- (VSThemes)(https://vsthemes.org/en/)
+- Wallhaven: (https://wallhaven.cc/) – Huge searchable database  
+  ⭐ Downloader: (https://github.com/eramdam/WallbaseDirectDownloader) – 4K download support  
+  Client: (https://github.com/luisflorido/wallhaven-desktop)
+- Wallpaper Abyss: (https://wall.alphacoders.com/) – Large general-purpose wallpaper archive  
+- WallpaperCave: (https://wallpapercave.com/) – Community-contributed wallpaper database  
+- WallpapersCraft: (https://wallpaperscraft.com/) – Mobile and desktop resolutions  
+- VSThemes: (https://vsthemes.org/en/) – Windows visual styles and wallpapers
 
 ---
 
 ### 🔄 Reverse Image Search (Wallpaper Matching)
-- (Rev Wallpaper Search)(https://we-img-search.ordinall.me/)
-- (Reddit - r/WallpaperRequests)(https://www.reddit.com/r/WallpaperRequests/)
+- Rev Wallpaper Search: (https://we-img-search.ordinall.me/) – Reverse search engine for wallpaper sources  
+- r/WallpaperRequests: (https://www.reddit.com/r/WallpaperRequests/) – Request custom wallpapers
 
 ---
 
 ### 🐉 Anime Wallpapers
-- ⭐ (Anime Pictures)(https://anime-pictures.net/) – 4K anime content  
-- (WallpaperWaifu)(https://wallpaperwaifu.com/)
-- (TheOtaku)(https://theotaku.com/)
-- (MyLiveWallpapers)(https://mylivewallpapers.com/)
+- ⭐ Anime Pictures: (https://anime-pictures.net/) – High-quality 4K anime wallpapers  
+- WallpaperWaifu: (https://wallpaperwaifu.com/) – Anime-style wallpapers and packs  
+- TheOtaku: (https://theotaku.com/) – Anime fanart, wallpapers, and profiles  
+- MyLiveWallpapers: (https://mylivewallpapers.com/) – Anime live wallpapers for Windows and Android
 
 ---
 
 ### 🖼️ Aesthetic & Themed
-- (Aesthetic Wallpapers on GitHub)(https://github.com/D3Ext/aesthetic-wallpapers)
-- (Mac Walls - Google Photos)(https://goo.gl/photos/HjY1hmo6p3jfFz8a7)
-- (BasicAppleBlog Wallpapers)(https://basicappleguy.com/basicappleblog/category/Wallpaper)
-- (Chromecast Backgrounds)(https://chromecastbg.alexmeub.com/)
-- (Bing Wallpaper Archive)(https://bingwallpaper.anerg.com/)
-- (Xbox Wallpapers)(https://www.xbox.com/en-us/wallpapers/)
+- Aesthetic Wallpapers: (https://github.com/D3Ext/aesthetic-wallpapers) – Curated aesthetic wallpapers  
+- Mac Walls: (https://goo.gl/photos/HjY1hmo6p3jfFz8a7) – Apple-inspired designs  
+- BasicAppleBlog: (https://basicappleguy.com/basicappleblog/category/Wallpaper) – Custom iOS/macOS style wallpapers  
+- Chromecast Backgrounds: (https://chromecastbg.alexmeub.com/) – Google Chromecast photo backgrounds  
+- Bing Wallpaper Archive: (https://bingwallpaper.anerg.com/) – Daily Bing wallpapers archive  
+- Xbox Wallpapers: (https://www.xbox.com/en-us/wallpapers/) – Xbox-themed high-res wallpapers
 
 ---
 
 ### ⚪ Minimalist / Clean
-- (Simple Desktops)(https://simpledesktops.com/)
-- (Minimalistic Wallpaper Generator)(https://minimalistic-wallpaper.demolab.com/)
-- (Positron Dream)(https://www.positrondream.com/)
-- (SetAsWall)(https://www.setaswall.com/)
+- Simple Desktops: (https://simpledesktops.com/) – Minimalist one-object wallpapers  
+- Minimalistic Wallpaper Generator: (https://minimalistic-wallpaper.demolab.com/) – Dynamic minimalist wallpaper builder  
+- Positron Dream: (https://www.positrondream.com/) – Sci-fi and clean aesthetics  
+- SetAsWall: (https://www.setaswall.com/) – Multiple style categories with simple UI
 
 ---
 
 ### 🌄 Scenic & Customizable
-- (Scenic Illustrations - PixelTrue)(https://www.pixeltrue.com/scenic-illustrations)
-- (CoolBackgrounds.io)(https://coolbackgrounds.io/) – Gradient, abstract, customizable
+- Scenic Illustrations: (https://www.pixeltrue.com/scenic-illustrations) – Custom landscape artwork  
+- CoolBackgrounds: (https://coolbackgrounds.io/) – Generate abstract backgrounds and gradients
 
 ---
 
 ### 🎬 Studio Ghibli
-- (Official Studio Ghibli Wallpapers)(https://www.ghibli.jp/info/013772)
-- ⭐ (Ghibli Upscaled - Rentry)(https://rentry.co/FMHYBase64#ghibli-upscaled) – 4K scans
+- Studio Ghibli Official: (https://www.ghibli.jp/info/013772) – Official wallpapers from Studio Ghibli  
+- ⭐ Ghibli Upscaled: (https://rentry.co/FMHYBase64#ghibli-upscaled) – 4K upscaled versions of Ghibli artwork
 
 ---
 
 ### 🪟 Windows-Themed Wallpapers
-- ⭐ (Ultimate Windows Wallpack - Rentry)(https://rentry.co/fmhybase64#windows-wallpapers) – 4K-quality  
-- (Windows Wallpaper Wiki)(https://windowswallpaper.miraheze.org/wiki/Main_Page)
-- (Windows Spotlight Archive)(https://windows10spotlight.com/)
+- ⭐ Ultimate Windows Wallpack: (https://rentry.co/fmhybase64#windows-wallpapers) – 4K Windows wallpapers  
+- Windows Wallpaper Wiki: (https://windowswallpaper.miraheze.org/wiki/Main_Page) – Community-curated collection  
+- Windows Spotlight Archive: (https://windows10spotlight.com/) – Daily Windows lock screen wallpapers
 
 ---
 
 ### 🎥 Live Wallpapers
-- (LWP GitHub Project)(https://github.com/jszczerbinsky/lwp)
-- (Reddit - r/LivingBackgrounds)(https://reddit.com/r/LivingBackgrounds)
-- (WALLegend)(https://wallegend.net/en/)
-- (MoeWalls)(https://moewalls.com/)
+- LWP: (https://github.com/jszczerbinsky/lwp) – Live wallpaper engine for Linux  
+- r/LivingBackgrounds: (https://reddit.com/r/LivingBackgrounds) – Community of live wallpaper fans  
+- WALLegend: (https://wallegend.net/en/) – High-quality live wallpaper packs  
+- MoeWalls: (https://moewalls.com/) – Anime and aesthetic live wallpapers
 
 ---
 
 ### 👥 Community & Multi-Monitor
-- (Reddit - r/Wallpaper)(https://www.reddit.com/r/wallpaper/) – General community
-- (DualMonitorBackgrounds)(https://www.dualmonitorbackgrounds.com/) – Dual-screen wallpapers
+- r/Wallpaper: (https://www.reddit.com/r/wallpaper/) – General wallpaper sharing community  
+- DualMonitorBackgrounds: (https://www.dualmonitorbackgrounds.com/) – Wallpapers for dual monitor setups
 
 ---
 
 ### 🎞️ Movie & TV Screencaps
-- (Screencaps.us)(https://screencaps.us/) – HD stills from films and shows
-- (shot.cafe)(https://shot.cafe/) – Movie and TV screencaps
+- Screencaps.us: (https://screencaps.us/) – High-res screengrabs from movies and shows  
+- Shot.cafe: (https://shot.cafe/) – Minimalist screencap collection
 
 ---
 
 ### 📱 Miscellaneous Sources
-- (WallsPic)(https://wallspic.com/)
-- (WallpaperFlare)(https://www.wallpaperflare.com/)
-- ⭐ (HDQwalls)(https://hdqwalls.com/) – 4K/8K content  
-- ⭐ (UHD Wallpaper)(https://www.uhdpaper.com/) – High-resolution
-- (G_Walls Telegram Channel)(https://t.me/G_Walls)
+- WallsPic: (https://wallspic.com/) – Mixed high-res wallpapers  
+- WallpaperFlare: (https://www.wallpaperflare.com/) – Massive collection of all genres  
+- ⭐ HDQwalls: (https://hdqwalls.com/) – 4K/8K ultra HD wallpapers  
+- ⭐ UHD Wallpaper: (https://www.uhdpaper.com/) – Ultra HD categorized packs  
+- G_Walls (Telegram): (https://t.me/G_Walls) – Wallpaper drops via Telegram
