@@ -16,25 +16,25 @@ Help improve the mega-thread for everyone!
 <p align="center">✨= My Favorite Places</p>
 
 ### Summary
-- [Recommended](#-recommended-places)
-- [Converter](#-wallpaper-converter)
-- [Reverse Image Search](#-reverse-image-search)
-- [Subreddits](#-subreddits-wallpapers)
-- [Anime](#-anime-Wallpapers)
+- [Recommended](#recommended-places)
+- [Converter](#wallpaper-converter)
+- [Reverse Image Search](#reverse-image-search)
+- [Subreddits](#subreddits-wallpapers)
+- [Anime](#anime-Wallpapers)
 - [Small](#small-places)
-- [Specific](#-specific-os)
+- [Specific](#specific-os)
 - [Apple](#apple-only)
-- [Minimal](#-minimalist-clean)
-- [Scenic](#-scenic-customizable)
-- [Ghibili](#-studio-ghibili)
-- [Windows](#-windows-wallpapers)
-- [Live](#-live-wallpapers)
-- [Monitor](#-multi-monitor)
+- [Minimal](#minimalist-clean)
+- [Scenic](#scenic-customizable)
+- [Ghibili](#studio-ghibili)
+- [Windows](#windows-wallpapers)
+- [Live](#live-wallpapers)
+- [Monitor](#multi-monitor)
 - [Github](#github-pages)
 - [Collections](#wallpapers-collections)
 - [Telegram](#telegram-sources)
 - [Linux/DE](#linuxdesktop-environments-backgrounds)
-- [Other](#-other-places)
+- [Other](#other-places)
 - [Sources](#sources)
 
 ---
@@ -52,7 +52,7 @@ Help improve the mega-thread for everyone!
 
 ---
 
-### ⭕ Wallpaper Converter
+### ⭕Wallpaper Converter
 
 - ✨ [Wallpaper theme converter](https://notneelpatel.xyz/WallpaperThemeConverter/) - Convert your wallpaper default palette into any palette you like.  
 - [Dipc](https://github.com/doprz/dipc) - Convert any image/wallpaper default palette into palette you like.  
@@ -60,13 +60,13 @@ Help improve the mega-thread for everyone!
 
 ---
 
-### 🔄 Reverse Image Search
+### 🔄Reverse Image Search
 
 - [Rev Wallpaper Search](https://we-img-search.ordinall.me/) – Reverse search engine for wallpaper sources  
 
 ---
 
-### ✨ Subreddits Wallpapers
+### ✨Subreddits Wallpapers
 
 - [r/WallpaperRequests](https://www.reddit.com/r/WallpaperRequests/) – Request custom wallpapers  
 - [r/AmoledBackgrounds](https://www.reddit.com/r/Amoledbackgrounds/) - Amoled Backgrounds  
@@ -77,7 +77,7 @@ Help improve the mega-thread for everyone!
 
 ---
 
-### 🐉 Anime Wallpapers
+### 🐉Anime Wallpapers
 
 - ✨ [Anime Pictures](https://anime-pictures.net/) – High-quality 4K anime wallpapers  
 - [WallpaperWaifu](https://wallpaperwaifu.com/) – Anime-style wallpapers and packs  
@@ -86,7 +86,7 @@ Help improve the mega-thread for everyone!
 
 ---
 
-### 🐭 Small Places
+### 🐭Small Places
 
 - [Solarized Wallpapers](https://github.com/visika/solarized-wallpapers) - Solarized repo  
 - [ArchMinimal](https://github.com/LagrangianLad/arch-minimal-wallpapers) - Few wallpapers  
@@ -96,7 +96,7 @@ Help improve the mega-thread for everyone!
 
 ---
 
-### 🖼️ Specific OS  
+### 🖼️Specific OS  
 
 - [Chromecast Backgrounds](https://chromecastbg.alexmeub.com/) – Google Chromecast photo backgrounds  
 - [Xbox Wallpapers](https://www.xbox.com/en-us/wallpapers/) – Xbox-themed high-res wallpapers  
@@ -105,7 +105,7 @@ Help improve the mega-thread for everyone!
 
 ---
 
-### 🍎 Apple Only
+### 🍎Apple Only
 
 - [Mac Walls](https://goo.gl/photos/HjY1hmo6p3jfFz8a7) – Apple-inspired designs  
 - [BasicAppleBlog Wallpapers](https://basicappleguy.com/basicappleblog/category/Wallpaper) – Custom iOS/macOS style wallpapers  
@@ -113,7 +113,7 @@ Help improve the mega-thread for everyone!
 
 ---
 
-### ⚪ Minimalist Clean
+### ⚪Minimalist Clean
 
 - [Simple Desktops](https://simpledesktops.com/) – Minimalist one-object wallpapers  
 - [Minimalistic Wallpapers](https://minimalistic-wallpaper.demolab.com/) – Dynamic minimalist wallpaper  
@@ -122,21 +122,21 @@ Help improve the mega-thread for everyone!
 
 ---
 
-### 🌄 Scenic Customizable
+### 🌄Scenic Customizable
 
 - [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations) – Custom landscape artwork  
 - [CoolBackgrounds](https://coolbackgrounds.io/) – Generate abstract backgrounds and gradients  
 
 ---
 
-### 🎬 Studio Ghibli
+### 🎬Studio Ghibli
 
 - [Studio Ghibli Official](https://www.ghibli.jp/info/013772) – Official wallpapers from Studio Ghibli  
 - ✨ [Ghibli Upscaled](https://rentry.co/FMHYBase64#ghibli-upscaled) – 4K upscaled versions of Ghibli artwork  
 
 ---
 
-### 🪟 Windows Wallpapers
+### 🪟Windows Wallpapers
 
 - ✨ [Ultimate Windows Wallpack](https://rentry.co/fmhybase64#windows-wallpapers) – 4K Windows wallpapers  
 - [VSThemes](https://vsthemes.org/en/) – Windows visual styles and wallpapers  
@@ -148,7 +148,7 @@ Help improve the mega-thread for everyone!
 
 ---
 
-### 🎥✨ Live Wallpapers
+### 🎥✨Live Wallpapers
 
 - [WALLegend](https://wallegend.net/en/) – High-quality live wallpaper packs  
 - [MoeWalls](https://moewalls.com/) – Anime and aesthetic live wallpapers  
@@ -161,7 +161,7 @@ Help improve the mega-thread for everyone!
 
 ---
 
-### 👥 Multi-Monitor
+### 👥Multi-Monitor
 
 - [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) – Wallpapers for dual monitor setups  
 - [WallpapersWide](https://wallpaperswide.com/) - Wide wallpapers, choice of resolution  
@@ -169,7 +169,7 @@ Help improve the mega-thread for everyone!
 
 ---
 
-### ✨🐱 GitHub Pages
+### ✨🐱GitHub Pages
 
 - [GruvboxWallpapers](https://gruvbox-wallpapers.pages.dev/) - For Gruvbox Fans  
 - [Minimalistic Wallpapers](https://minimalistic-wallpaper.demolab.com/) – Minimalist Wallpapers  
@@ -183,14 +183,14 @@ Help improve the mega-thread for everyone!
 
 ---
 
-### 📖 Wallpapers Collections
+### 📖Wallpapers Collections
 
 - [GetWallpapers](https://getwallpapers.com/), [WallpaperTag](https://wallpapertag.com/) - Collections of wallpapers, multiple options  
 - [Wallpapers GitLab](https://gitlab.com/dwt1/wallpapers) - GitLab collection  
 
 ---
 
-### 💬 Telegram Sources
+### 💬Telegram Sources
 
 - [G_Walls](https://t.me/G_Walls) – Wallpaper drops via Telegram  
 - [Catppuccin Wallpapers](https://t.me/catppuccinwallpapers) - Reuploads of the GitHub repo  
@@ -221,7 +221,7 @@ Help improve the mega-thread for everyone!
 
 ---
 
-### 📱 Other Places
+### 📱Other Places
 
 - ✨ [HDQwalls](https://hdqwalls.com/) – 4K/8K ultra HD wallpapers  
 - ✨ [UHD Wallpaper](https://www.uhdpaper.com/) – Ultra HD categorized packs  
