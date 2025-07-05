@@ -251,4 +251,5 @@ Help make this megathread better for everyone!
   <img src="https://img.shields.io/github/license/leroiduflow/Wallsync" />
   <img src="https://img.shields.io/github/last-commit/leroiduflow/Wallsync" />
 </p>
-*© 2025 Wallsync — Created with ❤️*
+
+<p align="center"><em>© 2025 Wallsync — Created with ❤️</em></p>
