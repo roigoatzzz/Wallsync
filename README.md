@@ -111,7 +111,7 @@ Appreciate anyone help for this project!
 - Windows Spotlight Archive: (https://windows10spotlight.com/) – Daily Windows lock screen wallpapers
 - Bing Wallpaper Archive: (https://bingwallpaper.anerg.com/) – Daily Bing wallpapers archive
 - Microsoft Design: (https://microsoft.design/wallpapers/) - Official from Microsoft
-- WallpaperHub : (https://www.wallpaperhub.app/) - Windows Wallpapers Collections
+- WallpaperHub : (https://www.wallpaperhub.app/) - Official Windows Wallpapers Collections
 
 ---
 
