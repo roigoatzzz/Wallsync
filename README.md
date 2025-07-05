@@ -6,21 +6,24 @@ A curated list of wallpaper resources from across the web — for anime fans, mi
 
 ## 📂 Categories
 
-### 🔍 Wallpaper Search Engines
+### 🔍 Wallpaper Search Engines (Both Mobile and Desktop)
 - Wallhaven: (https://wallhaven.cc/) – Huge searchable database  
   ⭐ Downloader: (https://github.com/eramdam/WallbaseDirectDownloader) – 4K download support  
-  Client: (https://github.com/luisflorido/wallhaven-desktop)
 - Wallpaper Abyss: (https://wall.alphacoders.com/) – Large general-purpose wallpaper archive  
 - WallpaperCave: (https://wallpapercave.com/) – Community-contributed wallpaper database  
-- WallpapersCraft: (https://wallpaperscraft.com/) – Mobile and desktop resolutions  
+- WallpapersCraft: (https://wallpaperscraft.com/) – Mobile and desktop resolutions
+- WallpaperAccess: (https://wallpaperaccess.com/) - Mobile/Desktop 
 - VSThemes: (https://vsthemes.org/en/) – Windows visual styles and wallpapers
 
 ---
 
 ### 🔄 Reverse Image Search (Wallpaper Matching)
 - Rev Wallpaper Search: (https://we-img-search.ordinall.me/) – Reverse search engine for wallpaper sources  
+### Subreddits wallpapers
 - r/WallpaperRequests: (https://www.reddit.com/r/WallpaperRequests/) – Request custom wallpapers
-
+- r/AmoledBackgrounds: (https://www.reddit.com/r/Amoledbackgrounds/) -Amoled Backgrounds
+- r/Wallpaper: (https://www.reddit.com/r/wallpaper/) – General wallpaper sharing community
+- r/MobileWallpaper: (https://www.reddit.com/r/MobileWallpaper/) -For Smartphones/Tablets
 ---
 
 ### 🐉 Anime Wallpapers
@@ -28,6 +31,7 @@ A curated list of wallpaper resources from across the web — for anime fans, mi
 - WallpaperWaifu: (https://wallpaperwaifu.com/) – Anime-style wallpapers and packs  
 - TheOtaku: (https://theotaku.com/) – Anime fanart, wallpapers, and profiles  
 - MyLiveWallpapers: (https://mylivewallpapers.com/) – Anime live wallpapers for Windows and Android
+- 
 
 ---
 
@@ -76,8 +80,7 @@ A curated list of wallpaper resources from across the web — for anime fans, mi
 
 ---
 
-### 👥 Community & Multi-Monitor
-- r/Wallpaper: (https://www.reddit.com/r/wallpaper/) – General wallpaper sharing community  
+### 👥 Multi-Monitor 
 - DualMonitorBackgrounds: (https://www.dualmonitorbackgrounds.com/) – Wallpapers for dual monitor setups
 
 ---
@@ -86,11 +89,16 @@ A curated list of wallpaper resources from across the web — for anime fans, mi
 - Screencaps.us: (https://screencaps.us/) – High-res screengrabs from movies and shows  
 - Shot.cafe: (https://shot.cafe/) – Minimalist screencap collection
 
+### Github Pages
+- GruvboxWallpapers: (https://gruvbox-wallpapers.pages.dev/)
+- Minimalistic Wallpaper Generator: (https://minimalistic-wallpaper.demolab.com/) – Minimalist Wallpapers
+- 
+
 ---
 
-### 📱 Miscellaneous Sources
-- WallsPic: (https://wallspic.com/) – Mixed high-res wallpapers  
-- WallpaperFlare: (https://www.wallpaperflare.com/) – Massive collection of all genres  
+### 📱 Other Sources
 - ⭐ HDQwalls: (https://hdqwalls.com/) – 4K/8K ultra HD wallpapers  
-- ⭐ UHD Wallpaper: (https://www.uhdpaper.com/) – Ultra HD categorized packs  
+- ⭐ UHD Wallpaper: (https://www.uhdpaper.com/) – Ultra HD categorized packs
+- WallsPic: (https://wallspic.com/) – Mixed high-res wallpapers  
+- WallpaperFlare: (https://www.wallpaperflare.com/) – Massive collection of all genres    
 - G_Walls (Telegram): (https://t.me/G_Walls) – Wallpaper drops via Telegram
