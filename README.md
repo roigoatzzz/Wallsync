@@ -3,10 +3,32 @@
 A curated list of wallpaper resources from across the web — for anime fans, minimalists, aesthetic lovers, and anyone who wants to make their desktop look nice.
 Appreciate anyone help for this project!
 ---
+### Summary
+[Recommended](#Recommended-places)
+[Converter](#Wallpape-Converter)
+[Reverse Image Search](#Reverse-Image-Search)
+[Subreddits](#Subreddit-wallpapers)
+[Anime](#anime-wallpapers)
+[Small](#Small-places)
+[Specific](#Specific-OS)
+[Apple](#Apple-Only)
+[Minimal](#Minimalist-Clean)
+[Scenic](#Scenic-Customizable)
+[Ghibili](#Studio-Ghibili)
+[Windows](#Windows-Wallpapers)
+[Live](#Live-Wallpapers)
+[Monitor](#Mutli-Monitor)
+[Github](#Github-Pages)
+[Collections](#Wallpapers-Collections)
+[Telegram](#Telegram-Sources)
+[Linux/DE](#Linux/Desktop-Environnments-Backgrounds)
+[Other](#Other-Places)
+[Sources](#Sources)
 
+---
 ## 📂 Categories
 
-### 🔍 Recommended places to visit
+### 🔍 Recommended-places
 - ✨ Wallhaven: (https://wallhaven.cc/) – Huge searchable database  
     ✨ Downloader: (https://github.com/eramdam/WallbaseDirectDownloader) – 4K download support
 - ✨AlphaCoders: (https://alphacoders.com/) - Another big option. All platforms
@@ -15,14 +37,14 @@ Appreciate anyone help for this project!
 - WallpaperAccess: (https://wallpaperaccess.com/) - Mobile/Desktop 
 
 ---
-### ⭕Wallpaper Converter
+### ⭕ Wallpaper-Converter
 - ✨ Wallpaper theme converter: (https://notneelpatel.xyz/WallpaperThemeConverter/) - Convert your wallpaper default palette into any palette you like.
 - Dipc: (https://github.com/doprz/dipc) - Convert any image/wallpaper default palette into palette you like.
 - Gowall: (https://github.com/Achno/gowall) : - Convert images palette into your favorite one.
 
-### 🔄 Reverse Image Search (Wallpaper Matching)
+### 🔄 Reverse-Image-Search
 - Rev Wallpaper Search: (https://we-img-search.ordinall.me/) – Reverse search engine for wallpaper sources  
-### ✨Subreddits wallpapers
+### ✨ Subreddits-wallpapers
 - r/WallpaperRequests: (https://www.reddit.com/r/WallpaperRequests/) – Request custom wallpapers
 - r/AmoledBackgrounds: (https://www.reddit.com/r/Amoledbackgrounds/) - Amoled Backgrounds
 - r/Wallpaper: (https://www.reddit.com/r/wallpaper/) – General wallpaper sharing community
@@ -31,21 +53,21 @@ Appreciate anyone help for this project!
 - r/MutliWall: (https://www.reddit.com/r/multiwall/) -Community for Monitors wallpapers
 ---
 
-### 🐉 Anime Wallpapers
+### 🐉 Anime-Wallpapers
 - ✨ Anime Pictures: (https://anime-pictures.net/) – High-quality 4K anime wallpapers  
 - WallpaperWaifu: (https://wallpaperwaifu.com/) – Anime-style wallpapers and packs  
 - TheOtaku: (https://theotaku.com/wallpapers/) – Anime fanart, wallpapers, and profiles 
 - HaoWallpaper: (https://haowallpaper.com/) - Chinese
 
 ---
-### 🐭Small Places
+### 🐭Small-Places
 - Solarized Wallpapers: (https://github.com/visika/solarized-wallpapers) - Solarized repo
 - ArchMinimal: (https://github.com/LagrangianLad/arch-minimal-wallpapers) - Few wallpapers
 - Debian-HD: (https://github.com/UncleSpellbinder/Debian-HD-Wallpaper) - 5 images, 4K
 - Manjaro: (https://github.com/jaerrib/manjaro-wallpapers) - Small and old
 
 
-### 🖼️ Specific OS  
+### 🖼️ Specific-OS  
 - Chromecast Backgrounds: (https://chromecastbg.alexmeub.com/) – Google Chromecast photo backgrounds   
 - Xbox Wallpapers: (https://www.xbox.com/en-us/wallpapers/) – Xbox-themed high-res wallpapers
 
@@ -54,7 +76,7 @@ Appreciate anyone help for this project!
 - Mac Walls: (https://goo.gl/photos/HjY1hmo6p3jfFz8a7) – Apple-inspired designs  
 - BasicAppleBlog: (https://basicappleguy.com/basicappleblog/category/Wallpaper) – Custom iOS/macOS style wallpapers  
 
-### ⚪ Minimalist / Clean
+### ⚪ Minimalist-Clean
 - Simple Desktops: (https://simpledesktops.com/) – Minimalist one-object wallpapers  
 - Minimalistic Wallpapers: (https://minimalistic-wallpaper.demolab.com/) – Dynamic minimalist wallpaper 
 - Positron Dream: (https://www.positrondream.com/) – Minimalist and clean aesthetics  
@@ -62,19 +84,19 @@ Appreciate anyone help for this project!
 
 ---
 
-### 🌄 Scenic & Customizable
+### 🌄 Scenic-Customizable
 - Scenic Illustrations: (https://www.pixeltrue.com/scenic-illustrations) – Custom landscape artwork  
 - CoolBackgrounds: (https://coolbackgrounds.io/) – Generate abstract backgrounds and gradients
 
 ---
 
-### 🎬 Studio Ghibli
+### 🎬 Studio-Ghibli
 - Studio Ghibli Official: (https://www.ghibli.jp/info/013772) – Official wallpapers from Studio Ghibli  
 - ✨ Ghibli Upscaled: (https://rentry.co/FMHYBase64#ghibli-upscaled) – 4K upscaled versions of Ghibli artwork
 
 ---
 
-### 🪟 Windows-Themed Wallpapers
+### 🪟 Windows-Wallpapers
 - ✨ Ultimate Windows Wallpack: (https://rentry.co/fmhybase64#windows-wallpapers) – 4K Windows wallpapers
 - VSThemes: (https://vsthemes.org/en/) – Windows visual styles and wallpapers  
 - Windows Wallpaper Wiki: (https://windowswallpaper.miraheze.org/wiki/Main_Page) – Community-curated collection  
@@ -85,7 +107,7 @@ Appreciate anyone help for this project!
 
 ---
 
-### 🎥✨ Live Wallpapers
+### 🎥✨ Live-Wallpapers
 - WALLegend: (https://wallegend.net/en/) – High-quality live wallpaper packs  
 - MoeWalls: (https://moewalls.com/) – Anime and aesthetic live wallpapers
 - Balu: (https://www.youtube.com/@BaluRelaxingNature/videos) 4k Nature live wallpapers
@@ -102,9 +124,7 @@ Appreciate anyone help for this project!
 
 ---
 
-### 🎞️ Movie & TV Screencaps
-
-### ✨🐱Github Pages
+### ✨🐱Github-Pages
 - GruvboxWallpapers: (https://gruvbox-wallpapers.pages.dev/) - For Gruvbox Fans
 - Minimalistic Wallpapers: (https://minimalistic-wallpaper.demolab.com/) – Minimalist Wallpapers
 - NordBackgrounds: (https://github.com/dxnst/nord-backgrounds) , (https://github.com/TheGlitchh/Nord-Wallpapers/tree/master/wallpapers) - For Nord Fans
@@ -116,22 +136,15 @@ Appreciate anyone help for this project!
 - Walls: (https://github.com/orangci/walls), (https://github.com/dharmx/walls)  - Random Collections
 
 ---
-### 📖Wallpapers Collections
+### 📖Wallpapers-Collections
 - GetWallpapers: (https://getwallpapers.com/) - Collections of wallpapers, Mutliple options
 - Wallpapers: (https://gitlab.com/dwt1/wallpapers) - Gitlab collection
 
-### 📱 Other Places to visit
-- ✨ HDQwalls: (https://hdqwalls.com/) – 4K/8K ultra HD wallpapers  
-- ✨ UHD Wallpaper: (https://www.uhdpaper.com/) – Ultra HD categorized packs
-- ✨ 4k Wallpapers: (https://4kwallpapers.com/) - Mostly High-resolution
-- WallsPic: (https://wallspic.com/) – Mixed high-res wallpapers  
-- WallpaperFlare: (https://www.wallpaperflare.com/) – Massive collection of all genres
-- PixGround: (https://www.pixground.com/) -Collections of genre, Most are Ai    
-### 💬Telegram Sources
+### 💬Telegram-Sources
 - G_Walls (Telegram): (https://t.me/G_Walls) – Wallpaper drops via Telegram
 - Catppuccin Wallpapers: (https://t.me/catppuccinwallpapers) - Reuploads of the github
 
-### Linux/Desktop Environnments Backgrounds
+### Linux/Desktop-Environnments-Backgrounds
 -✨Distros: (https://github.com/LinuxKits/Distro-wallpapers) -Unofficial, but most are here
 - Archcraft: (https://github.com/archcraft-os/archcraft-wallpapers) - Official repo
 - Arch: (https://archlinux.org/packages/extra/any/archlinux-wallpaper/) - Official from wiki
@@ -147,6 +160,17 @@ Appreciate anyone help for this project!
 - Ubuntu Cinnamon: (https://github.com/ubuntucinnamon/ubuntucinnamon-wallpapers/tree/master/usr/share/backgrounds/ubuntucinnamon) - Official
 - VoidLinux: (https://github.com/oSoWoSo/Void-Wallpapers/tree/main/assets/walls) - Unofficial
 - Zorin OS 17: (https://drive.google.com/file/d/1XYFNkCi2pDdujL9QNZvkU2eqFE1U86n3/view) -Unofficial
+---
+
+### 📱 Other-Places
+- ✨ HDQwalls: (https://hdqwalls.com/) – 4K/8K ultra HD wallpapers  
+- ✨ UHD Wallpaper: (https://www.uhdpaper.com/) – Ultra HD categorized packs
+- ✨ 4k Wallpapers: (https://4kwallpapers.com/) - Mostly High-resolution
+- WallsPic: (https://wallspic.com/) – Mixed high-res wallpapers  
+- WallpaperFlare: (https://www.wallpaperflare.com/) – Massive collection of all genres
+- PixGround: (https://www.pixground.com/) -Collections of genre, Most are Ai   
+---
+
 ### 🔖Sources
 ✨FMHY: (https://fmhy.net/)
 
