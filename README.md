@@ -2,7 +2,7 @@
 
 A curated list of wallpaper resources from across the web — for anime fans, minimalists, aesthetic lovers, and anyone who wants to make their desktop look nice.
 ---
-How to Contribute
+How to Contribute?
 
 Suggestions? Add an issue or PR!
 
