@@ -13,7 +13,7 @@ Appreciate anyone help for this project!
 -[Anime](#-anime-Wallpapers)
 -[Small](#small-places)
 -[Specific](#-specific-os)
--[Apple](#-apple-only)
+-[Apple](#apple-only)
 -[Minimal](#-minimalist-clean)
 -[Scenic](#-scenic-customizable)
 -[Ghibili](#-studio-ghibili)
