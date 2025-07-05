@@ -68,6 +68,8 @@ Appreciate anyone help for this project!
 - ArchMinimal: (https://github.com/LagrangianLad/arch-minimal-wallpapers) - Few wallpapers
 - Debian-HD: (https://github.com/UncleSpellbinder/Debian-HD-Wallpaper) - 5 images, 4K
 - Manjaro: (https://github.com/jaerrib/manjaro-wallpapers) - Small and old
+- Ozan_1327: (https://www.youtube.com/@ozan_1327/videos) - 5 videos, live wallpapers
+- 
 
 
 ### 🖼️ Specific-OS  
@@ -120,6 +122,8 @@ Appreciate anyone help for this project!
 - HypnoRimaVisuals (https://www.youtube.com/@HypnoRimaVisuals/videos) - Visual effects wallpapers
 - Cosmic Orion: (https://www.youtube.com/@4KLiveWallpapers/videos) - Live Wallpapers
 - MyLiveWallpapers: (https://mylivewallpapers.com/) – Anime live wallpapers
+- DesktopHut: (https://www.desktophut.com/) -Live Wallpapers
+- 
 ---
 
 ### 👥 Multi-Monitor 
