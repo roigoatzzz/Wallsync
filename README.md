@@ -127,9 +127,8 @@ Help make this megathread better for everyone!
 <hr />
 
 ### ⚪Minimalist Clean
-
-- [Simple Desktops](https://simpledesktops.com/) – Minimalist one-object wallpapers  
-- [Minimalistic Wallpapers](https://minimalistic-wallpaper.demolab.com/) – Dynamic minimalist wallpaper  
+- ✨[Minimalistic Wallpapers](https://minimalistic-wallpaper.demolab.com/) – Dynamic minimalist wallpaper 
+- [Simple Desktops](https://simpledesktops.com/) – Minimalist one-object wallpapers
 - [Positron Dream](https://www.positrondream.com/) – Minimalist and clean aesthetics  
 - [SetAsWall](https://www.setaswall.com/) – Multiple style categories with simple UI, good quality  
 
