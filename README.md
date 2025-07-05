@@ -4,9 +4,12 @@ A curated list of wallpaper resources from across the web — for anime fans, mi
 ---
 ## How to Contribute?
 
-Suggestions? Add an issue or PR!
-
-Share your favorite wallpaper sources or tools.
+If you want to suggest a resource or fix, feel free to open an issue or submit a pull request.  
+Please follow these guidelines:  
+- Provide a clear link and short description  
+- Ensure links are safe and relevant  
+- Respect formatting for consistency  
+Thank you for helping improve this project!
 
 Help improve the mega-thread for everyone!
 ---
@@ -30,7 +33,7 @@ Help improve the mega-thread for everyone!
 -[Github](#github-pages)
 -[Collections](#wallpapers-collections)
 -[Telegram](#telegram-sources)
--[Linux/DE](#linuxdesktop-environnments-backgrounds)
+-[Linux/DE](#linuxdesktop-environments-backgrounds)
 -[Other](#-other-places)
 -[Sources](#sources)
 
