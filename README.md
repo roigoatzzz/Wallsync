@@ -11,7 +11,7 @@ Please follow these guidelines:
 - Respect formatting for consistency
 - Thank you for helping improve this project!
 
-Help improve the mega-thread for everyone!
+Help make this megathread better for everyone!
 ---
 <p align="center">✨= My Favorite Places</p>
 
