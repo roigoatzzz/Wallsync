@@ -13,7 +13,6 @@ Appreciate anyone help for this project!
 - WallpaperCave: (https://wallpapercave.com/) – Community-contributed wallpaper database  
 - WallpapersCraft: (https://wallpaperscraft.com/) – Mobile and desktop resolutions
 - WallpaperAccess: (https://wallpaperaccess.com/) - Mobile/Desktop 
-- VSThemes: (https://vsthemes.org/en/) – Good visual styles and wallpapers
 
 ---
 ### ⭕Wallpaper Converter
@@ -77,7 +76,8 @@ Appreciate anyone help for this project!
 ---
 
 ### 🪟 Windows-Themed Wallpapers
-- ✨ Ultimate Windows Wallpack: (https://rentry.co/fmhybase64#windows-wallpapers) – 4K Windows wallpapers  
+- ✨ Ultimate Windows Wallpack: (https://rentry.co/fmhybase64#windows-wallpapers) – 4K Windows wallpapers
+- VSThemes: (https://vsthemes.org/en/) – Windows visual styles and wallpapers  
 - Windows Wallpaper Wiki: (https://windowswallpaper.miraheze.org/wiki/Main_Page) – Community-curated collection  
 - Windows Spotlight Archive: (https://windows10spotlight.com/) – Daily Windows lock screen wallpapers
 - Bing Wallpaper Archive: (https://bingwallpaper.anerg.com/) – Daily Bing wallpapers archive
