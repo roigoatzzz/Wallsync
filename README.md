@@ -242,7 +242,7 @@ Help make this megathread better for everyone!
 
 🌟All the repos/websites gathered here.
 <hr />
-## Stay Connected
+## Stay Connected!!!
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/leroiduflow/Wallsync?style=social&logo=github" />
