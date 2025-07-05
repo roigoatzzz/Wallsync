@@ -8,12 +8,12 @@ If you want to suggest a resource or fix, feel free to open an issue or submit a
 Please follow these guidelines:  
 - Provide a clear link and short description  
 - Ensure links are safe and relevant  
-- Respect formatting for consistency  
-Thank you for helping improve this project!
+- Respect formatting for consistency
+- Thank you for helping improve this project!
 
 Help improve the mega-thread for everyone!
 ---
-#<h1 align="center">✨= My Favorite Places</h1>
+<h1 align="center">✨= My Favorite Places</h1>
 ---
 ### Summary
 -[Recommended](#-recommended-places)
