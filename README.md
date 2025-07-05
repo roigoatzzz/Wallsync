@@ -13,7 +13,7 @@ Please follow these guidelines:
 
 Help improve the mega-thread for everyone!
 ---
-<h1 align="center">✨= My Favorite Places</h1>
+#<h1 align="center">✨= My Favorite Places</h1>
 ---
 ### Summary
 -[Recommended](#-recommended-places)
