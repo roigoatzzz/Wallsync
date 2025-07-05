@@ -92,7 +92,7 @@ Appreciate anyone help for this project!
 - Pixground: (https://www.youtube.com/@Pixground/videos) - Live Wallpapers
 - HypnoRimaVisuals (https://www.youtube.com/@HypnoRimaVisuals/videos) - Visual effects wallpapers
 - Cosmic Orion: (https://www.youtube.com/@4KLiveWallpapers/videos) - Live Wallpapers
-- - MyLiveWallpapers: (https://mylivewallpapers.com/) – Anime live wallpapers
+- MyLiveWallpapers: (https://mylivewallpapers.com/) – Anime live wallpapers
 ---
 
 ### 👥 Multi-Monitor 
