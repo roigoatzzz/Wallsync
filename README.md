@@ -53,7 +53,8 @@ Help make this megathread better for everyone!
 - ✨ [Wallhaven](https://wallhaven.cc/) – Huge searchable database  
   ✨ [Downloader](https://github.com/eramdam/WallbaseDirectDownloader) – 4K download support  
 - ✨ [AlphaCoders](https://alphacoders.com/) - Another big option. All platforms
-- 🩷[SolidColor](https://www.solidbackgrounds.com/) - For enjoyers of empty backgrounds, Lots of colors options  
+- 🩷[SolidColor](https://www.solidbackgrounds.com/) - For enjoyers of empty backgrounds, Lots of colors options
+- 🩷[Xmple](https://xmple.com/) - Abstract Vector + Solid colors wallpaper
 - [WallpaperCave](https://wallpapercave.com/) – Community-contributed wallpaper database  
 - [WallpapersCraft](https://wallpaperscraft.com/) – Mobile and desktop resolutions  
 - [WallpaperAccess](https://wallpaperaccess.com/) - Mobile/Desktop  
@@ -240,7 +241,8 @@ Help make this megathread better for everyone!
 - ✨ [UHD Wallpaper](https://www.uhdpaper.com/) – Ultra HD categorized packs  
 - ✨ [4k Wallpapers](https://4kwallpapers.com/) - Mostly high-resolution
 - [WallpaperClan](https://wallpapers-clan.com/) -Mostly good to find what you need, Phone/Desktop
-- [WallsPic](https://wallspic.com/) – Mixed high-res wallpapers  
+- [WallsPic](https://wallspic.com/) – Mixed high-res wallpapers
+- [UHD Wallpaper](https://www.uhdpaper.com/) - 4K/8K HD wallpapers  
 - [WallpaperFlare](https://www.wallpaperflare.com/) – Massive collection of all genres  
 - [WallpaperCat](https://wallpapercat.com/) - Good collection, option for dual-screen  
 - [PixGround](https://www.pixground.com/) - Collections by genre, most AI-generated
