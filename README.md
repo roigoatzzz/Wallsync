@@ -2,7 +2,7 @@
   <img src="assets/cover.png" alt="WallSync Banner" width="100%" />
 </p>
 
-<p align="center"><strong>🎨 WallSync Megathread</strong></p>
+<h1 align="center">🎨 WallSync Megathread</h1>
 
 A curated list of wallpaper resources from across the web — for anime fans, minimalists, aesthetic lovers, and anyone who wants to make their desktop look beautiful.
 ---
