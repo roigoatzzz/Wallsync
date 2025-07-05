@@ -70,6 +70,9 @@ Appreciate anyone help for this project!
 ### 🖼️ Specific-OS  
 - Chromecast Backgrounds: (https://chromecastbg.alexmeub.com/) – Google Chromecast photo backgrounds   
 - Xbox Wallpapers: (https://www.xbox.com/en-us/wallpapers/) – Xbox-themed high-res wallpapers
+- PlayStation: (https://www.playstation.com/en-us/wallpapers/) - PlayStation-theme high res wallpapers
+- SteamDeck: (https://archive.org/details/SDDesktopWallpaper) - Archive of SD desktop mode
+- 
 
 ---
 ### 🍎Apple-Only
@@ -141,11 +144,16 @@ Appreciate anyone help for this project!
 - Wallpapers: (https://gitlab.com/dwt1/wallpapers) - Gitlab collection
 
 ### 💬Telegram-Sources
-- G_Walls (Telegram): (https://t.me/G_Walls) – Wallpaper drops via Telegram
+- G_Walls: (https://t.me/G_Walls) – Wallpaper drops via Telegram
 - Catppuccin Wallpapers: (https://t.me/catppuccinwallpapers) - Reuploads of the github
+- BestWallpapes: (https://t.me/s/bestwallpapes) - Collection of Wallpapers
+- WallpapersCentral: (https://t.me/wallpaperselection) - Official WallpaperSelection telegram, Mobile/Web
+- Amoled: (https://t.me/amoledwallpapers) - Amoled
+- Phones: (https://t.me/New_4K_Wallpapers) - Only phones
+- 
 
 ### Linux/Desktop-Environnments-Backgrounds
--✨Distros: (https://github.com/LinuxKits/Distro-wallpapers) -Unofficial, but most are here
+-✨Distros: (https://github.com/LinuxKits/Distro-wallpapers) - Unofficial, but most are here
 - Archcraft: (https://github.com/archcraft-os/archcraft-wallpapers) - Official repo
 - Arch: (https://archlinux.org/packages/extra/any/archlinux-wallpaper/) - Official from wiki
 - CachyOs: (https://github.com/CachyOS/cachyos-wallpapers) - Official repo
@@ -168,7 +176,8 @@ Appreciate anyone help for this project!
 - ✨ 4k Wallpapers: (https://4kwallpapers.com/) - Mostly High-resolution
 - WallsPic: (https://wallspic.com/) – Mixed high-res wallpapers  
 - WallpaperFlare: (https://www.wallpaperflare.com/) – Massive collection of all genres
-- PixGround: (https://www.pixground.com/) -Collections of genre, Most are Ai   
+- WallpaperCat: (https://wallpapercat.com/) - Good collection, Option for dual-screen
+- PixGround: (https://www.pixground.com/) - Collections of genre, Most are Ai   
 ---
 
 ### 🔖Sources
