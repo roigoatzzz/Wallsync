@@ -14,7 +14,6 @@ Please follow these guidelines:
 Help improve the mega-thread for everyone!
 ---
 <p align="center">✨= My Favorite Places</p>
----
 
 ### Summary
 - [Recommended](#-recommended-places)
