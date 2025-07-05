@@ -106,7 +106,6 @@ Appreciate anyone help for this project!
 ---
 
 ### 🎞️ Movie & TV Screencaps
-- Shot.cafe: (https://shot.cafe/) – Minimalist screencap collection
 
 ### ✨🐱Github Pages
 - GruvboxWallpapers: (https://gruvbox-wallpapers.pages.dev/) - For Gruvbox Fans
