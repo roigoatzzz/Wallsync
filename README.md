@@ -13,29 +13,31 @@ Please follow these guidelines:
 
 Help improve the mega-thread for everyone!
 ---
-#<h1 align="center">✨= My Favorite Places</h1>
+<p align="center">✨= My Favorite Places</p>
 ---
+
 ### Summary
--[Recommended](#-recommended-places)
--[Converter](#-wallpaper-converter)
--[Reverse Image Search](#-reverse-image-search)
--[Subreddits](#-subreddits-wallpapers)
--[Anime](#-anime-Wallpapers)
--[Small](#small-places)
--[Specific](#-specific-os)
--[Apple](#apple-only)
--[Minimal](#-minimalist-clean)
--[Scenic](#-scenic-customizable)
--[Ghibili](#-studio-ghibili)
--[Windows](#-windows-wallpapers)
--[Live](#-live-wallpapers)
--[Monitor](#-multi-monitor)
--[Github](#github-pages)
--[Collections](#wallpapers-collections)
--[Telegram](#telegram-sources)
--[Linux/DE](#linuxdesktop-environments-backgrounds)
--[Other](#-other-places)
--[Sources](#sources)
+- [Recommended](#recommended-places)
+- [Converter](#wallpaper-converter)
+- [Reverse Image Search](#reverse-image-search)
+- [Subreddits](#subreddits-wallpapers)
+- [Anime](#anime-wallpapers)
+- [Small](#small-places)
+- [Specific](#specific-os)
+- [Apple](#apple-only)
+- [Minimal](#minimalist-clean)
+- [Scenic](#scenic-customizable)
+- [Ghibli](#studio-ghibli)
+- [Windows](#windows-wallpapers)
+- [Live](#live-wallpapers)
+- [Monitor](#multi-monitor)
+- [Github](#github-pages)
+- [Collections](#wallpapers-collections)
+- [Telegram](#telegram-sources)
+- [Linux / Desktop Environments](#linux-desktop-environments-backgrounds)
+- [Other](#other-places)
+- [Sources](#sources)
+
 
 ---
 ## 📂 Categories
