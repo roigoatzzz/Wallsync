@@ -238,7 +238,7 @@ Help improve the mega-thread for everyone!
 
 🌟All the repos/websites gathered here.
 ---
-![License]((https://img.shields.io/github/license/leroiduflow/Wallsync))
+![License](https://img.shields.io/github/license/leroiduflow/Wallsync)
 ---
 ## Stay Connected
 
