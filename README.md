@@ -8,7 +8,7 @@ Suggestions? Add an issue or PR!
 
 Share your favorite wallpaper sources or tools.
 
-Help improve the mega-thread for everyone.
+Help improve the mega-thread for everyone!
 ---
 #<h1 align="center">✨= My Favorite Places</h1>
 ---
