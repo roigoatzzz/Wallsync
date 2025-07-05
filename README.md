@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="margin-bottom: 16px;">
   <img src="assets/cover.png" alt="WallSync Banner" width="100%" />
 </p>
 
@@ -245,6 +245,7 @@ Help make this megathread better for everyone!
 ## Stay Connected
 
 <p align="center">
+  <img src="https://img.shields.io/github/stars/leroiduflow/Wallsync?style=social&logo=github" />
   <img src="https://img.shields.io/github/stars/leroiduflow/Wallsync?style=social" />
   <img src="https://img.shields.io/github/forks/leroiduflow/Wallsync?style=social" />
   <img src="https://img.shields.io/github/watchers/leroiduflow/Wallsync?style=social" />
