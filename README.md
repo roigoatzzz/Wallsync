@@ -20,7 +20,7 @@ Appreciate anyone help for this project!
 -[Monitor](#-multi-monitor)
 -[Github](#github-pages)
 -[Collections](#wallpapers-collections)
--[Telegram](#-telegram-sources)
+-[Telegram](#telegram-sources)
 -[Linux/DE](#linuxdesktop-environnments-backgrounds)
 -[Other](#-other-places)
 -[Sources](#-sources)
