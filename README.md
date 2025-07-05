@@ -25,7 +25,7 @@ Appreciate anyone help for this project!
 -[Telegram](#telegram-sources)
 -[Linux/DE](#linuxdesktop-environnments-backgrounds)
 -[Other](#-other-places)
--[Sources](#-sources)
+-[Sources](#sources)
 
 ---
 ## 📂 Categories
