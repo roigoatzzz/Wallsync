@@ -1,4 +1,4 @@
-<h1 align="center">🎨 WallSync Megathread</h1>
+<p align="center"><strong>🎨 WallSync Megathread</strong></p>
 
 A curated list of wallpaper resources from across the web — for anime fans, minimalists, aesthetic lovers, and anyone who wants to make their desktop look nice.
 ---
