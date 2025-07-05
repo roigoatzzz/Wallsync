@@ -40,7 +40,7 @@ Help improve the mega-thread for everyone!
 ---
 ## 📂 Categories
 
-### 🔍 Recommended Places
+### 🔍Recommended Places
 
 - ✨ [Wallhaven](https://wallhaven.cc/) – Huge searchable database  
   ✨ [Downloader](https://github.com/eramdam/WallbaseDirectDownloader) – 4K download support  
