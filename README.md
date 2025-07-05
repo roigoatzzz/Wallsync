@@ -1,47 +1,94 @@
-# 🌌 Wallpaper Aggregator
+# 🎨 Wallpaper Aggregator
 
-A curated list of top wallpaper resources, inspired by FMHY’s “Wallpapers” index :contentReference[oaicite:1]{index=1}.
+A curated list of wallpaper resources from across the web — for anime fans, minimalists, aesthetic lovers, and anyone who wants to make their desktop look 🔥.
 
-## 🖼️ Wallpaper Resources
+---
+
+## 📂 Categories
 
 ### 🔍 Wallpaper Search Engines
-- [wallhaven.cc](https://wallhaven.cc) – Search wallpapers / downloader / client  
-- [Wallpaper Abyss](https://wall.alphacoders.com), [WallpaperCave](https://wallpapercave.com), [WallpapersCraft](https://wallpaperscraft.com), VSThemes – Wallpaper search platforms :contentReference[oaicite:2]{index=2}
+- ⭐[Wallhaven](https://wallhaven.cc/) – Huge searchable database  
+  • [Wallbase Downloader](https://github.com/eramdam/WallbaseDirectDownloader)  
+  • [Wallhaven Desktop Client](https://github.com/luisflorido/wallhaven-desktop)
+- ⭐ [Wallpaper Abyss](https://wall.alphacoders.com/)
+- ⭐ [WallpaperCave](https://wallpapercave.com/)
+- ⭐ [WallpapersCraft](https://wallpaperscraft.com/)
+- ⭐ [VSThemes](https://vsthemes.org/en/)
 
-### 🔄 Reverse Search
-- [Rev Wallpaper](https://rev.re) or r/WallpaperRequests – Reverse image search tools for wallpapers :contentReference[oaicite:3]{index=3}
+---
+
+### 🔄 Reverse Image Search (Wallpaper Matching)
+- ⭐ [Rev Wallpaper Search](https://we-img-search.ordinall.me/)
+- ⭐ [Reddit - r/WallpaperRequests](https://www.reddit.com/r/WallpaperRequests/)
+
+---
 
 ### 🎬 Studio Ghibli
-- [Studio Ghibli Wallpapers](https://github.com/) & Ghibli Upscaled – High‑quality Ghibli-themed wallpapers :contentReference[oaicite:4]{index=4}
+- ⭐ [Official Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772)
+- ⭐ [Ghibli Upscaled (Rentry)](https://rentry.co/FMHYBase64#ghibli-upscaled)
 
-### 🪟 Windows Wallpapers
-- Ultimate Windows Wallpack / Wiki, Spotlight – Collections of Windows backgrounds :contentReference[oaicite:5]{index=5}
+---
 
-### 🌄 Live Wallpapers
-- LWP, DesktopHut, /r/LivingBackgrounds, WALLegend or MoeWalls – Live wallpaper galleries :contentReference[oaicite:6]{index=6}
+### 🪟 Windows-Themed Wallpapers
+- ⭐ [Ultimate Windows Wallpack (Rentry)](https://rentry.co/fmhybase64#windows-wallpapers)
+- ⭐ [Windows Wallpaper Wiki](https://windowswallpaper.miraheze.org/wiki/Main_Page)
+- ⭐ [Windows Spotlight Archive](https://windows10spotlight.com/)
 
-### 🧑‍🤝‍🧑 Community Collections
-- /r/Wallpaper – Community‑shared wallpapers :contentReference[oaicite:7]{index=7}
-- DualMonitorBackgrounds – Dual‑monitor wallpaper gallery :contentReference[oaicite:8]{index=8}
+---
 
-### 🏞️ Scenic & Customizable
-- Scenic Illustrations – Landscape and nature art  
-- CoolBackgrounds – Customizable wallpapers :contentReference[oaicite:9]{index=9}
+### 🎥 Live Wallpapers
+- ⭐ [LWP GitHub Project](https://github.com/jszczerbinsky/lwp)
+- ⭐ [Reddit - r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds)
+- ⭐ [WALLegend](https://wallegend.net/en/)
+- ⭐ [MoeWalls](https://moewalls.com/)
 
-### ⚪ Minimalist Aesthetics
-- Simple Desktops, Minimalistic Wallpaper, Positron Dream or SetAsWall – Clean, minimal designs :contentReference[oaicite:10]{index=10}
+---
 
-### 🌸 Aesthetic & Themes
-- Aesthetic Wallpapers – Vibes, color-focused art  
-- Mac Walls or BasicAppleBlog – Apple‑inspired backgrounds :contentReference[oaicite:11]{index=11}
-- ChromecastBG – Chromecast photo backgrounds :contentReference[oaicite:12]{index=12}
-- Bing Wallpaper Archive – Daily Bing desktop wallpapers :contentReference[oaicite:13]{index=13}
-- Xbox Wallpapers – Wallpapers featuring Xbox themes :contentReference[oaicite:14]{index=14}
+### 👥 Community & Multi-Monitor
+- [Reddit - r/Wallpaper](https://www.reddit.com/r/wallpaper/) – General community
+- [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) – Dual-screen wallpapers
 
-### 🐉 Anime
-- Anime Pictures, WallpaperWaifu, TheOtaku or MyLiveWallpapers – Anime‑centric wallpaper repos :contentReference[oaicite:15]{index=15}
+---
 
-### 📱 Miscellaneous
-- WallsPic, WallpaperFlare, HDQwalls or UHD Wallpaper – Misc wallpaper sources :contentReference[oaicite:16]{index=16}
-- G_Walls – Telegram wallpaper channels :contentReference[oaicite:17]{index=17}
-- Engine Workshop File – Wallpaper Engine community wallpapers :contentReference[oaicite:18]{index=18}
+### 🌄 Scenic & Customizable
+- [Scenic Illustrations – PixelTrue](https://www.pixeltrue.com/scenic-illustrations)
+- [CoolBackgrounds.io](https://coolbackgrounds.io/) – Gradient, abstract, customizable
+
+---
+
+### ⚪ Minimalist / Clean
+- [Simple Desktops](https://simpledesktops.com/)
+- [Minimalistic Wallpaper Generator](https://minimalistic-wallpaper.demolab.com/)
+- [Positron Dream](https://www.positrondream.com/)
+- [SetAsWall](https://www.setaswall.com/)
+
+---
+
+### 🌸 Aesthetic & Themed
+- [Aesthetic Wallpapers (GitHub)](https://github.com/D3Ext/aesthetic-wallpapers)
+- [Mac Walls (Google Photos)](https://goo.gl/photos/HjY1hmo6p3jfFz8a7)
+- [BasicAppleBlog Wallpapers](https://basicappleguy.com/basicappleblog/category/Wallpaper)
+- [Chromecast Backgrounds](https://chromecastbg.alexmeub.com/)
+- [Bing Wallpaper Archive](https://bingwallpaper.anerg.com/)
+- [Xbox Wallpapers](https://www.xbox.com/en-us/wallpapers/)
+- [Screencaps.us](https://screencaps.us/) – Movie & TV stills
+- [shot.cafe](https://shot.cafe/) – HD TV and movie screencaps
+
+---
+
+### 🐉 Anime Wallpapers
+- [Anime Pictures](https://anime-pictures.net/)
+- [WallpaperWaifu](https://wallpaperwaifu.com/)
+- [TheOtaku](https://theotaku.com/)
+- [MyLiveWallpapers](https://mylivewallpapers.com/)
+
+---
+
+### 📱 Miscellaneous Sources
+- [WallsPic](https://wallspic.com/)
+- [WallpaperFlare](https://www.wallpaperflare.com/)
+- [HDQwalls](https://hdqwalls.com/)
+- [UHD Wallpaper](https://www.uhdpaper.com/)
+- [G_Walls Telegram Channel](https://t.me/G_Walls)
+
+
