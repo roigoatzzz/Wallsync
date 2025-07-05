@@ -7,7 +7,7 @@ A curated list of wallpaper resources from across the web — for anime fans, mi
 ## 📂 Categories
 
 ### 🔍 Wallpaper Search Engines
-- (wallhaven.cc)(https://wallhaven.cc/) – Huge searchable database  
+- wallhaven.cc(https://wallhaven.cc/) – Huge searchable database  
   • ⭐ (Wallbase Downloader)(https://github.com/eramdam/WallbaseDirectDownloader) – 4K download support  
   • (Wallhaven Desktop Client)(https://github.com/luisflorido/wallhaven-desktop)
 - (Wallpaper Abyss)(https://wall.alphacoders.com/)
