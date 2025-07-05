@@ -20,7 +20,7 @@ Please follow these guidelines:
 Help make this megathread better for everyone!
 <hr />
 <p align="center">✨= My Favorite Places</p>
-<p align="center">🩷= OG people</p>
+<p align="center">🩷= For simple persons</p>
 <hr />
 
 ### Summary
