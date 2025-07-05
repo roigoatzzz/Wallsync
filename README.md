@@ -142,7 +142,7 @@ Appreciate anyone help for this project!
 
 ---
 ### 📖Wallpapers-Collections
-- GetWallpapers: (https://getwallpapers.com/) - Collections of wallpapers, Mutliple options
+- GetWallpapers: (https://getwallpapers.com/), (https://wallpapertag.com/) - Collections of wallpapers, Mutliple options
 - Wallpapers: (https://gitlab.com/dwt1/wallpapers) - Gitlab collection
 
 ### 💬Telegram-Sources
