@@ -4,7 +4,8 @@
 
 <h1 align="center">🎨 WallSync Megathread</h1>
 
-A curated list of wallpaper resources from across the web — for anime fans, minimalists, aesthetic lovers, and anyone who wants to make their desktop look beautiful.
+🎨 I maintain WallSync — a huge megathread of wallpaper sites (anime, minimal, 4K, live, etc).
+If you're into desktop customization, check it out or contribute!
 Caution: Some websites may have ads; Use adblocker.
 <hr />
 ## How to Contribute?
