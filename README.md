@@ -124,11 +124,11 @@ Appreciate anyone help for this project!
 - WallsPic: (https://wallspic.com/) – Mixed high-res wallpapers  
 - WallpaperFlare: (https://www.wallpaperflare.com/) – Massive collection of all genres
 - PixGround: (https://www.pixground.com/) -Collections of genre, Most are Ai    
-### Telegram Sources
+### 💬Telegram Sources
 - G_Walls (Telegram): (https://t.me/G_Walls) – Wallpaper drops via Telegram
 - Catppuccin Wallpapers: (https://t.me/catppuccinwallpapers) - Reuploads of the github
 
 
-### Sources
+### 🔖Sources
 FMHY: (https://fmhy.net/)
 All the repos/websites gathered here.
