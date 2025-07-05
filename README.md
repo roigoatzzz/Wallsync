@@ -83,7 +83,9 @@ Appreciate anyone help for this project!
 - ✨ Ultimate Windows Wallpack: (https://rentry.co/fmhybase64#windows-wallpapers) – 4K Windows wallpapers  
 - Windows Wallpaper Wiki: (https://windowswallpaper.miraheze.org/wiki/Main_Page) – Community-curated collection  
 - Windows Spotlight Archive: (https://windows10spotlight.com/) – Daily Windows lock screen wallpapers
-- Bing Wallpaper Archive: (https://bingwallpaper.anerg.com/) – Daily Bing wallpapers archive 
+- Bing Wallpaper Archive: (https://bingwallpaper.anerg.com/) – Daily Bing wallpapers archive
+- Microsoft Design: (https://microsoft.design/wallpapers/) - Official from Microsoft
+- WallpaperHub : (https://www.wallpaperhub.app/) - Windows Wallpapers Collections
 
 ---
 
