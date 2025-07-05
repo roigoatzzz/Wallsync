@@ -34,9 +34,8 @@ Appreciate anyone help for this project!
 ### 🐉 Anime Wallpapers
 - ✨ Anime Pictures: (https://anime-pictures.net/) – High-quality 4K anime wallpapers  
 - WallpaperWaifu: (https://wallpaperwaifu.com/) – Anime-style wallpapers and packs  
-- TheOtaku: (https://theotaku.com/wallpapers/) – Anime fanart, wallpapers, and profiles  
-- MyLiveWallpapers: (https://mylivewallpapers.com/) – Anime live wallpapers for Windows and Android
-- 
+- TheOtaku: (https://theotaku.com/wallpapers/) – Anime fanart, wallpapers, and profiles 
+- HaoWallpaper: (https://haowallpaper.com/) - Chinese
 
 ---
 ### 🐭Small Places
@@ -92,7 +91,8 @@ Appreciate anyone help for this project!
 - Balu: (https://www.youtube.com/@BaluRelaxingNature/videos) 4k Nature live wallpapers
 - Pixground: (https://www.youtube.com/@Pixground/videos) - Live Wallpapers
 - HypnoRimaVisuals (https://www.youtube.com/@HypnoRimaVisuals/videos) - Visual effects wallpapers
-- Cosmic Orion: (https://www.youtube.com/@4KLiveWallpapers/videos) -Live Wallpapers
+- Cosmic Orion: (https://www.youtube.com/@4KLiveWallpapers/videos) - Live Wallpapers
+- - MyLiveWallpapers: (https://mylivewallpapers.com/) – Anime live wallpapers
 ---
 
 ### 👥 Multi-Monitor 
