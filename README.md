@@ -102,7 +102,7 @@ Help make this megathread better for everyone!
 
 ### 🐭Small Places
 
-- 🩷[ColorKit](colorkit.co/solid-color-wallpapers/) - 300 solid colors backgrounds , choice of size
+- 🩷[ColorKit](https://colorkit.co/solid-color-wallpapers/) - 300 solid colors backgrounds , choice of size
 - [Solarized Wallpapers](https://github.com/visika/solarized-wallpapers) - Solarized repo  
 - [ArchMinimal](https://github.com/LagrangianLad/arch-minimal-wallpapers) - Few wallpapers  
 - [Debian-HD](https://github.com/UncleSpellbinder/Debian-HD-Wallpaper) - 5 images, 4K  
