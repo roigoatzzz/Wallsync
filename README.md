@@ -9,7 +9,7 @@ Appreciate anyone help for this project!
 ### 🔍 Recommended places to visit
 - ✨ Wallhaven: (https://wallhaven.cc/) – Huge searchable database  
     ✨ Downloader: (https://github.com/eramdam/WallbaseDirectDownloader) – 4K download support
-- ✨AlphaCoders: (https://alphacoders.com/) -You can find here.All platforms
+- ✨AlphaCoders: (https://alphacoders.com/) - You can find here.All platforms
 - Wallpaper Abyss: (https://wall.alphacoders.com/) – Large general-purpose wallpaper archive  
 - WallpaperCave: (https://wallpapercave.com/) – Community-contributed wallpaper database  
 - WallpapersCraft: (https://wallpaperscraft.com/) – Mobile and desktop resolutions
@@ -26,9 +26,9 @@ Appreciate anyone help for this project!
 - Rev Wallpaper Search: (https://we-img-search.ordinall.me/) – Reverse search engine for wallpaper sources  
 ### ✨Subreddits wallpapers
 - r/WallpaperRequests: (https://www.reddit.com/r/WallpaperRequests/) – Request custom wallpapers
-- r/AmoledBackgrounds: (https://www.reddit.com/r/Amoledbackgrounds/) -Amoled Backgrounds
+- r/AmoledBackgrounds: (https://www.reddit.com/r/Amoledbackgrounds/) - Amoled Backgrounds
 - r/Wallpaper: (https://www.reddit.com/r/wallpaper/) – General wallpaper sharing community
-- r/MobileWallpaper: (https://www.reddit.com/r/MobileWallpaper/) -For Smartphones/Tablets
+- r/MobileWallpaper: (https://www.reddit.com/r/MobileWallpaper/) - For Smartphones/Tablets
 - r/LivingBackgrounds: (https://reddit.com/r/LivingBackgrounds) – Community of live wallpaper fans
 - r/MutliWall: (https://www.reddit.com/r/multiwall/) -Community for Monitors wallpapers
 ---
@@ -43,7 +43,7 @@ Appreciate anyone help for this project!
 ---
 ### 🐭Small Places
 - Solarized Wallpapers: (https://github.com/visika/solarized-wallpapers) - Solarized repo
-- ArchMinimal: (https://github.com/LagrangianLad/arch-minimal-wallpapers) -Few wallpapers
+- ArchMinimal: (https://github.com/LagrangianLad/arch-minimal-wallpapers) - Few wallpapers
 - Debian-HD: (https://github.com/UncleSpellbinder/Debian-HD-Wallpaper) - 5 images, 4K
 - Manjaro: (https://github.com/jaerrib/manjaro-wallpapers) - Small and old
 
@@ -143,9 +143,10 @@ Appreciate anyone help for this project!
 - Gnome: (https://zebreus.github.io/all-gnome-backgrounds/) - Gnome backgrounds, Unofficial
 - Linux-Mint: (https://github.com/rt2yrru/linux_mint_wallpaper) - Not official, But has most of them
 - OpenSuse: (https://en.opensuse.org/openSUSE:Wallpapers) - Official from wiki
+- PopOs: (https://github.com/pop-os/wallpapers/tree/master/original) - Official
 - Ubuntu Budgie: (https://github.com/UbuntuBudgie/budgie-wallpapers) - Official
 - Ubuntu Cinnamon: (https://github.com/ubuntucinnamon/ubuntucinnamon-wallpapers/tree/master/usr/share/backgrounds/ubuntucinnamon) - Official
-- VoidLinux: (https://github.com/oSoWoSo/Void-Wallpapers/tree/main/assets/walls) -Unofficial
+- VoidLinux: (https://github.com/oSoWoSo/Void-Wallpapers/tree/main/assets/walls) - Unofficial
 - Zorinos: (https://drive.google.com/file/d/1XYFNkCi2pDdujL9QNZvkU2eqFE1U86n3/view) -Unofficial
 ### 🔖Sources
 ✨FMHY: (https://fmhy.net/)
