@@ -21,6 +21,7 @@ Help make this megathread better for everyone!
 <hr />
 <p align="center">✨= My Favorite Places</p>
 <p align="center">🩷= Respect</p>
+<hr />
 
 ### Summary
 - [Recommended](#recommended-places)
