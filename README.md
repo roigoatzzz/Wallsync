@@ -202,7 +202,7 @@ Help make this megathread better for everyone!
 
 ### 💬Telegram Sources
 
-- [G_Walls](https://t.me/G_Walls) – Wallpaper drops via Telegram  
+- [G_Walls](https://t.me/G_Walls) – Wallpaper drops via Telegram, Mobile wallpapers  
 - [Catppuccin Wallpapers](https://t.me/catppuccinwallpapers) - Reuploads of the GitHub repo  
 - [BestWallpapers](https://t.me/s/bestwallpapes) - Collection of Wallpapers  
 - [WallpapersCentral](https://t.me/wallpaperselection) - Official WallpaperSelection Telegram, Mobile/Web  
