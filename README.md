@@ -81,7 +81,8 @@ Appreciate anyone help for this project!
 ---
 ### 🍎Apple-Only
 - Mac Walls: (https://goo.gl/photos/HjY1hmo6p3jfFz8a7) – Apple-inspired designs  
-- BasicAppleBlog: (https://basicappleguy.com/basicappleblog/category/Wallpaper) – Custom iOS/macOS style wallpapers  
+- BasicAppleBlog: (https://basicappleguy.com/basicappleblog/category/Wallpaper) – Custom iOS/macOS style wallpapers
+- Applescoop: (https://applescoop.org/wallpapers/) - For Iphone
 
 ### ⚪ Minimalist-Clean
 - Simple Desktops: (https://simpledesktops.com/) – Minimalist one-object wallpapers  
