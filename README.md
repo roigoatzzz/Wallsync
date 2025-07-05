@@ -22,8 +22,8 @@ Appreciate anyone help for this project!
 -[Collections](#-wallpapers-collections)
 -[Telegram](#-telegram-sources)
 -[Linux/DE](#linuxdesktop-environnments-backgrounds)
--[Other](#📱other-places)
--[Sources](#🔖sources)
+-[Other](#-other-places)
+-[Sources](#-sources)
 
 ---
 ## 📂 Categories
