@@ -24,7 +24,7 @@ Help make this megathread better for everyone!
 - [Converter](#wallpaper-converter)
 - [Reverse Image Search](#reverse-image-search)
 - [Subreddits](#subreddits-wallpapers)
-- [Anime](#anime-Wallpapers)
+- [Anime](#anime-wallpapers)
 - [Small](#small-places)
 - [Specific](#specific-os)
 - [Apple](#apple-only)
