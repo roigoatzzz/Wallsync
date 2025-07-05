@@ -52,7 +52,7 @@ Help make this megathread better for everyone!
 - [WallpaperCave](https://wallpapercave.com/) – Community-contributed wallpaper database  
 - [WallpapersCraft](https://wallpaperscraft.com/) – Mobile and desktop resolutions  
 - [WallpaperAccess](https://wallpaperaccess.com/) - Mobile/Desktop  
-- [WallpaperDen](https://wallpapersden.com/) - Resolution can be set to user's choice  
+- [WallpaperDen](https://wallpapersden.com/) - Resolution choice
 
 <hr />
 
@@ -229,7 +229,8 @@ Help make this megathread better for everyone!
 
 - ✨ [HDQwalls](https://hdqwalls.com/) – 4K/8K ultra HD wallpapers  
 - ✨ [UHD Wallpaper](https://www.uhdpaper.com/) – Ultra HD categorized packs  
-- ✨ [4k Wallpapers](https://4kwallpapers.com/) - Mostly high-resolution  
+- ✨ [4k Wallpapers](https://4kwallpapers.com/) - Mostly high-resolution
+- [WallpaperClan](https://wallpapers-clan.com/) -Mostly good to find what you need, Phone/Desktop
 - [WallsPic](https://wallspic.com/) – Mixed high-res wallpapers  
 - [WallpaperFlare](https://www.wallpaperflare.com/) – Massive collection of all genres  
 - [WallpaperCat](https://wallpapercat.com/) - Good collection, option for dual-screen  
