@@ -17,7 +17,7 @@ Appreciate anyone help for this project!
 -[Ghibili](#-studio-ghibili)
 -[Windows](#-windows-wallpapers)
 -[Live](#-live-wallpapers)
--[Monitor](#-mutli-monitor)
+-[Monitor](#-multi-monitor)
 -[Github](#github-pages)
 -[Collections](#wallpapers-collections)
 -[Telegram](#-telegram-sources)
