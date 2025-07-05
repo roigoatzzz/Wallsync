@@ -238,11 +238,13 @@ Help improve the mega-thread for everyone!
 
 🌟All the repos/websites gathered here.
 ---
-![License](https://img.shields.io/github/license/leroiduflow/Wallsync)
----
 ## Stay Connected
 
-[![GitHub stars](https://img.shields.io/github/stars/leroiduflow/Wallsync?style=social)](https://github.com/leroiduflow/Wallsync/stargazers)
-![GitHub Forks](https://img.shields.io/github/forks/leroiduflow/Wallsync?style=social)
-![GitHub Watchers](https://img.shields.io/github/watchers/leroiduflow/Wallsync?style=social)
+<p align="center">
+  <img src="https://img.shields.io/github/stars/leroiduflow/Wallsync?style=social" />
+  <img src="https://img.shields.io/github/forks/leroiduflow/Wallsync?style=social" />
+  <img src="https://img.shields.io/github/watchers/leroiduflow/Wallsync?style=social" />
+  <img src="https://img.shields.io/github/license/leroiduflow/Wallsync" />
+  <img src="https://img.shields.io/github/last-commit/leroiduflow/Wallsync" />
+</p>
 *© 2025 Wallsync — Created with ❤️*
