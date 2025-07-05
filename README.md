@@ -33,7 +33,7 @@ Help improve the mega-thread for everyone!
 - [Github](#github-pages)
 - [Collections](#wallpapers-collections)
 - [Telegram](#telegram-sources)
-- [Linux/Desktop Environments](#linuxdesktop-environments-backgrounds)
+- [Linux/Desktop Environments](#linuxdesktop--environments-backgrounds)
 - [Other](#other-places)
 - [Sources](#sources)
 
