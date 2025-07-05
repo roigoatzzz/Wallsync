@@ -158,8 +158,8 @@ Help make this megathread better for everyone!
 
 - [WALLegend](https://wallegend.net/en/) – High-quality live wallpaper packs  
 - [MoeWalls](https://moewalls.com/) – Anime and aesthetic live wallpapers  
-- [Balu - 4K Nature Live Wallpapers](https://www.youtube.com/@BaluRelaxingNature/videos)  
-- [Pixground - Live Wallpapers](https://www.youtube.com/@Pixground/videos)  
+- [Balu - 4K Nature Live Wallpapers](https://www.youtube.com/@BaluRelaxingNature/videos)  - Good quality, Nature
+- [Pixground - Live Wallpapers](https://www.youtube.com/@Pixground/videos)  - Good quality, AI
 - [HypnoRimaVisuals - Visual Effects Wallpapers](https://www.youtube.com/@HypnoRimaVisuals/videos)  
 - [Cosmic Orion - Live Wallpapers](https://www.youtube.com/@4KLiveWallpapers/videos)  
 - [MyLiveWallpapers](https://mylivewallpapers.com/) – Anime live wallpapers  
