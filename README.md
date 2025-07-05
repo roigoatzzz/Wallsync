@@ -13,7 +13,7 @@ Appreciate anyone help for this project!
 - WallpaperCave: (https://wallpapercave.com/) – Community-contributed wallpaper database  
 - WallpapersCraft: (https://wallpaperscraft.com/) – Mobile and desktop resolutions
 - WallpaperAccess: (https://wallpaperaccess.com/) - Mobile/Desktop 
-- VSThemes: (https://vsthemes.org/en/) – Windows visual styles and wallpapers
+- VSThemes: (https://vsthemes.org/en/) – Good visual styles and wallpapers
 
 ---
 ### ⭕Wallpaper Converter
