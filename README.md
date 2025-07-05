@@ -37,7 +37,7 @@ Help make this megathread better for everyone!
 - [Github](#github-pages)
 - [Collections](#wallpapers-collections)
 - [Telegram](#telegram-sources)
-- [Linux/Desktop Environments](#linux--desktop-environments-backgrounds)
+- [Linux/Desktop Environments](#linux--desktop-environments)
 - [Other](#other-places)
 - [Sources](#sources)
 
@@ -205,7 +205,7 @@ Help make this megathread better for everyone!
 
 <hr />
 
-### Linux / Desktop Environments Backgrounds
+### Linux / Desktop Environments 
 
 - ✨ [Distros Wallpapers](https://github.com/LinuxKits/Distro-wallpapers) - Unofficial, but most are here  
 - [Archcraft Wallpapers](https://github.com/archcraft-os/archcraft-wallpapers) - Official repo  
