@@ -36,7 +36,8 @@ Appreciate anyone help for this project!
 - ✨AlphaCoders: (https://alphacoders.com/) - Another big option. All platforms
 - WallpaperCave: (https://wallpapercave.com/) – Community-contributed wallpaper database  
 - WallpapersCraft: (https://wallpaperscraft.com/) – Mobile and desktop resolutions
-- WallpaperAccess: (https://wallpaperaccess.com/) - Mobile/Desktop 
+- WallpaperAccess: (https://wallpaperaccess.com/) - Mobile/Desktop
+- WallpaperDen: (https://wallpapersden.com/) - Resolution can be set to user's choice
 
 ---
 ### ⭕ Wallpaper-Converter
@@ -74,7 +75,6 @@ Appreciate anyone help for this project!
 - Xbox Wallpapers: (https://www.xbox.com/en-us/wallpapers/) – Xbox-themed high-res wallpapers
 - PlayStation: (https://www.playstation.com/en-us/wallpapers/) - PlayStation-theme high res wallpapers
 - SteamDeck: (https://archive.org/details/SDDesktopWallpaper) - Archive of SD desktop mode
-- 
 
 ---
 ### 🍎Apple-Only
