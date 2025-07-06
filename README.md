@@ -74,9 +74,10 @@ Help make this megathread better for everyone!
 <hr />
 
 ### 🔄Reverse Image Search
-- ✨[Search by Image](https://github.com/dessant/search-by-image) -Good addon to search images
+- ✨[Search by Image](https://github.com/dessant/search-by-image) - Good addon to search images
 - [Google Images](https://images.google.com/) ,[Bing Images](https://www.bing.com/images/) -  Images search
 - [Yandex Images](https://yandex.com/images/) - Good reverse image search,sometimes better then google and bing.
+- [Tineye](https://tineye.com/) - Good alternative, Can filter well.
 - [Rev Wallpaper Search](https://we-img-search.ordinall.me/) – Reverse search engine for wallpaper sources , Steam-Only
 
 <hr />
