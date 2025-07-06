@@ -98,7 +98,7 @@ Help make this megathread better for everyone!
 - ✨ [Anime Pictures](https://anime-pictures.net/) – High-quality 4K anime wallpapers  
 - [WallpaperWaifu](https://wallpaperwaifu.com/) – Anime-style wallpapers and packs  
 - [TheOtaku](https://theotaku.com/wallpapers/) – Anime fanart, wallpapers, and profiles  
-- [HaoWallpaper](https://haowallpaper.com/) - Chinese wallpapers  
+- [HaoWallpaper](https://haowallpaper.com/) - Chinese wallpapers , Use Translation
 
 <hr />
 
