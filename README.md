@@ -224,7 +224,7 @@ Help make this megathread better for everyone!
 - [Archcraft Wallpapers](https://github.com/archcraft-os/archcraft-wallpapers) - Official repo  
 - [Arch Linux Wallpapers](https://archlinux.org/packages/extra/any/archlinux-wallpaper/) - Official from wiki  
 - [CachyOS Wallpapers](https://github.com/CachyOS/cachyos-wallpapers) - Official repo  
-- [Deepin Wallpapers](https://github.com/linuxdeepin/deepin-wallpapers) - Unofficial  
+- [Deepin Wallpapers](https://github.com/linuxdeepin/deepin-wallpapers) - Official  
 - [EndeavourOS Community Wallpapers](https://github.com/EndeavourOS-Community-Editions/Community-wallpapers) - Official repo  
 - [Fedora Wallpapers](https://fedoraproject.org/wiki/Wallpapers) - Default ones for each release  
 - [Gnome Backgrounds](https://zebreus.github.io/all-gnome-backgrounds/) - Unofficial  
