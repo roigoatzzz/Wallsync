@@ -244,8 +244,7 @@ Help make this megathread better for everyone!
 - ✨ [UHD Wallpaper](https://www.uhdpaper.com/) – Ultra HD categorized packs  
 - ✨ [4k Wallpapers](https://4kwallpapers.com/) - Mostly high-resolution
 - [WallpaperClan](https://wallpapers-clan.com/) -Mostly good to find what you need, Phone/Desktop
-- [WallsPic](https://wallspic.com/) – Mixed high-res wallpapers
-- [UHD Wallpaper](https://www.uhdpaper.com/) - 4K/8K HD wallpapers  
+- [WallsPic](https://wallspic.com/) – Mixed high-res wallpapers 
 - [WallpaperFlare](https://www.wallpaperflare.com/) – Massive collection of all genres  
 - [WallpaperCat](https://wallpapercat.com/) - Good collection, option for dual-screen  
 - [PixGround](https://www.pixground.com/) - Collections by genre, most AI-generated
