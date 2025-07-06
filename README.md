@@ -202,7 +202,8 @@ Help make this megathread better for everyone!
 
 ### 📖Wallpapers Collections
 
-- [GetWallpapers](https://getwallpapers.com/), [WallpaperTag](https://wallpapertag.com/) - Collections of wallpapers, multiple options  
+- [GetWallpapers](https://getwallpapers.com/), [WallpaperTag](https://wallpapertag.com/) - Collections of wallpapers, multiple options
+- [lwallpapers](https://wallpaper.castorisdead.xyz/) - Collection of 900 desktop wallpapers , preview+download  
 - [Wallpapers GitLab](https://gitlab.com/dwt1/wallpapers) - GitLab collection  
 
 <hr />
@@ -231,12 +232,15 @@ Help make this megathread better for everyone!
 - [EndeavourOS Community Wallpapers](https://github.com/EndeavourOS-Community-Editions/Community-wallpapers) - Official repo  
 - [Fedora Wallpapers](https://fedoraproject.org/wiki/Wallpapers) - Default ones for each release  
 - [Gnome Backgrounds](https://zebreus.github.io/all-gnome-backgrounds/) - Unofficial  
-- [Linux Mint Wallpapers](https://github.com/rt2yrru/linux_mint_wallpaper) - Not official, but has most of them  
+- [Linux Mint Wallpapers](https://github.com/rt2yrru/linux_mint_wallpaper) - Not official, but has most of them
+- [MX Linux](https://github.com/MX-Linux/mx21-artwork/tree/main/backgrounds) - Official from repo 
 - [OpenSUSE Wallpapers](https://en.opensuse.org/openSUSE:Wallpapers) - Official from wiki  
 - [Pop!_OS Wallpapers](https://github.com/pop-os/wallpapers/tree/master/original) - Official
-- [Solus](https://github.com/getsolus/artwork/tree/master/backgrounds) - Official repo  
+- [Solus](https://github.com/getsolus/artwork/tree/master/backgrounds) - Official repo
+- [Tuxedo OS](https://github.com/tuxedocomputers/wallpapers) - Official repo  
 - [Ubuntu Budgie Wallpapers](https://github.com/UbuntuBudgie/budgie-wallpapers) - Official  
-- [Ubuntu Cinnamon Wallpapers](https://github.com/ubuntucinnamon/ubuntucinnamon-wallpapers/tree/master/usr/share/backgrounds/ubuntucinnamon) - Official  
+- [Ubuntu Cinnamon Wallpapers](https://github.com/ubuntucinnamon/ubuntucinnamon-wallpapers/tree/master/usr/share/backgrounds/ubuntucinnamon) - Official
+- [Vanilla OS](https://github.com/Vanilla-OS/vanilla-backgrounds) - Official , only webp/svg images , use image converter if needed  
 - [VoidLinux Wallpapers](https://github.com/oSoWoSo/Void-Wallpapers/tree/main/assets/walls) - Unofficial  
 - [Zorin OS 17 Wallpapers](https://drive.google.com/file/d/1XYFNkCi2pDdujL9QNZvkU2eqFE1U86n3/view) - Unofficial  
 
