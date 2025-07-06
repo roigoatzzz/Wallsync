@@ -108,8 +108,7 @@ Help make this megathread better for everyone!
 - 🩷[ColorKit](https://colorkit.co/solid-color-wallpapers/) - 300 solid colors backgrounds , choice of size , 4K
 - [Solarized Wallpapers](https://github.com/visika/solarized-wallpapers) - Solarized repo  
 - [ArchMinimal](https://github.com/LagrangianLad/arch-minimal-wallpapers) - Few wallpapers  
-- [Debian-HD](https://github.com/UncleSpellbinder/Debian-HD-Wallpaper) - 5 images, 4K  
-- [Manjaro](https://github.com/jaerrib/manjaro-wallpapers) - Small and old  
+- [Debian-HD](https://github.com/UncleSpellbinder/Debian-HD-Wallpaper) - 5 images, 4K   
 - [Ozan_1327 YouTube](https://www.youtube.com/@ozan_1327/videos) - 5 videos, live wallpapers  
 
 <hr />
@@ -234,7 +233,8 @@ Help make this megathread better for everyone!
 - [Gnome Backgrounds](https://zebreus.github.io/all-gnome-backgrounds/) - Unofficial  
 - [Linux Mint Wallpapers](https://github.com/rt2yrru/linux_mint_wallpaper) - Not official, but has most of them  
 - [OpenSUSE Wallpapers](https://en.opensuse.org/openSUSE:Wallpapers) - Official from wiki  
-- [Pop!_OS Wallpapers](https://github.com/pop-os/wallpapers/tree/master/original) - Official  
+- [Pop!_OS Wallpapers](https://github.com/pop-os/wallpapers/tree/master/original) - Official
+- [Solus](https://github.com/getsolus/artwork/tree/master/backgrounds) - Official repo  
 - [Ubuntu Budgie Wallpapers](https://github.com/UbuntuBudgie/budgie-wallpapers) - Official  
 - [Ubuntu Cinnamon Wallpapers](https://github.com/ubuntucinnamon/ubuntucinnamon-wallpapers/tree/master/usr/share/backgrounds/ubuntucinnamon) - Official  
 - [VoidLinux Wallpapers](https://github.com/oSoWoSo/Void-Wallpapers/tree/main/assets/walls) - Unofficial  
