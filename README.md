@@ -58,7 +58,7 @@ Help make this megathread better for everyone!
 - [WallpaperCave](https://wallpapercave.com/) – Community-contributed wallpaper database  
 - [WallpapersCraft](https://wallpaperscraft.com/) – Mobile and desktop resolutions  
 - [WallpaperAccess](https://wallpaperaccess.com/) - Mobile/Desktop  
-- [WallpaperDen](https://wallpapersden.com/) - Resolution choice
+- [WallpaperDen](https://wallpapersden.com/) - Good quality ,Resolution choice
 
 <hr />
 
