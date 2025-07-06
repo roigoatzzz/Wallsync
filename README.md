@@ -214,9 +214,10 @@ Help make this megathread better for everyone!
 - [G_Walls](https://t.me/G_Walls) – Wallpaper drops via Telegram, Mobile wallpapers  
 - [Catppuccin Wallpapers](https://t.me/catppuccinwallpapers) - Reuploads of the GitHub repo  
 - [BestWallpapers](https://t.me/s/bestwallpapes) - Collection of Wallpapers  
-- [WallpapersCentral](https://t.me/wallpaperselection) - Official WallpaperSelection Telegram, Mobile/Web  
+- [WallpapersCentral](https://t.me/wallpaperselection) - Official Wallpaper Selection Telegram, Mobile/Web  
 - [Amoled](https://t.me/amoledwallpapers) - Amoled wallpapers  
-- [Phones](https://t.me/New_4K_Wallpapers) - Only phone wallpapers  
+- [Phones](https://t.me/New_4K_Wallpapers) - Only phone wallpapers
+- [DesktopWallpapers](https://t.me/desktopwallpapers) - For desktop only  
 
 <hr />
 
