@@ -215,7 +215,7 @@ Help make this megathread better for everyone!
 - [Catppuccin Wallpapers](https://t.me/catppuccinwallpapers) - Reuploads of the GitHub repo  
 - [BestWallpapers](https://t.me/s/bestwallpapes) - Collection of Wallpapers  
 - [WallpapersCentral](https://t.me/wallpaperselection) - Official Wallpaper Selection Telegram, Mobile/Web  
-- [Amoled](https://t.me/amoledwallpapers) - Amoled wallpapers  
+- [Amoled](https://t.me/amoledwallpapers) - Amoled wallpapers , only phone
 - [Phones](https://t.me/New_4K_Wallpapers) - Only phone wallpapers
 - [DesktopWallpapers](https://t.me/desktopwallpapers) - For desktop only  
 
