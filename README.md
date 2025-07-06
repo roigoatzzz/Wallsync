@@ -67,8 +67,7 @@ Help make this megathread better for everyone!
 - ✨[Repallette](https://ziap.github.io/repalette/) - A lot of palettes conversion options.
 - ✨ [Wallpaper theme converter](https://notneelpatel.xyz/WallpaperThemeConverter/) - Convert your wallpaper default palette into any palette you like.
 - ✨[Wallrice](https://www.wallrice.xyz/) - Small utility to change palettes of your wallpapers.
-- [Dipc](https://github.com/doprz/dipc) - Convert any image/wallpaper default palette into palette you like.  
-- [Gowall](https://github.com/Achno/gowall) - Convert images palette into your favorite one.
+- [Dipc](https://github.com/doprz/dipc) - Convert any image/wallpaper default palette into palette you like. 
 
 
 <hr />
