@@ -88,6 +88,7 @@ Help make this megathread better for everyone!
 - [r/Wallpaper](https://www.reddit.com/r/wallpaper/) – General wallpaper sharing community  
 - [r/MobileWallpaper](https://www.reddit.com/r/MobileWallpaper/) - For mobile devices
 - [r/iWallpaper](https://www.reddit.com/r/iWallpaper/) - For mobile devices
+- [r/iphonewallpapers](https://www.reddit.com/r/iphonewallpapers/) - For mobile devices (iphone specifically)
 - [r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds) – Community of live wallpaper fans  
 - [r/MultiWall](https://www.reddit.com/r/multiwall/) - Community for Monitors wallpapers
 - [r/animewallpapers](https://www.reddit.com/r/Animewallpaper/) - Community for anime wallpapers , all platforms+animated+collections , Have  NSFW images⚠️
