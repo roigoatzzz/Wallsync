@@ -149,7 +149,7 @@ Help make this megathread better for everyone!
 
 ### 🎬Studio Ghibli
 
-- [Studio Ghibli Official](https://www.ghibli.jp/info/013772) – Official wallpapers from Studio Ghibli  
+- [Studio Ghibli Official](https://www.ghibli.jp/info/013772) – Official wallpapers from Studio Ghibli , Use translation if needed 
 - ✨ [Ghibli Upscaled](https://rentry.co/FMHYBase64#ghibli-upscaled) – 4K upscaled versions of Ghibli artwork  
 
 <hr />
