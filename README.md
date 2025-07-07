@@ -112,7 +112,7 @@ Help make this megathread better for everyone!
 - [ArchMinimal](https://github.com/LagrangianLad/arch-minimal-wallpapers) - Few wallpapers  
 - [Debian-HD](https://github.com/UncleSpellbinder/Debian-HD-Wallpaper) - 5 images, 4K   
 - [Ozan_1327 YouTube](https://www.youtube.com/@ozan_1327/videos) - 5 videos, live wallpapers
-- [Wallpaperxverse](https://t.me/s/wallpaperxverse) - Telegram channel, few wallpapers
+- [Wallpaperxverse](https://t.me/s/wallpaperxverse) - Telegram channel, few wallpapers, phone only
 
 <hr />
 
@@ -220,10 +220,7 @@ Help make this megathread better for everyone!
 - [Amoled](https://t.me/amoledwallpapers) - Amoled wallpapers , only phone
 - [WallpaperHeaven](https://t.me/wallpaper_heaven19) - all devices
 - [AHSRIR](https://t.me/animewallpapers106) - Anime , phone only
-- [DropMyWall](https://t.me/dropmywall) - 4K, phone-only
-- [Iconic](https://t.me/IconicWallpaperPremium) - Phone only
-- [Wallpapers](https://t.me/wall69papers) - Phone only
-- [Phones](https://t.me/New_4K_Wallpapers) - Phone only
+- [DropMyWall](https://t.me/dropmywall)- [Iconic](https://t.me/IconicWallpaperPremium)  [Wallpapers](https://t.me/wall69papers) [Phones](https://t.me/New_4K_Wallpapers) - 4K, phone-only 
 - [ImanCraft](https://t.me/imancrafft) - islamic wallpapers, phone only
 - [DesktopWallpapers](https://t.me/desktopwallpapers) - For desktop only  
 
