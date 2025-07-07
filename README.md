@@ -91,7 +91,7 @@ Help make this megathread better for everyone!
 - [r/iphonewallpapers](https://www.reddit.com/r/iphonewallpapers/) - For mobile devices (iphone specifically)
 - [r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds) – Community of live wallpaper fans  
 - [r/MultiWall](https://www.reddit.com/r/multiwall/) - Community for Monitors wallpapers
-- [r/animewallpapers](https://www.reddit.com/r/Animewallpaper/) - Community for anime wallpapers , all platforms+animated+collections , Have NSFW images⚠️
+- [r/animewallpapers](https://www.reddit.com/r/Animewallpaper/) - Community for anime wallpapers , all platforms, Have NSFW images⚠️
 
 <hr />
 
