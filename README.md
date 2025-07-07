@@ -111,7 +111,8 @@ Help make this megathread better for everyone!
 - [Solarized Wallpapers](https://github.com/visika/solarized-wallpapers) - Solarized repo  
 - [ArchMinimal](https://github.com/LagrangianLad/arch-minimal-wallpapers) - Few wallpapers  
 - [Debian-HD](https://github.com/UncleSpellbinder/Debian-HD-Wallpaper) - 5 images, 4K   
-- [Ozan_1327 YouTube](https://www.youtube.com/@ozan_1327/videos) - 5 videos, live wallpapers  
+- [Ozan_1327 YouTube](https://www.youtube.com/@ozan_1327/videos) - 5 videos, live wallpapers
+- [Wallpaperxverse](https://t.me/s/wallpaperxverse) - Telegram channel, few wallpapers
 
 <hr />
 
@@ -214,9 +215,16 @@ Help make this megathread better for everyone!
 - [G_Walls](https://t.me/G_Walls) – Wallpaper drops via Telegram, Mobile wallpapers  
 - [Catppuccin Wallpapers](https://t.me/catppuccinwallpapers) - Reuploads of the GitHub repo  
 - [BestWallpapers](https://t.me/s/bestwallpapes) - Collection of Wallpapers  
-- [WallpapersCentral](https://t.me/wallpaperselection) - Official Wallpaper Selection Telegram, Mobile/Web  
+- [WallpapersCentral](https://t.me/wallpaperselection) - Official Wallpaper Selection Telegram, Mobile/Web
+- [Deer](https://t.me/wpr_13) - Wallpapers PC/Phone , nature + aesthetic 
 - [Amoled](https://t.me/amoledwallpapers) - Amoled wallpapers , only phone
-- [Phones](https://t.me/New_4K_Wallpapers) - Only phone wallpapers
+- [WallpaperHeaven](https://t.me/wallpaper_heaven19) - all devices
+- [AHSRIR](https://t.me/animewallpapers106) - Anime , phone only
+- [DropMyWall](https://t.me/dropmywall) - 4K, phone-only
+- [Iconic](https://t.me/IconicWallpaperPremium) - Phone only
+- [Wallpapers](https://t.me/wall69papers) - Phone only
+- [Phones](https://t.me/New_4K_Wallpapers) - Phone only
+- [ImanCraft](https://t.me/imancrafft) - islamic wallpapers, phone only
 - [DesktopWallpapers](https://t.me/desktopwallpapers) - For desktop only  
 
 <hr />
