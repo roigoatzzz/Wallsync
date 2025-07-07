@@ -12,7 +12,8 @@ Caution: Some websites may have ads; Use adblocker.
 
 If you want to suggest a resource or fix, feel free to open an issue or submit a pull request.  
 Please follow these guidelines:  
-- Provide a clear link and short description  
+- Provide a clear link and short description
+- If anyone want to become collaborator, you can ask.  
 - Ensure links are safe and relevant  
 - Respect formatting for consistency
 - Thank you for helping improve this project!
