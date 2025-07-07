@@ -231,7 +231,8 @@ Help make this megathread better for everyone!
 -  ✨[Archpapers](https://github.com/connorslade/ArchPapers) - Unofficial CLI tool to create your own arch wallpaper 
 - [CachyOS Wallpapers](https://github.com/CachyOS/cachyos-wallpapers) - Official repo  
 - [Deepin Wallpapers](https://github.com/linuxdeepin/deepin-wallpapers) - Official  
-- [EndeavourOS Community Wallpapers](https://github.com/EndeavourOS-Community-Editions/Community-wallpapers) - Official repo  
+- [EndeavourOS Community Wallpapers](https://github.com/EndeavourOS-Community-Editions/Community-wallpapers) - Official repo
+-   [Eos HD collection](https://github.com/UncleSpellbinder/EndeavourOS-HD-Wallpaper) - Unofficial, HD collection  
 - [Fedora Wallpapers](https://fedoraproject.org/wiki/Wallpapers) - Default ones for each release  
 - [Gnome Backgrounds](https://zebreus.github.io/all-gnome-backgrounds/) - Unofficial  
 - [Linux Mint Wallpapers](https://github.com/rt2yrru/linux_mint_wallpaper) - Not official, but has most of them
