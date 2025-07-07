@@ -211,8 +211,7 @@ Help make this megathread better for everyone!
 <hr />
 
 ### 💬Telegram Sources
-
-- [G_Walls](https://t.me/G_Walls) – Wallpaper drops via Telegram, Mobile wallpapers  
+  
 - [Catppuccin Wallpapers](https://t.me/catppuccinwallpapers) - Reuploads of the GitHub repo  
 - [BestWallpapers](https://t.me/s/bestwallpapes) - Collection of Wallpapers  
 - [WallpapersCentral](https://t.me/wallpaperselection) - Official Wallpaper Selection Telegram, Mobile/Web
@@ -220,7 +219,7 @@ Help make this megathread better for everyone!
 - [Amoled](https://t.me/amoledwallpapers) - Amoled wallpapers , only phone
 - [WallpaperHeaven](https://t.me/wallpaper_heaven19) - all devices
 - [AHSRIR](https://t.me/animewallpapers106) - Anime , phone only
-- [DropMyWall](https://t.me/dropmywall), [Iconic](https://t.me/IconicWallpaperPremium), [Wallpapers](https://t.me/wall69papers), [Phones](https://t.me/New_4K_Wallpapers) - 4K, phone-only 
+- [G_Walls](https://t.me/G_Walls),[DropMyWall](https://t.me/dropmywall), [Iconic](https://t.me/IconicWallpaperPremium),[Wallpapers](https://t.me/wall69papers),[Phones](https://t.me/New_4K_Wallpapers) - 4K, phone-only 
 - [ImanCraft](https://t.me/imancrafft) - islamic wallpapers, phone only
 - [DesktopWallpapers](https://t.me/desktopwallpapers) - For desktop only  
 
