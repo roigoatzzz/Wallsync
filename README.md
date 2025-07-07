@@ -190,7 +190,6 @@ Help make this megathread better for everyone!
 ### ✨🐱GitHub Pages
 
 - [GruvboxWallpapers](https://gruvbox-wallpapers.pages.dev/) - For Gruvbox Fans  
-- [Minimalistic Wallpapers](https://minimalistic-wallpaper.demolab.com/) – Minimalist Wallpapers  
 - [NordBackgrounds](https://github.com/dxnst/nord-backgrounds), [Nord Wallpapers](https://github.com/TheGlitchh/Nord-Wallpapers/tree/master/wallpapers) - For Nord Fans  
 - [Aesthetic Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) – Curated aesthetic wallpapers, Web-App available  
 - [Dracula Wallpapers](https://github.com/dracula/wallpaper), [Helpotters Dracula Wallpapers](https://github.com/helpotters/dracula-wallpapers) - For Dracula Fans  
