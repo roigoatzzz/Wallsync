@@ -206,7 +206,8 @@ Help make this megathread better for everyone!
 
 - [GetWallpapers](https://getwallpapers.com/), [WallpaperTag](https://wallpapertag.com/) - Collections of wallpapers, multiple options
 - [lwallpapers](https://wallpaper.castorisdead.xyz/) - Collection of 900 desktop wallpapers , preview+download  
-- [Wallpapers GitLab](https://gitlab.com/dwt1/wallpapers) - GitLab collection  
+- [Wallpapers GitLab](https://gitlab.com/dwt1/wallpapers) - GitLab collection
+- [Mix](https://photos.app.goo.gl/h2eM1Bw1xGomqXmt9) - Google Photos Collection  
 
 <hr />
 
