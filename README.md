@@ -233,7 +233,8 @@ Help make this megathread better for everyone!
 - [Archcraft Wallpapers](https://github.com/archcraft-os/archcraft-wallpapers) - Official repo  
 - [Arch Linux Wallpapers](https://archlinux.org/packages/extra/any/archlinux-wallpaper/) - Official from packages
 -  ✨[Archpapers](https://github.com/connorslade/ArchPapers) - Unofficial CLI tool to create your own arch wallpaper 
-- [CachyOS Wallpapers](https://github.com/CachyOS/cachyos-wallpapers) - Official repo  
+- [CachyOS Wallpapers](https://github.com/CachyOS/cachyos-wallpapers) - Official repo
+- [Debian Wallpapers](https://www.debugpoint.com/default-debian-wallpapers-gallery/) - Unofficial, Default each version, few missing.  
 - [Deepin Wallpapers](https://github.com/linuxdeepin/deepin-wallpapers) - Official  
 - [EndeavourOS Community Wallpapers](https://github.com/EndeavourOS-Community-Editions/Community-wallpapers) - Official repo
 -   [Eos HD collection](https://github.com/UncleSpellbinder/EndeavourOS-HD-Wallpaper) - Unofficial, HD collection  
