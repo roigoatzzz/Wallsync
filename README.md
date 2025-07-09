@@ -178,7 +178,7 @@ Help make this megathread better for everyone!
 - [HypnoRimaVisuals - Visual Effects Wallpapers](https://www.youtube.com/@HypnoRimaVisuals/videos)  
 - [Cosmic Orion - Live Wallpapers](https://www.youtube.com/@4KLiveWallpapers/videos)  
 - [MyLiveWallpapers](https://mylivewallpapers.com/) – Anime live wallpapers  
-- [DesktopHut](https://www.desktophut.com/) - Live Wallpapers
+- [DesktopHut](https://www.desktophut.com/) - Live Wallpapers, Cross-Platform
 - [Wallsflow](https://wallsflow.com/) - Desktop only, Ask to disable adblocker, 15 seconds waiting
 - [Wallshub](https://wallshub.com/) - Desktop only, 60 seconds waiting  
 
