@@ -151,13 +151,13 @@ Help make this megathread better for everyone!
 ### 🎬Studio Ghibli
 
 - [Studio Ghibli Official](https://www.ghibli.jp/info/013772) – Official wallpapers from Studio Ghibli , Use translation if needed 
-- ✨ [Ghibli Upscaled](https://rentry.co/FMHYBase64#ghibli-upscaled) – 4K upscaled versions of Ghibli artwork  
+- ✨ [Ghibli Upscaled](https://rentry.co/FMHYBase64#ghibli-upscaled) – 4K upscaled versions of Ghibli artwork , Base64 decoder needed
 
 <hr />
 
 ### 🪟Windows Wallpapers
 
-- ✨ [Ultimate Windows Wallpack](https://rentry.co/fmhybase64#windows-wallpapers) – 4K Windows wallpapers  
+- ✨ [Ultimate Windows Wallpack](https://rentry.co/fmhybase64#windows-wallpapers) – 4K Windows wallpapers , base64 decoder needed
 - [VSThemes](https://vsthemes.org/en/) – Windows visual styles and wallpapers  
 - [Windows Wallpaper Wiki](https://windowswallpaper.miraheze.org/wiki/Main_Page) – Community-curated collection  
 - [Windows Spotlight Archive](https://windows10spotlight.com/) – Daily Windows lock screen wallpapers  
