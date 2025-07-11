@@ -212,7 +212,7 @@ Help make this megathread better for everyone!
 - [GetWallpapers](https://getwallpapers.com/), [WallpaperTag](https://wallpapertag.com/) , [Dog](https://wallpaper.dog/) - Collections of wallpapers, multiple options
 - [lwallpapers](https://wallpaper.castorisdead.xyz/) - Collection of 900 desktop wallpapers , preview+download  
 - [Wallpapers GitLab](https://gitlab.com/dwt1/wallpapers) - GitLab collection
-- [Mix](https://photos.app.goo.gl/h2eM1Bw1xGomqXmt9) [2](https://drive.google.com/drive/folders/0B-9Li62rpt59dXYtNmhVRFRnaXc?resourcekey=0-_YwGtwDOc3jMCaP5grgS9w&usp=drive_link) - Google Photos Collection  
+- [Mix](https://photos.app.goo.gl/h2eM1Bw1xGomqXmt9), [2](https://drive.google.com/drive/folders/0B-9Li62rpt59dXYtNmhVRFRnaXc?resourcekey=0-_YwGtwDOc3jMCaP5grgS9w&usp=drive_link) - Google Photos Collection  
 
 <hr />
 
