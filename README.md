@@ -261,7 +261,8 @@ Help make this megathread better for everyone!
 ### 📱Other Places
 
 - ✨ [HDQwalls](https://hdqwalls.com/) – 4K/8K ultra HD wallpapers  
-- ✨ [UHD Wallpaper](https://www.uhdpaper.com/) – Ultra HD categorized packs  
+- ✨ [UHD Wallpaper](https://www.uhdpaper.com/) – Ultra HD categorized packs
+- ✨ [WallpaperCam](https://www.wallpaper.cam/) - 4K/8k wallpapers , desktop/phone 
 - ✨ [4k Wallpapers](https://4kwallpapers.com/) - Mostly high-resolution
 - [WallpaperClan](https://wallpapers-clan.com/) - Mostly good to find what you need, Phone/Desktop
 - [Wallscloud](https://wallscloud.net/en) - Good quality, choice of resolution
