@@ -203,7 +203,7 @@ Help make this megathread better for everyone!
 - [NordBackgrounds](https://github.com/dxnst/nord-backgrounds), [Nord Wallpapers](https://github.com/TheGlitchh/Nord-Wallpapers/tree/master/wallpapers) - For Nord Fans  
 - [Aesthetic Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) – Curated aesthetic wallpapers, Web-App available  
 - [Dracula Wallpapers](https://github.com/dracula/wallpaper), [Helpotters Dracula Wallpapers](https://github.com/helpotters/dracula-wallpapers) - For Dracula Fans  
-- [Catppuccin Wallpapers](https://github.com/orangci/walls-catppuccin-mocha) - For Catppuccin lovers  
+- [Catppuccin Wallpapers](https://github.com/orangci/walls-catppuccin-mocha) , [2](https://github.com/ashish0kumar/windots/tree/main/walls) - For Catppuccin lovers  
 - [Onedark Wallpapers](https://github.com/Narmis-E/onedark-wallpapers) - Only Onedark wallpapers  
 - [TokyoNight Wallpapers](https://github.com/tokyo-night/wallpapers) - For TokyoNight fans  
 - [Walls Collections](https://github.com/orangci/walls), [Walls Collections 2](https://github.com/dharmx/walls) - Random Collections
