@@ -192,7 +192,8 @@ Help make this megathread better for everyone!
 
 - [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) – Wallpapers for dual monitor setups  
 - [WallpapersWide](https://wallpaperswide.com/) - Wide wallpapers, choice of resolution  
-- [WallpaperFusion](https://www.wallpaperfusion.com/) - For multiple monitors  
+- [WallpaperFusion](https://www.wallpaperfusion.com/) - For multiple monitors
+- [UltraWideWallpapers](https://ultrawidewallpapers.net/)- Ultrawide wallpapers, Resizable for any device  
 
 <hr />
 
