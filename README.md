@@ -206,7 +206,7 @@ Help make this megathread better for everyone!
 - [Catppuccin Wallpapers](https://github.com/orangci/walls-catppuccin-mocha) , [2](https://github.com/ashish0kumar/windots/tree/main/walls) - For Catppuccin lovers  
 - [Onedark Wallpapers](https://github.com/Narmis-E/onedark-wallpapers) - Only Onedark wallpapers  
 - [TokyoNight Wallpapers](https://github.com/tokyo-night/wallpapers) - For TokyoNight fans  
-- [Walls Collections](https://github.com/orangci/walls), [Walls Collections 2](https://github.com/dharmx/walls) - Random Collections
+- [Walls Collections](https://github.com/orangci/walls), [2](https://github.com/dharmx/walls) - Random Collections
 - [Wallpapers Collection](https://github.com/JoydeepMallick/Wallpapers) -Big collection made by someone + link to ressources  
 
 <hr />
