@@ -258,21 +258,26 @@ Help make this megathread better for everyone!
 - [Arch Linux Wallpapers](https://archlinux.org/packages/extra/any/archlinux-wallpaper/) - Official from packages
 -  ✨[Archpapers](https://github.com/connorslade/ArchPapers) - Unofficial CLI tool to create your own arch wallpaper 
 - [CachyOS Wallpapers](https://github.com/CachyOS/cachyos-wallpapers) - Official repo
+- [Cosmic](https://github.com/pop-os/cosmic-wallpapers/tree/mastee/original) - Wallpapers
 - [Debian Wallpapers](https://www.debugpoint.com/default-debian-wallpapers-gallery/) - Unofficial, Default each version, few missing.  
-- [Deepin Wallpapers](https://github.com/linuxdeepin/deepin-wallpapers) - Official  
+- [Deepin Wallpapers](https://github.com/linuxdeepin/deepin-wallpapers) - Official
+- [ElementaryOS](https://github.com/elementary/wallpapers/tree/main/backgrounds) - Official  
 - [EndeavourOS Community Wallpapers](https://github.com/EndeavourOS-Community-Editions/Community-wallpapers),[HD collection](https://github.com/UncleSpellbinder/EndeavourOS-HD-Wallpaper) - Official repo  
 - [Fedora Wallpapers](https://fedoraproject.org/wiki/Wallpapers) - Default ones for each release  
 - [Gnome Backgrounds](https://zebreus.github.io/all-gnome-backgrounds/) - Unofficial
 - [KDE](https://github.com/KDE/plasma-workspace-wallpapers) , [Mirror](https://invent.kde.org/plasma/plasma-workspace-wallpapers) - Kde workspaces wallpapers 
 - [Linux Mint Wallpapers](https://github.com/rt2yrru/linux_mint_wallpaper) - Not official, but has most of them
+- [Lumina](https://github.com/lumina-desktop/lumina-themes) - Official
 - [Lxqt](https://github.com/lxqt/lxqt-themes/tree/master/wallpapers) - Official
+- [MATE](https://github.com/mate-desktop/mate-backgrounds) - Official
 - [MX Linux](https://github.com/MX-Linux/mx21-artwork/tree/main/backgrounds) - Official from repo
 - [NixOS](https://github.com/NixOS/nixos-artwork/tree/master/wallpapers) - Official
 - [OpenSUSE Wallpapers](https://en.opensuse.org/openSUSE:Wallpapers) - Official from wiki  
 - [Pop!_OS Wallpapers](https://github.com/pop-os/wallpapers/tree/master/original) - Official
 - [RockyLinux](https://github.com/rocky-linux/branding/tree/main/wallpapers) - Official
 - [Solus](https://github.com/getsolus/artwork/tree/master/backgrounds) - Official repo
-- [Tuxedo OS](https://github.com/tuxedocomputers/wallpapers) - Official repo  
+- [Tuxedo OS](https://github.com/tuxedocomputers/wallpapers) - Official repo
+- [UKUI](https://github.com/ukui/ukui-wallpapers/tree/master/backgrounds) - Official
 - [Ubuntu Budgie Wallpapers](https://github.com/UbuntuBudgie/budgie-wallpapers) - Official  
 - [Ubuntu Cinnamon Wallpapers](https://github.com/ubuntucinnamon/ubuntucinnamon-wallpapers/tree/master/usr/share/backgrounds/ubuntucinnamon) - Official
 - [Vanilla OS](https://github.com/Vanilla-OS/vanilla-backgrounds) - Official , only webp/svg images , use image converter if needed  
