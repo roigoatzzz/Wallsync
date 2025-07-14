@@ -280,7 +280,7 @@ Help make this megathread better for everyone!
 - [UKUI](https://github.com/ukui/ukui-wallpapers/tree/master/backgrounds) - Official
 - [Ubuntu Budgie Wallpapers](https://github.com/UbuntuBudgie/budgie-wallpapers) - Official  
 - [Ubuntu Cinnamon Wallpapers](https://github.com/ubuntucinnamon/ubuntucinnamon-wallpapers/tree/master/usr/share/backgrounds/ubuntucinnamon) - Official
-- [Vanilla OS](https://github.com/Vanilla-OS/vanilla-backgrounds) - Official , only webp/svg images , use image converter if needed  
+- [Vanilla OS](https://github.com/Vanilla-OS/vanilla-backgrounds/tree/main/backgrounds) - Official , only webp/svg images , use image converter if needed  
 - [VoidLinux Wallpapers](https://github.com/oSoWoSo/Void-Wallpapers/tree/main/assets/walls) - Unofficial
 - [Xfce](https://gitlab.xfce.org/xfce/xfdesktop/-/tree/master/backgrounds) - Official  
 - [Zorin OS 17 Wallpapers](https://drive.google.com/file/d/1XYFNkCi2pDdujL9QNZvkU2eqFE1U86n3/view) - Unofficial  
