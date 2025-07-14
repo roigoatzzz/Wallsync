@@ -32,6 +32,7 @@ Help make this megathread better for everyone!
 - [Anime](#anime-wallpapers)
 - [Small](#small-places)
 - [Specific](#specific-os)
+- [Games](#games)
 - [Apple](#apple-only)
 - [Minimal](#minimalist-clean)
 - [Scenic](#scenic-customizable)
@@ -67,8 +68,7 @@ Help make this megathread better for everyone!
 
 - ✨[Repallette](https://ziap.github.io/repalette/) - A lot of palettes conversion options.
 - ✨ [Wallpaper theme converter](https://notneelpatel.xyz/WallpaperThemeConverter/) - Convert your wallpaper default palette into any palette you like.
-- ✨[Wallrice](https://www.wallrice.xyz/) - Small utility to change palettes of your wallpapers.
-- [Dipc](https://github.com/doprz/dipc) - Convert any image/wallpaper default palette into palette you like. 
+- ✨[Wallrice](https://www.wallrice.xyz/) - Small utility to change palettes of your wallpaper.
 
 
 <hr />
@@ -121,10 +121,23 @@ Help make this megathread better for everyone!
 
 ### 🖼️Specific OS  
 
-- [Chromecast Backgrounds](https://chromecastbg.alexmeub.com/) – Google Chromecast photo backgrounds  
+- [Chromecast Backgrounds](https://chromecastbg.alexmeub.com/) – Google Chromecast photo backgrounds
+- [ChromeOS](https://www.androidpolice.com/chromebook-chrome-os-wallpapers/) - Chromebook/ChromeOs official wallpapers  
 - [Xbox Wallpapers](https://www.xbox.com/en-us/wallpapers/) – Xbox-themed high-res wallpapers  
 - [PlayStation Wallpapers](https://www.playstation.com/en-us/wallpapers/) - PlayStation-theme high res wallpapers  
 - [SteamDeck Wallpapers Archive](https://archive.org/details/SDDesktopWallpaper) - Archive of SD desktop mode  
+
+<hr />
+
+### 🎮Games
+- [Minecraft](https://www.minecraft.net/en-us/collectibles?tabs=%7B%22tab%22%3A0%7D) - Official
+- [LOL](https://lolwallpapers.net/) - Unofficial
+- [Valorant](https://playvalorant.com/en-us/media/) - Official
+- [Genshin Impact](https://www.hoyolab.com/article/383753) , [2](https://www.hoyolab.com/topicDetail/147423) , [3](https://drive.google.com/drive/folders/10ulrhy1E74FGjoGuiF1YX1n9mOwoyfSy)
+- [Overwatch](https://overwatch.blizzard.com/en-us/media/) - Official
+- [CKprojektRed](https://press.cdprojektred.com/en#media) - Official
+- [SteamGridDB](https://www.steamgriddb.com/) - Unofficial , assets from steam games
+- [Cyberpunk](https://www.cyberpunk.net/ca/en/cyberpunk-2077#media) - Official
 
 <hr />
 
@@ -207,7 +220,8 @@ Help make this megathread better for everyone!
 - [Onedark Wallpapers](https://github.com/Narmis-E/onedark-wallpapers) - Only Onedark wallpapers  
 - [TokyoNight Wallpapers](https://github.com/tokyo-night/wallpapers) - For TokyoNight fans  
 - [Walls Collections](https://github.com/orangci/walls), [2](https://github.com/dharmx/walls) - Random Collections
-- [Wallpapers Collection](https://github.com/JoydeepMallick/Wallpapers) -Big collection made by someone + link to ressources  
+- [Wallpapers Collection](https://github.com/JoydeepMallick/Wallpapers) -Big collection made by someone + link to ressources
+- [AI](https://github.com/Schneegans/ai-wallpapers) - Wallpaper made by midjourney+upscaled 
 
 <hr />
 
@@ -271,7 +285,8 @@ Help make this megathread better for everyone!
 - ✨ [4k Wallpapers](https://4kwallpapers.com/) - Mostly high-resolution
 - [WallpaperClan](https://wallpapers-clan.com/) - Mostly good to find what you need, Phone/Desktop
 - [Wallscloud](https://wallscloud.net/en) - Good quality, choice of resolution
-- [WallsPic](https://wallspic.com/) – Mixed high-res wallpapers 
+- [WallsPic](https://wallspic.com/) – Mixed high-res wallpapers
+- [Backie](https://backiee.com/) - Good Library
 - [WallpaperFlare](https://www.wallpaperflare.com/) – Massive collection of all genres  
 - [WallpaperCat](https://wallpapercat.com/) - Good collection, option for dual-screen  
 - [PixGround](https://www.pixground.com/) - Collections by genre, most AI-generated
