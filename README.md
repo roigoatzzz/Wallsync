@@ -253,7 +253,7 @@ Help make this megathread better for everyone!
 ### Linux / Desktop Environments 
 
 - ✨ [Distros Wallpapers](https://github.com/LinuxKits/Distro-wallpapers),[2](https://github.com/George443001/Distro-wallpapers) - Unofficial, but most are here, Fork added new versions.
-- [Awesome-Wallpapers](https://github.com/dpejoh/awesome-wallpapers) - Good quality, no updates since 5 months
+- [Awesome-Wallpapers](https://github.com/dpejoh/awesome-wallpapers) , [Phone](https://github.com/dpejoh/phone-wallpapers) - Good quality, no updates since 5 months
 - [Archcraft Wallpapers](https://github.com/archcraft-os/archcraft-wallpapers) - Official repo  
 - [Arch Linux Wallpapers](https://archlinux.org/packages/extra/any/archlinux-wallpaper/) - Official from packages
 -  ✨[Archpapers](https://github.com/connorslade/ArchPapers) - Unofficial CLI tool to create your own arch wallpaper 
