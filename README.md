@@ -214,6 +214,7 @@ Help make this megathread better for everyone!
 ### 📖Wallpapers Collections
 
 - [GetWallpapers](https://getwallpapers.com/), [WallpaperTag](https://wallpapertag.com/) , [Dog](https://wallpaper.dog/) - Collections of wallpapers, multiple options
+- [RareGallery](https://rare-gallery.com/) - Offer for live, phone/desktop
 - [lwallpapers](https://wallpaper.castorisdead.xyz/) - Collection of 900 desktop wallpapers , preview+download  
 - [Wallpapers GitLab](https://gitlab.com/dwt1/wallpapers) - GitLab collection
 - [Mix](https://photos.app.goo.gl/h2eM1Bw1xGomqXmt9), [2](https://drive.google.com/drive/folders/0B-9Li62rpt59dXYtNmhVRFRnaXc?resourcekey=0-_YwGtwDOc3jMCaP5grgS9w&usp=drive_link) - Google Photos Collection  
@@ -274,6 +275,7 @@ Help make this megathread better for everyone!
 - [WallpaperFlare](https://www.wallpaperflare.com/) – Massive collection of all genres  
 - [WallpaperCat](https://wallpapercat.com/) - Good collection, option for dual-screen  
 - [PixGround](https://www.pixground.com/) - Collections by genre, most AI-generated
+- [WallpaperGod](https://wallpapergod.com/), [2](https://coolwallpapers.me/) , [3](https://wallpapercrafter.com/) - Big library, Desktop/phone
 - [WallpaperOk](https://wallpapersok.com/) -A lot of collections, Works better on chromium-browsers.  
 
 <hr />
