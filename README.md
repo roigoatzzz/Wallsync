@@ -69,6 +69,7 @@ Help make this megathread better for everyone!
 - ✨[Repallette](https://ziap.github.io/repalette/) - A lot of palettes conversion options.
 - ✨ [Wallpaper theme converter](https://notneelpatel.xyz/WallpaperThemeConverter/) - Convert your wallpaper default palette into any palette you like.
 - ✨[Wallrice](https://www.wallrice.xyz/) - Small utility to change palettes of your wallpaper.
+- ✨ [Farbenfroh](https://farbenfroh.io/) - Good option
 
 
 <hr />
