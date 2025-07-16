@@ -134,7 +134,6 @@ Help make this megathread better for everyone!
 - [LOL](https://lolwallpapers.net/) - Unofficial
 - [Valorant](https://playvalorant.com/en-us/media/) - Official
 - [Genshin Impact](https://www.hoyolab.com/article/383753) , [2](https://www.hoyolab.com/topicDetail/147423) , [3](https://drive.google.com/drive/folders/10ulrhy1E74FGjoGuiF1YX1n9mOwoyfSy) , [4](https://hoyo.global/art-gallery/official-artwork/#!) , [5](https://hoyo.global/art-gallery/) - Official
-- 
 - [Overwatch](https://overwatch.blizzard.com/en-us/media/) - Official
 - [CKprojektRed](https://press.cdprojektred.com/en#media) - Official
 - [SteamGridDB](https://www.steamgriddb.com/) - Unofficial , assets from steam games
