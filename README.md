@@ -133,11 +133,12 @@ Help make this megathread better for everyone!
 - [Minecraft](https://www.minecraft.net/en-us/collectibles?tabs=%7B%22tab%22%3A0%7D) - Official
 - [LOL](https://lolwallpapers.net/) - Unofficial
 - [Valorant](https://playvalorant.com/en-us/media/) - Official
-- [Genshin Impact](https://www.hoyolab.com/article/383753) , [2](https://www.hoyolab.com/topicDetail/147423) , [3](https://drive.google.com/drive/folders/10ulrhy1E74FGjoGuiF1YX1n9mOwoyfSy) , [4](https://hoyo.global/art-gallery/official-artwork/#!) , [5](https://hoyo.global/art-gallery/) - Official
+- [MihoYo](https://www.hoyolab.com/article/383753) , [2](https://www.hoyolab.com/topicDetail/147423) , [3](https://drive.google.com/drive/folders/10ulrhy1E74FGjoGuiF1YX1n9mOwoyfSy) , [4](https://hoyo.global/art-gallery/official-artwork/#!) , [5](https://hoyo.global/art-gallery/), [6](https://www.hoyolab.com/article/31953796)- Official
 - [Overwatch](https://overwatch.blizzard.com/en-us/media/) - Official
 - [CKprojektRed](https://press.cdprojektred.com/en#media) - Official
 - [SteamGridDB](https://www.steamgriddb.com/) - Unofficial , assets from steam games
 - [Cyberpunk](https://www.cyberpunk.net/ca/en/cyberpunk-2077#media) - Official
+- [Supercell](https://fankit.supercell.com/), [Brawl Stars](https://drive.google.com/drive/folders/1-vugng1yqJkh7TrL_a29i8qyls4_1uYc) - Official
 
 <hr />
 
