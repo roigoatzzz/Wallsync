@@ -53,7 +53,7 @@ Help make this megathread better for everyone!
 ### 🔍Recommended Places
 
 - ✨ [Wallhaven](https://wallhaven.cc/) – Huge searchable database  
-  ✨ [Downloader](https://github.com/eramdam/WallbaseDirectDownloader) – 4K download support  
+   ✨ [Downloader](https://github.com/eramdam/WallbaseDirectDownloader) – 4K download support  
 - ✨ [AlphaCoders](https://alphacoders.com/) - Another big option. All platforms
 - 🩷[SolidColor](https://www.solidbackgrounds.com/) - For enjoyers of empty backgrounds, Lots of colors options
 - 🩷[Xmple](https://xmple.com/) - Abstract Vector + Solid colors wallpaper
@@ -139,6 +139,7 @@ Help make this megathread better for everyone!
 - [SteamGridDB](https://www.steamgriddb.com/) - Unofficial , assets from steam games
 - [Cyberpunk](https://www.cyberpunk.net/ca/en/cyberpunk-2077#media) - Official
 - [Supercell](https://fankit.supercell.com/), [Brawl Stars](https://drive.google.com/drive/folders/1-vugng1yqJkh7TrL_a29i8qyls4_1uYc) - Official
+- [FantasyRPG](https://fantasyanime.com/) - Fantasy RPG wallpaper, Resolution choice.
 
 <hr />
 
