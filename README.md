@@ -273,7 +273,7 @@ Help make this megathread better for everyone!
 - [MATE](https://github.com/mate-desktop/mate-backgrounds) - Official
 - [MX Linux](https://github.com/MX-Linux/mx21-artwork/tree/main/backgrounds) - Official from repo
 - [NixOS](https://github.com/NixOS/nixos-artwork/tree/master/wallpapers) - Official
-- [OpenSUSE Wallpapers](https://en.opensuse.org/openSUSE:Wallpapers) - Official from wiki  
+- [OpenSUSE Wallpapers](https://en.opensuse.org/openSUSE:Wallpapers) , [2](https://github.com/openSUSE/artwork/tree/archival/Wallpapers) - Official from wiki  
 - [Pop!_OS Wallpapers](https://github.com/pop-os/wallpapers/tree/master/original) - Official
 - [RockyLinux](https://github.com/rocky-linux/branding/tree/main/wallpapers) - Official
 - [Solus](https://github.com/getsolus/artwork/tree/master/backgrounds) - Official repo
