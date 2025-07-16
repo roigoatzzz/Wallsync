@@ -284,7 +284,7 @@ Help make this megathread better for everyone!
 - [Vanilla OS](https://github.com/Vanilla-OS/vanilla-backgrounds/tree/main/backgrounds) - Official , only webp/svg images , use image converter if needed  
 - [VoidLinux Wallpapers](https://github.com/oSoWoSo/Void-Wallpapers/tree/main/assets/walls) - Unofficial
 - [Xfce](https://gitlab.xfce.org/xfce/xfdesktop/-/tree/master/backgrounds) - Official  
-- [Zorin OS 17 Wallpapers](https://drive.google.com/file/d/1XYFNkCi2pDdujL9QNZvkU2eqFE1U86n3/view) - Unofficial  
+- [Zorin OS 17 Wallpapers](https://drive.google.com/file/d/1XYFNkCi2pDdujL9QNZvkU2eqFE1U86n3/view) , [Dynamic](https://www.mediafire.com/folder/0zfw0ds7s38xz/zorin-mountain) - Unofficial  
 
 <hr />
 
