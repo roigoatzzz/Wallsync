@@ -181,7 +181,7 @@ Help make this megathread better for everyone!
 - [VSThemes](https://vsthemes.org/en/) – Windows visual styles and wallpapers  
 - [Windows Wallpaper Wiki](https://windowswallpaper.miraheze.org/wiki/Main_Page) – Community-curated collection  
 - [Windows Spotlight Archive](https://windows10spotlight.com/) – Daily Windows lock screen wallpapers  
-- [Bing Wallpaper Archive](https://bingwallpaper.anerg.com/) – Daily Bing wallpapers archive  
+- [Bing Wallpaper Archive](https://bingwallpaper.anerg.com/) , [2](https://bing.gifposter.com/) – Daily Bing wallpapers archive  
 - [Microsoft Design Wallpapers](https://microsoft.design/wallpapers/) - Official from Microsoft  
 - [WallpaperHub](https://www.wallpaperhub.app/) - Official Windows Wallpapers Collections  
 
