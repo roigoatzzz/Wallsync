@@ -43,7 +43,8 @@ Help make this megathread better for everyone!
 - [Github](#github-pages)
 - [Collections](#wallpapers-collections)
 - [Telegram](#telegram-sources)
-- [Linux/Desktop Environments](#linux--desktop-environments)
+- [Linux Part 1](linux-part-1)
+- [Linux Part 2](linux-part-2)
 - [Other](#other-places)
 - [Sources](#sources)
 
@@ -253,7 +254,7 @@ Help make this megathread better for everyone!
 
 <hr />
 
-### Linux / Desktop Environments 
+### Linux Part 1
 
 - ✨ [Distros Wallpapers](https://github.com/LinuxKits/Distro-wallpapers),[2](https://github.com/George443001/Distro-wallpapers) - Unofficial, but most are here, Fork added new versions.
 - [Awesome-Wallpapers](https://github.com/dpejoh/awesome-wallpapers) , [Phone](https://github.com/dpejoh/phone-wallpapers) - Good quality, no updates since few months
@@ -273,6 +274,10 @@ Help make this megathread better for everyone!
 - [Lumina](https://github.com/lumina-desktop/lumina-themes) - Official
 - [Lxqt](https://github.com/lxqt/lxqt-themes/tree/master/wallpapers) - Official
 - [MATE](https://github.com/mate-desktop/mate-backgrounds) - Official
+
+<hr />
+
+### Linux Part 2 
 - [MX Linux](https://github.com/MX-Linux/mx21-artwork/tree/main/backgrounds) - Official from repo
 - [NixOS](https://github.com/NixOS/nixos-artwork/tree/master/wallpapers) - Official
 - [OpenSUSE Wallpapers](https://en.opensuse.org/openSUSE:Wallpapers) , [2](https://github.com/openSUSE/artwork/tree/archival/Wallpapers) - Official from wiki  
