@@ -280,6 +280,7 @@ Help make this megathread better for everyone!
 - [RockyLinux](https://github.com/rocky-linux/branding/tree/main/wallpapers) - Official
 - [Solus](https://github.com/getsolus/artwork/tree/master/backgrounds) - Official repo
 - [Tuxedo OS](https://github.com/tuxedocomputers/wallpapers) - Official repo
+- [Ubuntu](https://drive.google.com/drive/folders/1dKGvGgFp4ymGNBPU6LRScfBm4KuwIn2c) - Unofficial
 - [UKUI](https://github.com/ukui/ukui-wallpapers/tree/master/backgrounds) - Official
 - [Ubuntu Budgie Wallpapers](https://github.com/UbuntuBudgie/budgie-wallpapers) - Official  
 - [Ubuntu Cinnamon Wallpapers](https://github.com/ubuntucinnamon/ubuntucinnamon-wallpapers/tree/master/usr/share/backgrounds/ubuntucinnamon) - Official
