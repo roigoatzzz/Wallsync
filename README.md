@@ -43,8 +43,8 @@ Help make this megathread better for everyone!
 - [Github](#github-pages)
 - [Collections](#wallpapers-collections)
 - [Telegram](#telegram-sources)
-- [Linux Part 1](linux-part-1)
-- [Linux Part 2](linux-part-2)
+- [Linux Part 1](#linux-part-1)
+- [Linux Part 2](#linux-part-2)
 - [Other](#other-places)
 - [Sources](#sources)
 
