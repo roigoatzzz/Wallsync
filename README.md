@@ -40,7 +40,6 @@ Help make this megathread better for everyone!
 - [Apple](#apple-only)
 - [Minimal](#minimalist-clean)
 - [Scenic](#scenic-customizable)
-- [Ghibli](#studio-ghibli)
 - [Windows](#windows-wallpapers)
 - [Live](#live-wallpapers)
 - [Monitor](#multi-monitor)
@@ -111,6 +110,9 @@ Help make this megathread better for everyone!
 - [WallpaperWaifu](https://wallpaperwaifu.com/) – Anime-style wallpapers and packs  
 - [TheOtaku](https://theotaku.com/wallpapers/) – Anime fanart, wallpapers, and profiles  
 - [HaoWallpaper](https://haowallpaper.com/) - Chinese wallpapers , Use Translation
+- [Studio Ghibli Official](https://www.ghibli.jp/info/013772) – Official wallpapers from Studio Ghibli , Use translation if needed
+-  ✨ [Upscaled](https://rentry.co/FMHYBase64#ghibli-upscaled) – 4K upscaled versions of Ghibli artwork , [Base64](https://www.base64decode.org/)
+
 
 <hr />
 
@@ -169,13 +171,6 @@ Help make this megathread better for everyone!
 
 - [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations) – Custom landscape artwork  
 - [CoolBackgrounds](https://coolbackgrounds.io/) – Generate abstract backgrounds and gradients  
-
-<hr />
-
-### 🎬Studio Ghibli
-
-- [Studio Ghibli Official](https://www.ghibli.jp/info/013772) – Official wallpapers from Studio Ghibli , Use translation if needed 
-- ✨ [Ghibli Upscaled](https://rentry.co/FMHYBase64#ghibli-upscaled) – 4K upscaled versions of Ghibli artwork , [Base64](https://www.base64decode.org/)
 
 <hr />
 
@@ -314,7 +309,8 @@ Help make this megathread better for everyone!
 - [WallpaperCat](https://wallpapercat.com/) - Good collection, option for dual-screen  
 - [PixGround](https://www.pixground.com/) - Collections by genre, most AI-generated
 - [WallpaperGod](https://wallpapergod.com/), [2](https://coolwallpapers.me/) , [3](https://wallpapercrafter.com/) - Big library, Desktop/phone
-- [WallpaperOk](https://wallpapersok.com/) -A lot of collections, Works better on chromium-browsers.  
+- [WallpaperOk](https://wallpapersok.com/) - A lot of collections, Works better on chromium-browsers.
+- [WallpaperMax](https://wallpapersmax.com/) - For phone  
 
 <hr />
 
