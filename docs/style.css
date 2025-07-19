@@ -16,7 +16,7 @@ html, body {
 	height: 100%;
 	z-index: 0;
 	margin: 0;
-	background-image: url("kimitachi.png");
+	background-image: url("leaves.png");
 }
 
 .bg::before {
