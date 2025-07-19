@@ -7,8 +7,12 @@
 🎨 I maintain WallSync — a huge megathread of wallpaper sites (anime, minimal, 4K, live, etc).
 If you're into desktop customization, check it out or contribute!
 Caution: Some websites may have ads; Use adblocker.
+
+Website : https://moddingstuff.site and https://wallsync.pages.dev/ . !
+
 <hr />
-## How to Contribute?
+
+### How to Contribute?
 
 If you want to suggest a resource or fix, feel free to open an issue or submit a pull request.  
 Please follow these guidelines:  
