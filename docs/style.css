@@ -16,7 +16,7 @@ html, body {
 	height: 100%;
 	z-index: 0;
 	margin: 0;
-	background-image: url("nice.jpg");
+	background-image: url("sun.png");
 }
 
 .bg::before {
