@@ -10,7 +10,7 @@ Caution: Some websites may have ads; Use adblocker.
 
 Website : https://moddingstuff.site and https://wallsync.pages.dev/ . !
 
-Wallpaper of the website: https://wallhaven.cc/w/5yw5y8
+Wallpaper of the website: https://wallpapercave.com/w/uwp4812928
 
 <hr />
 
