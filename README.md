@@ -157,7 +157,8 @@ Help make this megathread better for everyone!
 
 - [Mac Walls](https://goo.gl/photos/HjY1hmo6p3jfFz8a7) – Apple-inspired designs  
 - [BasicAppleBlog Wallpapers](https://basicappleguy.com/basicappleblog/category/Wallpaper) – Custom iOS/macOS style wallpapers  
-- [Applescoop](https://applescoop.org/wallpapers/) - For iPhone  
+- [Applescoop](https://applescoop.org/wallpapers/) - For iPhone
+- [Apple](https://mega.nz/folder/9Z1lFRCa#D-R2BS0CfU1uPCGlEWLVkA)- Apple wallpapers, Mega repo  
 
 <hr />
 
