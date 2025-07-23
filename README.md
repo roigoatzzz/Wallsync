@@ -76,7 +76,7 @@ Help make this megathread better for everyone!
 - ✨ [Wallpaper theme converter](https://notneelpatel.xyz/WallpaperThemeConverter/) - Convert your wallpaper default palette into any palette you like.
 - ✨[Wallrice](https://www.wallrice.xyz/) - Small utility to change palettes of your wallpaper.
 - ✨ [Farbenfroh](https://farbenfroh.io/) - Good option
-- ✨[Palettum](https://palettum.com/) - Convert Image/Vidéos
+- ✨[Palettum](https://palettum.com/) - Convert and recolor Image/Vidéos
 
 
 <hr />
