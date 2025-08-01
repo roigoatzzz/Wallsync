@@ -314,7 +314,8 @@ Help make this megathread better for everyone!
 - [PixGround](https://www.pixground.com/) - Collections by genre, most AI-generated
 - [WallpaperGod](https://wallpapergod.com/), [2](https://coolwallpapers.me/) , [3](https://wallpapercrafter.com/) - Big library, Desktop/phone
 - [WallpaperOk](https://wallpapersok.com/) - A lot of collections, Works better on chromium-browsers.
-- [WallpaperMax](https://wallpapersmax.com/) - For phone  
+- [WallpaperMax](https://wallpapersmax.com/) - For phone
+- [WallpaperBetter](https://www.wallpaperbetter.com) - Another one, Phone/Desktop, Mutli-Languages,   
 
 <hr />
 
