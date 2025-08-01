@@ -10,7 +10,7 @@ Caution: Some websites may have ads; Use adblocker.
 
 Website : https://moddingstuff.site and https://wallsync.pages.dev/ . !
 
-Wallpaper of the website: https://wallpapercave.com/w/uwp4812928
+Wallpaper of the website: https://setaswall.com/4k-ultra-hd-wallpapers/tropical-4k-ultra-hd-wallpaper-3840x2160/
 
 <hr />
 
