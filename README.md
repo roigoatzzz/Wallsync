@@ -12,6 +12,8 @@ Website : https://moddingstuff.site and https://wallsync.pages.dev/ . !
 
 Wallpaper of the website: https://setaswall.com/4k-ultra-hd-wallpapers/tropical-4k-ultra-hd-wallpaper-3840x2160/
 
+Reddit: https://www.reddit.com/r/WallSyncHub/
+
 <hr />
 
 ### How to Contribute?
