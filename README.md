@@ -171,8 +171,8 @@ Help make this megathread better for everyone!
 - [BasicAppleBlog Wallpapers](https://basicappleguy.com/basicappleblog/category/Wallpaper) – Custom iOS/macOS style wallpapers  
 - [Applescoop](https://applescoop.org/wallpapers/) - For iPhone
 - [Apple](https://mega.nz/folder/9Z1lFRCa#D-R2BS0CfU1uPCGlEWLVkA)- Apple wallpapers, Mega repo
-- [Ios Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9)-Google photos collection
-- [Reycast](https://www.raycast.com/wallpapers) - Wallpaper collection popualr from their addon
+- [Ios Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9) - Google photos collection
+- [Reycast](https://www.raycast.com/wallpapers) - Wallpaper collection popular for their addon
 
 <hr />
 
