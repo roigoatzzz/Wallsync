@@ -124,11 +124,14 @@ Help make this megathread better for everyone!
 ### 🐭Small Places
 
 - 🩷[ColorKit](https://colorkit.co/solid-color-wallpapers/) - 300 solid colors backgrounds , choice of size , 4K
+- [Everydays](https://www.beeple-crap.com/everydays) - Wallpapers posted during covid-19
 - [Solarized Wallpapers](https://github.com/visika/solarized-wallpapers) - Solarized repo  
 - [ArchMinimal](https://github.com/LagrangianLad/arch-minimal-wallpapers) - Few wallpapers  
 - [Debian-HD](https://github.com/UncleSpellbinder/Debian-HD-Wallpaper) - 5 images, 4K   
 - [Ozan_1327 YouTube](https://www.youtube.com/@ozan_1327/videos) - 5 videos, live wallpapers
 - [Wallpaperxverse](https://t.me/s/wallpaperxverse) - Telegram channel, few wallpapers, phone only
+- [lcarsworkshop](https://lcarsworkshop.com/wallpapers/) - Star Trek wallpapers
+- [Abstract](https://ariweinkle.com/art), [2](https://damonxart.com/Featured-Projects) - Make abstract art
 
 <hr />
 
@@ -153,15 +156,23 @@ Help make this megathread better for everyone!
 - [Cyberpunk](https://www.cyberpunk.net/ca/en/cyberpunk-2077#media) - Official
 - [Supercell](https://fankit.supercell.com/), [Brawl Stars](https://drive.google.com/drive/folders/1-vugng1yqJkh7TrL_a29i8qyls4_1uYc) - Official
 - [FantasyRPG](https://fantasyanime.com/) - Fantasy RPG wallpaper, Resolution choice.
+- [EA art collection](https://github.com/ThirteenAG/EA-Art-Collection) - Collection of key arts made by EA, Unofficial
+- [RetroRedrawn](https://retroredrawn.com/) - Community pixel-art images of popular games
+- [8 bit landscape](https://www.bitday.me/download/index.html) - Dynamic, Can also get static wallpapers
+- [Brockoferart](https://brockhoferart.com/projects) - Talented artist, was featured by Counterstrike
+- [Razer](https://www.razer.com/wallpapers) - Official
 
 <hr />
 
 ### 🍎Apple Only
 
-- [Mac Walls](https://goo.gl/photos/HjY1hmo6p3jfFz8a7) – Apple-inspired designs  
+- [Mac Walls](https://goo.gl/photos/HjY1hmo6p3jfFz8a7) – Every Mac)S wallpaper
+- ✨[Upscaled](https://512pixels.net/projects/default-mac-wallpapers-in-5k/) - Upscaled in 6k  
 - [BasicAppleBlog Wallpapers](https://basicappleguy.com/basicappleblog/category/Wallpaper) – Custom iOS/macOS style wallpapers  
 - [Applescoop](https://applescoop.org/wallpapers/) - For iPhone
-- [Apple](https://mega.nz/folder/9Z1lFRCa#D-R2BS0CfU1uPCGlEWLVkA)- Apple wallpapers, Mega repo  
+- [Apple](https://mega.nz/folder/9Z1lFRCa#D-R2BS0CfU1uPCGlEWLVkA)- Apple wallpapers, Mega repo
+- [Ios Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9)-Google photos collection
+- [Reycast](https://www.raycast.com/wallpapers) - Wallpaper collection popualr from their addon
 
 <hr />
 
@@ -182,13 +193,15 @@ Help make this megathread better for everyone!
 
 ### 🪟Windows Wallpapers
 
-- ✨ [Ultimate Windows Wallpack](https://rentry.co/fmhybase64#windows-wallpapers) – 4K Windows wallpapers , [Base64](https://www.base64decode.org/)
+- ✨ [Ultimate Windows Wallpack](https://rentry.co/fmhybase64#windows-wallpapers) – 4K Windows wallpapers ,[Base64](https://www.base64decode.org/)
+- [Ultimate Windows Wallpack](https://www.deviantart.com/windowsaesthetics/gallery)- Devianart page
 - [VSThemes](https://vsthemes.org/en/) – Windows visual styles and wallpapers  
 - [Windows Wallpaper Wiki](https://windowswallpaper.miraheze.org/wiki/Main_Page) – Community-curated collection  
 - [Windows Spotlight Archive](https://windows10spotlight.com/) – Daily Windows lock screen wallpapers  
 - [Bing Wallpaper Archive](https://bingwallpaper.anerg.com/) , [2](https://bing.gifposter.com/) – Daily Bing wallpapers archive  
 - [Microsoft Design Wallpapers](https://microsoft.design/wallpapers/) - Official from Microsoft  
-- [WallpaperHub](https://www.wallpaperhub.app/) - Official Windows Wallpapers Collections  
+- [WallpaperHub](https://www.wallpaperhub.app/) - Official Windows Wallpapers Collections
+- [Every Windows Wallpaper](https://www.xda-developers.com/every-windows-wallpaper/) - From XDA
 
 <hr />
 
@@ -237,6 +250,7 @@ Help make this megathread better for everyone!
 ### 📖Wallpapers Collections
 
 - [GetWallpapers](https://getwallpapers.com/), [WallpaperTag](https://wallpapertag.com/) , [Dog](https://wallpaper.dog/) - Collections of wallpapers, multiple options
+- [Kurzegesagt](https://drive.google.com/drive/folders/1a4Hbz7Bn-ubmITJkqrwNTWW8zQNr1mwZ) - Unofficial
 - [RareGallery](https://rare-gallery.com/) - Offer for live, phone/desktop
 - [lwallpapers](https://wallpaper.castorisdead.xyz/) - Collection of 900 desktop wallpapers , preview+download  
 - [Wallpapers GitLab](https://gitlab.com/dwt1/wallpapers) - GitLab collection
@@ -310,6 +324,7 @@ Help make this megathread better for everyone!
 - [WallpaperClan](https://wallpapers-clan.com/) - Mostly good to find what you need, Phone/Desktop
 - [Wallscloud](https://wallscloud.net/en) - Good quality, choice of resolution
 - [WallsPic](https://wallspic.com/) – Mixed high-res wallpapers
+- [MovieScreencaps](https://movie-screencaps.com/) - Screencap for movies(download possible)
 - [Backie](https://backiee.com/) - Good Library
 - [WallpaperFlare](https://www.wallpaperflare.com/) – Massive collection of all genres  
 - [WallpaperCat](https://wallpapercat.com/) - Good collection, option for dual-screen  
@@ -317,7 +332,8 @@ Help make this megathread better for everyone!
 - [WallpaperGod](https://wallpapergod.com/), [2](https://coolwallpapers.me/) , [3](https://wallpapercrafter.com/) - Big library, Desktop/phone
 - [WallpaperOk](https://wallpapersok.com/) - A lot of collections, Works better on chromium-browsers.
 - [WallpaperMax](https://wallpapersmax.com/) - For phone
-- [WallpaperBetter](https://www.wallpaperbetter.com) - Another one, Phone/Desktop, Mutli-Languages,   
+- [WallpaperBetter](https://www.wallpaperbetter.com) - Another one, Phone/Desktop, Mutli-Languages,
+- [3dFiction](https://3dfiction.com/) - Vintage 3d art in picture/video   
 
 <hr />
 
