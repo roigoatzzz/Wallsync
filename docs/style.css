@@ -17,6 +17,8 @@ html, body {
 	z-index: 0;
 	margin: 0;
 	background-image: url("dog.webp");
+	background-size: cover;
+    background-position: center;
 }
 
 .bg::before {
@@ -142,5 +144,6 @@ ul {
 li {
 	filter: drop-shadow(0px 3px 3px black);
 }
+
 
 
