@@ -5,6 +5,7 @@ html, body {
 	font-weight: 300;
 	color: white;
 	overflow-x: hidden;
+	overflow-y: auto;
 }
 
 .bg {
@@ -151,6 +152,7 @@ ul {
 li {
 	filter: drop-shadow(0px 3px 3px black);
 }
+
 
 
 
