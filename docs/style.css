@@ -1,163 +1,291 @@
-html, body {
-	margin: 0;
-	font-family: "Zain";
-	font-size: 24px;
-	font-weight: 300;
-	color: white;
-	overflow-x: hidden;
-	overflow-y: auto;
-	height: 100%; 
+ html, body {
+
+margin: 0;
+
+font-family: "Zain";
+
+font-size: 24px;
+
+font-weight: 300;
+
+color: white;
+
+overflow-x: hidden;
+
 }
+
+
 
 .bg {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	position: relative;
-	width: 100%;
-	height: 100%;
-	z-index: 0;
-	margin: 0;
-	background-image: url("dog.webp");
-	background-size: cover;
-    background-position: center;
+
+display: flex;
+
+align-items: center;
+
+justify-content: center;
+
+position: relative;
+
+width: 100%;
+
+height: 100%;
+
+z-index: 0;
+
+margin: 0;
+
+background-image: url("dog.webp");
+
+background-size: cover;
+
+    background-position: center;
+
 }
+
+
 
 .bg::before {
-	content: "";
-    position: absolute;
-    width: 100%;
-    height: 100%;
+
+content: "";
+
+    position: absolute;
+
+    width: 100%;
+
+    height: 100%;
+
 }
+
+
 
 .page {
-	position: relative;
-	display: flex;
-	align-items: flex-start;
-    flex-direction: column;
-	background: rgba(255, 255, 255, 0.22);
-	border-radius: 16px;
-	box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-	backdrop-filter: blur(5px);
-	-webkit-backdrop-filter: blur(5px);
-	border: 1px solid rgba(255, 255, 255, 0.3);
-	width: 80%;
-	padding: 20px;
+
+position: relative;
+
+display: flex;
+
+align-items: center;
+
+flex-direction: column;
+
+/* From https://css.glass, super cool site */
+
+background: rgba(255, 255, 255, 0.22);
+
+border-radius: 16px;
+
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+
+backdrop-filter: blur(5px);
+
+-webkit-backdrop-filter: blur(5px);
+
+border: 1px solid rgba(255, 255, 255, 0.3);
+
+width: 80%;
+
+height: 85%;
+
+padding: 20px;
+
+overflow: hidden;
+
 }
+
+
 
 p {
-	margin: 0;
-	filter: drop-shadow(0px 3px 3px black);
+
+margin: 0;
+
+filter: drop-shadow(0px 3px 3px black);
+
 }
+
+
 
 .bold {
-	font-weight: 500;
+
+font-weight: 500;
+
 }
+
+
 
 .semibold {
-	font-weight: 400;
+
+font-weight: 400;
+
 }
+
+
 
 .header {
-	font-size: 36px;
-	font-size: 36px;
+
+font-size: 36px;
+
+font-size: 36px;
+
 }
+
+
 
 .smallheader {
-	font-size: 32px;
+
+font-size: 32px;
+
 }
+
+
 
 a {
-	text-decoration: none;
-	color: white;
-	line-height: 28px;
-	font-size: 24px;
-	font-weight: 400;
-	transition: 0.2s;
-	filter: drop-shadow(0px 1px 1px black);
+
+text-decoration: none;
+
+color: white;
+
+line-height: 28px;
+
+font-size: 24px;
+
+font-weight: 400;
+
+transition: 0.2s;
+
+filter: drop-shadow(0px 1px 1px black);
+
 }
+
+
 
 a:hover {
-	font-size: 28px;
+
+font-size: 28px;
+
 }
+
+
 
 hr {
-	width: 20%;
-	border: solid;
-	border-width: 0.5px;
-	margin-top: 50px;
-	margin-bottom: 50px;
-	color: #d6d9d8;
-	filter: drop-shadow(0px 3px 3px black);
+
+width: 20%;
+
+border: solid;
+
+border-width: 0.5px;
+
+margin-top: 50px;
+
+margin-bottom: 50px;
+
+color: #d6d9d8;
+
+filter: drop-shadow(0px 3px 3px black);
+
 }
+
+
 
 .chipbox {
-    display: flex;
-    /* Use flex-wrap on the container, not the individual chip */
-    flex-wrap: wrap; 
-    
-    /* Remove the fixed width so the container can resize */
-    width: 80%;
-    
-    /* Center the items horizontally and vertically for a cleaner look */
-    justify-content: center;
-    align-items: center;
 
-    /* Add space between each chip using the modern 'gap' property */
-    gap: 15px; 
+display: flex;
 
-    /* Add some top and bottom margin for spacing from other content */
-    margin: 20px 0;
+flex-direction: row;
+
+width: 80%;
+
+height: 12%;
+
+justify-content: center;
+
 }
+
+
 
 .chip {
-    /* Set a minimum width and remove the fixed width */
-    min-width: 150px; 
 
-    /* Remove the fixed height to allow content to dictate size */
-    height: auto; 
+display: flex;
 
-    /* Use `padding` to create the bubble shape instead of fixed height */
-    padding: 10px 20px;
+flex-wrap: wrap;
 
-    /* Set the rest of your styles for the bubble look */
-    background: rgba(255, 255, 255, 0.22);
-    border-radius: 16px;
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    transition: 0.2s;
-    cursor: default;
-    /* Remove margin-right from here and use 'gap' on the container instead */
+justify-content: center;
+
+align-content: center;
+
+text-align: center;
+
+position: relative;
+
+width: 15%;
+
+height: 100%;
+
+background: rgba(255, 255, 255, 0.22);
+
+border-radius: 16px;
+
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+
+border: 1px solid rgba(255, 255, 255, 0.3);
+
+transition: 0.2s;
+
+cursor: default;
+
+margin-right: 50px;
+
 }
 
-/* Correct the styling for the link inside the chip */
-.chip a {
-    text-decoration: none;
-    color: white;
-    font-size: 24px;
-    font-weight: 300;
-    filter: none;
-    /* Remove padding and margin here; let the chip's padding handle it */
+
+
+.chip:hover {
+
+transform: scale(1.15);
+
+cursor: pointer;
+
 }
+
+
+
+.chip>a {
+
+font-size: 24px;
+
+font-weight: 300;
+
+filter: none;
+
+padding: 2em;
+
+margin: -2em;
+
+position: relative;
+
+}
+
+
 
 .chip:last-child {
-    /* You no longer need this rule because 'gap' handles all spacing */
+
+margin-right: 0;
+
 }
+
+
 
 ul {
-	text-align: left;
-	margin: 0;
+
+text-align: left;
+
+margin: 0;
+
 }
+
+
 
 li {
-	filter: drop-shadow(0px 3px 3px black);
+
+filter: drop-shadow(0px 3px 3px black);
+
 }
-
-
-
-
-
-
-
-
-
