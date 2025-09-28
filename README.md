@@ -164,7 +164,7 @@ Help make this megathread better for everyone!
 
 ### 🍎Apple Only
 
-- [Mac Walls](https://goo.gl/photos/HjY1hmo6p3jfFz8a7) – Every Mac)S wallpaper
+- [Mac Walls](https://goo.gl/photos/HjY1hmo6p3jfFz8a7) – Every MacS wallpaper
 - ✨[Upscaled](https://512pixels.net/projects/default-mac-wallpapers-in-5k/) - Upscaled in 6k  
 - [BasicAppleBlog Wallpapers](https://basicappleguy.com/basicappleblog/category/Wallpaper) – Custom iOS/macOS style wallpapers  
 - [Applescoop](https://applescoop.org/wallpapers/) - For iPhone
