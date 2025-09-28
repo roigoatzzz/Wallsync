@@ -158,7 +158,6 @@ Help make this megathread better for everyone!
 - [Cyberpunk](https://www.cyberpunk.net/ca/en/cyberpunk-2077#media) - Official
 - [Supercell](https://fankit.supercell.com/), [Brawl Stars](https://drive.google.com/drive/folders/1-vugng1yqJkh7TrL_a29i8qyls4_1uYc) - Official
 - [FantasyRPG](https://fantasyanime.com/) - Fantasy RPG wallpaper, Resolution choice.
-
 - [Razer](https://www.razer.com/wallpapers) - Official
 
 <hr />
