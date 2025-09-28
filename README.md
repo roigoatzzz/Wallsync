@@ -291,6 +291,7 @@ Help make this megathread better for everyone!
 - [Linux Mint Wallpapers](https://github.com/rt2yrru/linux_mint_wallpaper) - Not official, but has most of them
 - [Lumina](https://github.com/lumina-desktop/lumina-themes) - Official
 - [Lxqt](https://github.com/lxqt/lxqt-themes/tree/master/wallpapers) - Official
+- [Manjaro](https://gitlab.manjaro.org/artwork/wallpapers) - Official
 - [MATE](https://github.com/mate-desktop/mate-backgrounds) - Official
 
 <hr />
