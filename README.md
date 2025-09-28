@@ -10,7 +10,7 @@ Caution: Some websites may have ads; Use adblocker.
 
 Website : https://moddingstuff.site and https://wallsync.pages.dev/ . !
 
-Wallpaper of the website: https://haowallpaper.com/homeViewLook/17424763120504192
+Wallpaper of the website: https://whvn.cc/397rmv
 
 Reddit: https://www.reddit.com/r/WallSyncHub/
 
