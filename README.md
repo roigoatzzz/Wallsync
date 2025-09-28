@@ -134,7 +134,6 @@ Help make this megathread better for everyone!
 - [Ozan_1327 YouTube](https://www.youtube.com/@ozan_1327/videos) - 5 videos, live wallpapers
 - [Wallpaperxverse](https://t.me/s/wallpaperxverse) - Telegram channel, few wallpapers, phone only
 - [lcarsworkshop](https://lcarsworkshop.com/wallpapers/) - Star Trek wallpapers
-- [Abstract](https://ariweinkle.com/art), [2](https://damonxart.com/Featured-Projects) - Make abstract art
 
 <hr />
 
@@ -160,9 +159,7 @@ Help make this megathread better for everyone!
 - [Supercell](https://fankit.supercell.com/), [Brawl Stars](https://drive.google.com/drive/folders/1-vugng1yqJkh7TrL_a29i8qyls4_1uYc) - Official
 - [FantasyRPG](https://fantasyanime.com/) - Fantasy RPG wallpaper, Resolution choice.
 - [EA art collection](https://github.com/ThirteenAG/EA-Art-Collection) - Collection of key arts made by EA, Unofficial
-- [RetroRedrawn](https://retroredrawn.com/) - Community pixel-art images of popular games
 - [8 bit landscape](https://www.bitday.me/download/index.html) - Dynamic, Can also get static wallpapers
-- [Brockoferart](https://brockhoferart.com/projects) - Talented artist, was featured by Counterstrike
 - [Razer](https://www.razer.com/wallpapers) - Official
 
 <hr />
