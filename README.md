@@ -158,8 +158,7 @@ Help make this megathread better for everyone!
 - [Cyberpunk](https://www.cyberpunk.net/ca/en/cyberpunk-2077#media) - Official
 - [Supercell](https://fankit.supercell.com/), [Brawl Stars](https://drive.google.com/drive/folders/1-vugng1yqJkh7TrL_a29i8qyls4_1uYc) - Official
 - [FantasyRPG](https://fantasyanime.com/) - Fantasy RPG wallpaper, Resolution choice.
-- [EA art collection](https://github.com/ThirteenAG/EA-Art-Collection) - Collection of key arts made by EA, Unofficial
-- [8 bit landscape](https://www.bitday.me/download/index.html) - Dynamic, Can also get static wallpapers
+
 - [Razer](https://www.razer.com/wallpapers) - Official
 
 <hr />
@@ -180,7 +179,8 @@ Help make this megathread better for everyone!
 - ✨[Minimalistic Wallpapers](https://minimalistic-wallpaper.demolab.com/) – Dynamic minimalist wallpaper 
 - [Simple Desktops](https://simpledesktops.com/) – Minimalist one-object wallpapers
 - [Positron Dream](https://www.positrondream.com/) – Minimalist and clean aesthetics  
-- [SetAsWall](https://www.setaswall.com/) – Multiple style categories with simple UI, good quality  
+- [SetAsWall](https://www.setaswall.com/) – Multiple style categories with simple UI, good quality
+- [Bitday](https://www.bitday.me/download/index.html) - Dynamic, Can also get static wallpapers
 
 <hr />
 
@@ -218,7 +218,8 @@ Help make this megathread better for everyone!
 - [MyLiveWallpapers](https://mylivewallpapers.com/) – Anime live wallpapers  
 - [DesktopHut](https://www.desktophut.com/) - Live Wallpapers, Cross-Platform
 - [Wallsflow](https://wallsflow.com/) - Desktop only, Ask to disable adblocker, 15 seconds waiting
-- [Wallshub](https://wallshub.com/) - Desktop only, 60 seconds waiting  
+- [Wallshub](https://wallshub.com/) - Desktop only, 60 seconds waiting
+- [3dFiction](https://3dfiction.com/) - Vintage 3d art in picture/video   
 
 <hr />
 
@@ -332,7 +333,6 @@ Help make this megathread better for everyone!
 - [WallpaperOk](https://wallpapersok.com/) - A lot of collections, Works better on chromium-browsers.
 - [WallpaperMax](https://wallpapersmax.com/) - For phone
 - [WallpaperBetter](https://www.wallpaperbetter.com) - Another one, Phone/Desktop, Mutli-Languages,
-- [3dFiction](https://3dfiction.com/) - Vintage 3d art in picture/video   
 
 <hr />
 
