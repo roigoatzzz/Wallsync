@@ -107,6 +107,7 @@ Help make this megathread better for everyone!
 - [r/MultiWall](https://www.reddit.com/r/multiwall/) - Community for Monitors wallpapers
 - [r/WidescreenWallpapers](https://www.reddit.com/r/WidescreenWallpaper/) - Widescreen
 - [r/animewallpaper](https://www.reddit.com/r/Animewallpaper/) - Community for anime wallpapers , all platforms, Have NSFW images⚠️
+- [r/AnimewallpapersSFW](https://www.reddit.com/r/AnimeWallpapersSFW/) - Same r/animewallpaper, but No NSFW.
 
 <hr />
 
