@@ -192,7 +192,7 @@ Help make this megathread better for everyone!
 
 ### 🪟Windows Wallpapers
 
-- ✨ [Ultimate Windows Wallpack](https://rentry.co/fmhybase64#windows-wallpapers),[2](https://www.deviantart.com/windowsaesthetics/gallery) – 4K Windows wallpapers ,[Base64](https://www.base64decode.org/)
+- ✨ [Ultimate Windows Wallpack](https://drive.google.com/drive/u/0/folders/1-80cROdVY-GSwu9fGnJJyglcERKyJ-gP),[2](https://www.deviantart.com/windowsaesthetics/gallery) – 4K Windows wallpapers
 - [VSThemes](https://vsthemes.org/en/) – Windows visual styles and wallpapers  
 - [Windows Wallpaper Wiki](https://windowswallpaper.miraheze.org/wiki/Main_Page) – Community-curated collection  
 - [Windows Spotlight Archive](https://windows10spotlight.com/) – Daily Windows lock screen wallpapers  
