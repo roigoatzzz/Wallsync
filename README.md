@@ -119,7 +119,6 @@ Help make this megathread better for everyone!
 - [TheOtaku](https://theotaku.com/wallpapers/) – Anime fanart, wallpapers, and profiles  
 - [HaoWallpaper](https://haowallpaper.com/) - Chinese wallpapers , Use Translation
 - [Studio Ghibli Official](https://www.ghibli.jp/info/013772) – Official wallpapers from Studio Ghibli , Use translation if needed
--  ✨ [Upscaled](https://rentry.co/FMHYBase64#ghibli-upscaled) – 4K upscaled versions of Ghibli artwork , [Base64](https://www.base64decode.org/)
 
 
 <hr />
@@ -192,7 +191,7 @@ Help make this megathread better for everyone!
 
 ### 🪟Windows Wallpapers
 
-- ✨ [Ultimate Windows Wallpack](https://drive.google.com/drive/u/0/folders/1-80cROdVY-GSwu9fGnJJyglcERKyJ-gP),[2](https://www.deviantart.com/windowsaesthetics/gallery) – 4K Windows wallpapers
+- ✨ [Ultimate Windows Wallpack](https://drive.google.com/drive/u/0/folders/1-80cROdVY-GSwu9fGnJJyglcERKyJ-gP),[2](https://mega.nz/folder/aDxj3ZQS#n01Uuhqdp8ls_gObearKdw),[3](https://www.deviantart.com/windowsaesthetics/gallery) – 4K Windows wallpapers
 - [VSThemes](https://vsthemes.org/en/) – Windows visual styles and wallpapers  
 - [Windows Wallpaper Wiki](https://windowswallpaper.miraheze.org/wiki/Main_Page) – Community-curated collection  
 - [Windows Spotlight Archive](https://windows10spotlight.com/) – Daily Windows lock screen wallpapers  
