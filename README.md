@@ -8,7 +8,7 @@
 If you're into desktop customization, check it out or contribute!
 Caution: Some websites may have ads; Use adblocker.
 
-Website : https://moddingstuff.site and https://wallsync.pages.dev/ . !
+Website :  https://roigoatzzz.github.io/Wallsync/ and https://wallsync.pages.dev/ . !
 
 Wallpaper of the website: https://4kwallpapers.com/celebrations/halloween/halloween-pumpkin-13051.html
 
