@@ -10,7 +10,7 @@ Caution: Some websites may have ads; Use adblocker.
 
 Website : https://moddingstuff.site and https://wallsync.pages.dev/ . !
 
-Wallpaper of the website: https://whvn.cc/397rmv
+Wallpaper of the website: https://4kwallpapers.com/celebrations/halloween/halloween-pumpkin-13051.html
 
 Reddit: https://www.reddit.com/r/WallSyncHub/
 
