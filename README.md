@@ -10,7 +10,7 @@ Caution: Some websites may have ads; Use adblocker.
 
 Website :  https://roigoatzzz.github.io/Wallsync/ and https://wallsync.pages.dev/ . !
 
-Wallpaper of the website: https://4kwallpapers.com/celebrations/halloween/halloween-pumpkin-13051.html
+Wallpaper of the website: https://minimalistic-wallpaper.demolab.com/#alena-aenami-stardust.jpg
 
 Reddit: https://www.reddit.com/r/WallSyncHub/
 
