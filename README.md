@@ -6,8 +6,7 @@
 
 🎨 I maintain WallSync — a huge megathread of wallpaper sites (anime, minimal, 4K, live, etc).
 If you're into desktop customization, check it out or contribute!
-Caution: Some websites may have ads; Use adblocker.
-
+Caution: Some websites may have ads; Use adblocker if you need so!
 Website :  https://roigoatzzz.github.io/Wallsync/ and https://wallsync.pages.dev/ . !
 
 Wallpaper of the website: https://minimalistic-wallpaper.demolab.com/#alena-aenami-stardust.jpg
