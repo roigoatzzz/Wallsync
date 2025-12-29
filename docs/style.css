@@ -100,34 +100,28 @@ hr {
 .chipbox {
   display: flex;
   flex-direction: row;
-  flex-basis: 200px;
-  width: 100%; /* Keep this, as it controls the container's overall width */
-  height: auto;
-  padding: 20px;
+  flex-wrap: wrap;     /* Keeps chips from squishing on one line */
   justify-content: center;
-  flex-wrap: wrap;
   gap: 30px;
+  width: 100%;
   margin-top: 40px;
-  margin-bottom:60px;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+  margin-bottom: 60px;
 }
 
 .chip {
   display: flex;
   justify-content: center;
-  flex: 1 1 200px;
-  min-height: 80px;
   align-items: center;
   text-align: center;
-  position: relative;
-  flex-basis: 15%; /* This will size the chip, use `auto` if you want it to be content-based */
-  height: 100px;
-  background: rgba(255, 255, 255, 0.22);
+  flex: 1 1 200px;     
+  max-width: 250px;    
+  min-height: 80px;    
+  padding: 10px 20px;  
+  background: rgba(255, 255, 255, 0.15); 
   border-radius: 16px;
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
   border: 1px solid rgba(255, 255, 255, 0.3);
-  transition: 0.2s;
-  cursor: default;
+  transition: 0.3s ease; /* Smoother transition */
 }
 .chip:hover {
   transform: scale(1.1);
@@ -152,6 +146,7 @@ ul {
 li {
   filter: drop-shadow(0px 3px 3px black);
 }
+
 
 
 
