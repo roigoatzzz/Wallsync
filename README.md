@@ -9,7 +9,7 @@ If you're into desktop customization, check it out or contribute!
 Caution: Some websites may have ads; Use adblocker if you need so!
 Website :  https://roigoatzzz.github.io/Wallsync/ and https://wallsync.pages.dev/ . !
 
-Wallpaper of the website: https://wallhaven.cc/w/qz1x1r
+Wallpaper of the website: https://wallhaven.cc/w/ly8lpp
 
 Reddit: https://www.reddit.com/r/WallSyncHub/
 
