@@ -55,11 +55,7 @@ html, body {
     border-radius: 4px;
 }
 
-p {
-  text-align: left;   
-  max-width: 90%;     
-  margin: 0 auto 20px; 
-  line-height: 1.7;    
+p {  
   margin-bottom: 20px; 
   line-height: 1.6;   
   filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.3));
@@ -155,6 +151,7 @@ ul {
 li {
   filter: drop-shadow(0px 3px 3px black);
 }
+
 
 
 
