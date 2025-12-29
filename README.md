@@ -114,6 +114,7 @@ Help make this megathread better for everyone!
 
 - ✨ [Anime Pictures](https://anime-pictures.net/) – High-quality 4K anime wallpapers  
 - [WallpaperWaifu](https://wallpaperwaifu.com/) – Anime-style live wallpapers and packs
+- [EronflyART](https://www.eronflyart.com/) - Pretty good, Static/Live
 - [TheOtaku](https://theotaku.com/wallpapers/) – Anime fanart, wallpapers, and profiles  
 - [HaoWallpaper](https://haowallpaper.com/) - Chinese wallpapers , Use Translation
 - [Studio Ghibli Official](https://www.ghibli.jp/info/013772) – Official wallpapers from Studio Ghibli , Use translation if needed
