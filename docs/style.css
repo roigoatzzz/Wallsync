@@ -60,8 +60,8 @@ p {
   max-width: 800px; /* This is the "sweet spot" for centered reading */
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 30px;
-  line-height: 1.8;    
+  margin-bottom: 20px;
+  line-height: 1.6;    
   filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.3));
 }
 
@@ -74,18 +74,18 @@ p {
 }
 
 .header {
-  font-size: 42px;
+  font-size: 38px;
   letter-spacing: 2px;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
   text-transform: uppercase;
   text-align: center;
   width: 100%;
 }
 
 .smallheader {
-  font-size: 32px;
+  font-size: 30px;
   margin-top: 50px; 
-  margin-bottom: 25px;
+  margin-bottom: 15px;
   text-align: center;
   width: 100%;
 }
@@ -164,6 +164,7 @@ ul {
 li {
   filter: drop-shadow(0px 3px 3px black);
 }
+
 
 
 
