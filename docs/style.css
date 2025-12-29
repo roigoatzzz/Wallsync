@@ -24,12 +24,12 @@ html, body {
   display: flex;
   align-items: center;
   flex-direction: column;
-  background: rgba(255, 255, 255, 0.22);
+  background: rgba(255, 255, 255, 0.12);
   border-radius: 16px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   -moz-backdrop-filter: blur(5px);
   -webkit-backdrop-filter: blur(5px);
-  backdrop-filter: blur(10px);
+  backdrop-filter: blur(15px);
   border: 1px solid rgba(255, 255, 255, 0.3);
   width: 90%;
   max-width: 900px;
@@ -65,12 +65,11 @@ p {
   font-weight: 400;
 }
 
-.header {
-  font-size: 36px;
-}
-
-.smallheader {
-  font-size: 32px;
+.header, .smallheader {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  text-align: center;
+  filter: drop-shadow(0px 3px 3px black);
 }
 
 a {
@@ -129,14 +128,15 @@ hr {
   cursor: pointer;
   box-shadow: 0 8px 60px rgba(0, 0, 0, 0.2);
 }
-
 .chip > a {
   font-size: 24px;
   font-weight: 300;
   filter: none;
-  padding: 2em;
-  margin: -2em;
-  position: relative;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
 }
 
 ul {
@@ -147,6 +147,7 @@ ul {
 li {
   filter: drop-shadow(0px 3px 3px black);
 }
+
 
 
 
