@@ -56,8 +56,12 @@ html, body {
 }
 
 p {  
-  margin-bottom: 20px; 
-  line-height: 1.6;   
+  text-align: center;
+  max-width: 800px; /* This is the "sweet spot" for centered reading */
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  line-height: 1.8;    
   filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.3));
 }
 
@@ -69,11 +73,17 @@ p {
   font-weight: 400;
 }
 
-.header, .smallheader {
-  margin-top: 20px;
-  margin-bottom: 30px;
-  text-align: center;
-  filter: drop-shadow(0px 3px 3px black);
+.header {
+  font-size: 42px; /* Bigger for desktop */
+  letter-spacing: 2px;
+  margin-bottom: 40px;
+  text-transform: uppercase; /* Optional: makes it feel more like a "Megathread" title */
+}
+
+.smallheader {
+  font-size: 32px;
+  margin-top: 50px; /* More space above the sub-header */
+  margin-bottom: 25px;
 }
 
 a {
@@ -91,12 +101,11 @@ a:hover {
 }
 
 hr {
-  width: 10%;
+  width: 15%;
   border: solid;
-  border-width: 0.5px;
-  opacity: 0.5;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  border-width: 1px;
+  opacity: 0.3;
+  margin: 60px auto;
   color: #d6d9d8;
   filter: drop-shadow(0px 3px 3px black);
 }
@@ -151,6 +160,7 @@ ul {
 li {
   filter: drop-shadow(0px 3px 3px black);
 }
+
 
 
 
