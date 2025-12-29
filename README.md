@@ -9,7 +9,7 @@ If you're into desktop customization, check it out or contribute!
 Caution: Some websites may have ads; Use adblocker if you need so!
 Website :  https://roigoatzzz.github.io/Wallsync/ and https://wallsync.pages.dev/ . !
 
-Wallpaper of the website: https://4kwallpapers.com/celebrations/christmas/christmas-decoration-christmas-ornaments-christmas-tree-7119.html
+Wallpaper of the website: https://wallhaven.cc/w/qz1x1r
 
 Reddit: https://www.reddit.com/r/WallSyncHub/
 
