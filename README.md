@@ -94,7 +94,7 @@ Help make this megathread better for everyone!
 
 ### ✨Subreddits Wallpapers
 
-- [r/WallpaperRequests](https://www.reddit.com/r/WallpaperRequests/) – Request custom wallpapers  
+- [r/WallpaperRequests](https://www.reddit.com/r/WallpaperRequests/), [Website](https://wallpapersbyrequest.blogspot.com/) – Request custom wallpapers  
 - [r/AmoledBackgrounds](https://www.reddit.com/r/Amoledbackgrounds/) - Amoled Backgrounds  
 - [r/Wallpaper](https://www.reddit.com/r/wallpaper/), [2](https://www.reddit.com/r/wallpapers/) – General wallpaper sharing community
 - [r/WallpaperDump](https://www.reddit.com/r/wallpaperdump/) - Collections wallpapers  
@@ -173,7 +173,8 @@ Help make this megathread better for everyone!
 <hr />
 
 ### ⚪Minimalist Clean
-- ✨[Minimalistic Wallpapers](https://minimalistic-wallpaper.demolab.com/) – Dynamic minimalist wallpaper 
+- ✨[Minimalistic Wallpapers](https://minimalistic-wallpaper.demolab.com/), [2](https://archimg.cc/) – Dynamic minimalist wallpaper
+- [WallpapersClan](https://wallpapers-clan.com/) - Minimal, good quality, phone/desktop
 - [Simple Desktops](https://simpledesktops.com/) – Minimalist one-object wallpapers
 - [Positron Dream](https://www.positrondream.com/) – Minimalist and clean aesthetics  
 - [SetAsWall](https://www.setaswall.com/) – Multiple style categories with simple UI, good quality
