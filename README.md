@@ -9,7 +9,7 @@ If you're into desktop customization, check it out or contribute!
 Caution: Some websites may have ads; Use adblocker if you need so!
 Website :  https://roigoatzzz.github.io/Wallsync/ and https://wallsync.pages.dev/ . !
 
-Wallpaper of the website: https://wallhaven.cc/w/ly8lpp
+Wallpaper of the website: https://wallpapers-clan.com/desktop-wallpapers/anime-starry-night-desert-scene/
 
 Reddit: https://www.reddit.com/r/WallSyncHub/
 
