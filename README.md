@@ -60,7 +60,8 @@ Help make this megathread better for everyone!
 ### 🔍Recommended Places
 
 - ✨ [Wallhaven](https://wallhaven.cc/) – Huge searchable database  
-   ✨ [Downloader](https://github.com/eramdam/WallbaseDirectDownloader) – 4K download support  
+   ✨ [Downloader](https://github.com/eramdam/WallbaseDirectDownloader) – 4K download support
+- ✨[Wallwindgy](https://www.wallwidgy.app/) - Drawn wallpapers, No AI, very active   
 - ✨ [AlphaCoders](https://alphacoders.com/) - Another big option. All platforms
 - 🩷[SolidColor](https://www.solidbackgrounds.com/) - For enjoyers of empty backgrounds, Lots of colors options
 - 🩷[Xmple](https://xmple.com/) - Abstract Vector + Solid colors wallpaper
@@ -174,6 +175,7 @@ Help make this megathread better for everyone!
 
 ### ⚪Minimalist Clean
 - ✨[Minimalistic Wallpapers](https://minimalistic-wallpaper.demolab.com/), [2](https://archimg.cc/) – Dynamic minimalist wallpaper
+-✨ [Fluffy](https://wp.kernal.bid/) - Minimal, very clean, phone/desktop
 - [WallpapersClan](https://wallpapers-clan.com/) - Minimal, good quality, phone/desktop
 - [Simple Desktops](https://simpledesktops.com/) – Minimalist one-object wallpapers
 - [Positron Dream](https://www.positrondream.com/) – Minimalist and clean aesthetics  
@@ -250,7 +252,8 @@ Help make this megathread better for everyone!
 - [GetWallpapers](https://getwallpapers.com/), [WallpaperTag](https://wallpapertag.com/) , [Dog](https://wallpaper.dog/) - Collections of wallpapers, multiple options
 - [Kurzegesagt](https://drive.google.com/drive/folders/1a4Hbz7Bn-ubmITJkqrwNTWW8zQNr1mwZ) - Unofficial
 - [RareGallery](https://rare-gallery.com/) - Offer for live, phone/desktop
-- [lwallpapers](https://wallpaper.castorisdead.xyz/) - Collection of 900 desktop wallpapers , preview+download  
+- [lwallpapers](https://wallpaper.castorisdead.xyz/) - Collection of 900 desktop wallpapers , preview+download
+-[WallpapersXYZ](https://wallpaperxyz.com/) - Mutliples categories, good quality  
 - [Wallpapers GitLab](https://gitlab.com/dwt1/wallpapers) - GitLab collection
 - [Mix](https://photos.app.goo.gl/h2eM1Bw1xGomqXmt9), [2](https://drive.google.com/drive/folders/0B-9Li62rpt59dXYtNmhVRFRnaXc?resourcekey=0-_YwGtwDOc3jMCaP5grgS9w&usp=drive_link) - Google Photos Collection  
 
