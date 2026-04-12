@@ -12,8 +12,9 @@
 <div class="bg">
 <div class="page">
 <p class="header bold">WallSync Megathread</p>
+
 <p>I maintain <a href="index.html">WallSync</a> — a huge megathread of wallpaper sites (anime, minimal, 4K, live, etc). If you're into desktop customization, check it out or contribute! Caution: Some websites may have ads; use an adblocker. <a href="credits.html">Credits here...</a></p>
-<br />
+
 <p class="smallheader semibold">How to Contribute?</p>
 <p>If you want to suggest a resource or fix, feel free to <a href="https://github.com/roigoatzzz/Wallsync">open an issue or submit a pull request</a>.
 To join the community : <a href="https://www.reddit.com/r/WallSyncHub/">Reddit community</a>.
@@ -25,6 +26,11 @@ If anyone wants to become collaborator, you can ask.
 Ensure links are safe and relevant, respect formatting for consistency.
 
 Thank you for helping improve this project!  Help make this megathread better for everyone!</p>
+
+<div class="search-container">
+  <input type="text" id="categorySearch" placeholder="Search categories (e.g. Anime, Linux, Live)...">
+</div>
+<button id="randomSiteButton" class="random-button">Surprise Me! (Random Website)</button>
 <hr>
 
 <div class="chipbox" style="width: 90%;">
@@ -105,12 +111,255 @@ Thank you for helping improve this project!  Help make this megathread better fo
 </div>
 
 <script>
-  // This script opens external links in a new tab, but keeps site navigation in the same tab
-  document.querySelectorAll('a').forEach(link => {
-    if (link.hostname !== window.location.hostname && link.hostname !== '') {
-      link.setAttribute('target', '_blank');
-      link.setAttribute('rel', 'noopener noreferrer');
-    }
+  document.addEventListener('DOMContentLoaded', function() {
+    // List of all external links for the "Surprise Me!" button
+    const allExternalLinks = [
+      "https://wallhaven.cc",
+      "https://github.com/eramdam/WallbaseDirectDownloader",
+      "https://www.wallwidgy.app/",
+      "https://alphacoders.com",
+      "https://www.solidbackgrounds.com",
+      "https://xmple.com",
+      "https://wallpapercave.com",
+      "https://wallpaperscraft.com",
+      "https://wallpaperaccess.com/",
+      "https://wallpapersden.com/",
+      "https://ziap.github.io/repalette",
+      "https://notneelpatel.xyz/WallpaperThemeConverter/",
+      "https://wallrice.xyz",
+      "https://farbenfroh.io",
+      "https://palettum.com/",
+      "https://github.com/dessant/search-by-image",
+      "https://cse.google.com/cse?cx=c6a789b434f5e4fe5",
+      "https://images.google.com",
+      "https://bing.com/images",
+      "https://yandex.com/images",
+      "https://tineye.com",
+      "https://we-img-search.ordinall.me/",
+      "https://www.reddit.com/r/WallpaperRequests/",
+      "https://wallpapersbyrequest.blogspot.com/",
+      "https://www.reddit.com/r/Amoledbackgrounds",
+      "https://www.reddit.com/r/wallpaper",
+      "https://www.reddit.com/r/wallpapers",
+      "https://www.reddit.com/r/WallpaperDump",
+      "https://www.reddit.com/r/MobileWallpaper/",
+      "https://www.reddit.com/r/phonewallpapers/",
+      "https://www.reddit.com/r/iWallpaper/",
+      "https://www.reddit.com/r/iphonewallpapers/",
+      "https://www.reddit.com/r/LivingBackgrounds/",
+      "https://www.reddit.com/r/MultiWall",
+      "https://www.reddit.com/r/WidescreenWallpapers",
+      "https://www.reddit.com/r/animewallpaper/",
+      "https://www.reddit.com/r/AnimeWallpapersSFW/",
+      "https://anime-pictures.net",
+      "https://wallpaperwaifu.com",
+      "https://www.eronflyart.com/",
+      "https://theotaku.com/wallpapers",
+      "https://haowallpaper.com",
+      "https://www.ghibli.jp/info/013772",
+      "https://colorkit.co/solid-color-wallpapers/",
+      "https://github.com/visika/solarized-wallpapers",
+      "https://github.com/LagrangianLad/arch-minimal-wallpapers",
+      "https://github.com/UncleSpellbinder/Debian-HD-Wallpaper",
+      "https://www.youtube.com/@ozan_1327/videos",
+      "https://t.me/s/wallpaperxverse",
+      "https://chromecastbg.alexmeub.com/",
+      "https://www.androidpolice.com/chromebook-chrome-os-wallpapers/",
+      "https://www.xbox.com/en-us/wallpapers/",
+      "https://www.playstation.com/en-us/wallpapers/",
+      "https://archive.org/details/SDDesktopWallpaper",
+      "https://www.minecraft.net/en-us/collectibles?tabs=%7B%22tab%22%3A0%7D",
+      "https://lolwallpapers.net/",
+      "https://playvalorant.com/en-us/media/",
+      "https://www.hoyolab.com/article/383753",
+      "https://www.hoyolab.com/topicDetail/147423",
+      "https://drive.google.com/drive/folders/10ulrhy1E74FGjoGuiF1YX1n9mOwoyfSy",
+      "https://hoyo.global/art-gallery/official-artwork/#!",
+      "https://hoyo.global/art-gallery/",
+      "https://www.hoyolab.com/article/31953796",
+      "https://overwatch.blizzard.com/en-us/media/",
+      "https://press.cdprojektred.com/en#media",
+      "https://www.steamgriddb.com/",
+      "https://www.cyberpunk.net/ca/en/cyberpunk-2077#media",
+      "https://fankit.supercell.com/",
+      "https://drive.google.com/drive/folders/1-vugng1yqJkh7TrL_a29i8qyls4_1uYc",
+      "https://fantasyanime.com/",
+      "https://www.razer.com/wallpapers",
+      "https://goo.gl/photos/HjY1hmo6p3jfFz8a7",
+      "https://512pixels.net/projects/default-mac-wallpapers-in-5k/",
+      "https://basicappleguy.com/basicappleblog/category/Wallpaper",
+      "https://applescoop.org/wallpapers/",
+      "https://mega.nz/folder/9Z1lFRCa#D-R2BS0CfU1uPCGlEWLVkA",
+      "https://www.raycast.com/wallpapers",
+      "https://minimalistic-wallpaper.demolab.com/",
+      "https://archimg.cc/",
+      "https://wp.kernal.bid/",
+      "https://wallpapers-clan.com/",
+      "https://simpledesktops.com/",
+      "https://www.positrondream.com/",
+      "https://www.setaswall.com/",
+      "https://www.bitday.me/download/index.html",
+      "https://www.pixeltrue.com/scenic-illustrations",
+      "https://coolbackgrounds.io/",
+      "https://drive.google.com/drive/u/0/folders/1-80cROdVY-GSwu9fGnJJyglcERKyJ-gP",
+      "https://mega.nz/folder/aDxj3ZQS#n01Uuhqdp8ls_gObearKdw",
+      "https://www.deviantart.com/windowsaesthetics/gallery",
+      "https://vsthemes.org/en/",
+      "https://windowswallpaper.miraheze.org/wiki/Main_Page",
+      "https://windows10spotlight.com/",
+      "https://bingwallpaper.anerg.com/",
+      "https://bing.gifposter.com/",
+      "https://microsoft.design/wallpapers/",
+      "https://www.wallpaperhub.app/",
+      "https://motionbgs.com/",
+      "https://wallpaperengine.space/",
+      "https://wallegend.net/en/",
+      "https://moewalls.com/",
+      "https://www.youtube.com/@BaluRelaxingNature/videos",
+      "https://www.youtube.com/@primalearth8951/videos",
+      "https://mylivewallpapers.com/",
+      "https://www.desktophut.com/",
+      "https://wallsflow.com/",
+      "https://wallshub.com/",
+      "https://www.youtube.com/@Pixground/videos",
+      "https://www.youtube.com/@HypnoRimaVisuals/videos",
+      "https://www.youtube.com/@4KLiveWallpapers/videos",
+      "https://www.youtube.com/@EronflyArt/videos",
+      "https://3dfiction.com/",
+      "https://www.dualmonitorbackgrounds.com/",
+      "https://wallpaperswide.com/",
+      "https://www.wallpaperfusion.com/",
+      "https://ultrawidewallpapers.net/",
+      "https://gruvbox-wallpapers.pages.dev/",
+      "https://github.com/dxnst/nord-backgrounds",
+      "https://github.com/TheGlitchh/Nord-Wallpapers/tree/master/wallpapers",
+      "https://github.com/D3Ext/aesthetic-wallpapers",
+      "https://github.com/dracula/wallpaper",
+      "https://github.com/helpotters/dracula-wallpapers",
+      "https://github.com/orangci/walls-catppuccin-mocha",
+      "https://github.com/ashish0kumar/windots/tree/main/walls",
+      "https://github.com/Narmis-E/onedark-wallpapers",
+      "https://github.com/tokyo-night/wallpapers",
+      "https://github.com/orangci/walls",
+      "https://github.com/dharmx/walls",
+      "https://github.com/aniismess/walls",
+      "https://github.com/SleepyCatHey/CozyPixels",
+      "https://github.com/vyrx-dev/Wallpapers/",
+      "https://github.com/JoydeepMallick/Wallpapers",
+      "https://github.com/Schneegans/ai-wallpapers",
+      "https://getwallpapers.com/",
+      "https://wallpapertag.com/",
+      "https://wallpaper.dog/",
+      "https://rare-gallery.com/",
+      "https://drive.google.com/drive/folders/1a4Hbz7Bn-ubmITJkqrwNTWW8zQNr1mwZ",
+      "https://wallpaper.castorisdead.xyz/",
+      "https://wallpaperxyz.com/",
+      "https://gitlab.com/dwt1/wallpapers",
+      "https://photos.app.goo.gl/h2eM1Bw1xGomqXmt9",
+      "https://drive.google.com/drive/folders/0B-9Li62rpt59dXYtNmhVRFRnaXc?resourcekey=0-_YwGtwDOc3jMCaP5grgS9w&usp=drive_link",
+      "https://t.me/catppuccinwallpapers",
+      "https://t.me/s/bestwallpapes",
+      "https://t.me/wallpaperselection",
+      "https://t.me/wpr_13",
+      "https://t.me/amoledwallpapers",
+      "https://t.me/wallpaper_heaven19",
+      "https://t.me/animewallpapers106",
+      "https://t.me/G_Walls",
+      "https://t.me/dropmywall",
+      "https://t.me/IconicWallpaperPremium",
+      "https://t.me/wall69papers",
+      "https://t.me/New_4K_Wallpapers",
+      "https://t.me/imancrafft",
+      "https://t.me/desktopwallpapers",
+      "https://github.com/LinuxKits/Distro-wallpapers",
+      "https://github.com/George443001/Distro-wallpapers",
+      "https://github.com/dpejoh/awesome-wallpapers",
+      "https://github.com/dpejoh/phone-wallpapers",
+      "https://github.com/archcraft-os/archcraft-wallpapers",
+      "https://archlinux.org/packages/extra/any/archlinux-wallpaper/",
+      "https://github.com/connorslade/ArchPapers",
+      "https://github.com/CachyOS/cachyos-wallpapers",
+      "https://github.com/pop-os/cosmic-wallpapers/tree/mastee/original",
+      "https://www.debugpoint.com/default-debian-wallpapers-gallery/",
+      "https://github.com/linuxdeepin/deepin-wallpapers",
+      "https://github.com/elementary/wallpapers/tree/main/backgrounds",
+      "https://github.com/EndeavourOS-Community-Editions/Community-wallpapers",
+      "https://github.com/UncleSpellbinder/EndeavourOS-HD-Wallpaper",
+      "https://fedoraproject.org/wiki/Wallpapers",
+      "https://zebreus.github.io/all-gnome-backgrounds/",
+      "https://github.com/KDE/plasma-workspace-wallpapers",
+      "https://invent.kde.org/plasma/plasma-workspace-wallpapers",
+      "https://github.com/rt2yrru/linux_mint_wallpaper",
+      "https://github.com/lumina-desktop/lumina-themes",
+      "https://github.com/lxqt/lxqt-themes/tree/master/wallpapers",
+      "https://gitlab.manjaro.org/artwork/wallpapers",
+      "https://github.com/mate-desktop/mate-backgrounds",
+      "https://github.com/MX-Linux/mx21-artwork/tree/main/backgrounds",
+      "https://github.com/NixOS/nixos-artwork/tree/master/wallpapers",
+      "https://en.opensuse.org/openSUSE:Wallpapers",
+      "https://github.com/openSUSE/artwork/tree/archival/Wallpapers",
+      "https://github.com/pop-os/wallpapers/tree/master/original",
+      "https://github.com/rocky-linux/branding/tree/main/wallpapers",
+      "https://github.com/getsolus/artwork/tree/master/backgrounds",
+      "https://github.com/tuxedocomputers/wallpapers",
+      "https://drive.google.com/drive/folders/1dKGvGgFp4ymGNBPU6LRScfBm4KuwIn2c",
+      "https://github.com/ukui/ukui-wallpapers/tree/master/backgrounds",
+      "https://github.com/UbuntuBudgie/budgie-wallpapers",
+      "https://github.com/ubuntucinnamon/ubuntucinnamon-wallpapers/tree/master/usr/share/backgrounds/ubuntucinnamon",
+      "https://github.com/Vanilla-OS/vanilla-backgrounds/tree/main/backgrounds",
+      "https://github.com/oSoWoSo/Void-Wallpapers/tree/main/assets/walls",
+      "https://gitlab.xfce.org/xfce/xfdesktop/-/tree/master/backgrounds",
+      "https://drive.google.com/file/d/1XYFNkCi2pDdujL9QNZvkU2eqFE1U86n3/view",
+      "https://www.mediafire.com/folder/0zfw0ds7s38xz/zorin-mountain",
+      "https://hdqwalls.com/",
+      "https://www.uhdpaper.com/",
+      "https://www.wallpaper.cam/",
+      "https://4kwallpapers.com/",
+      "https://wallpapers-clan.com/",
+      "https://wallscloud.net/en",
+      "https://wallspic.com/",
+      "https://backiee.com/",
+      "https://www.wallpaperflare.com/",
+      "https://wallpapercat.com/",
+      "https://www.pixground.com/",
+      "https://wallpapergod.com/",
+      "https://coolwallpapers.me/",
+      "https://wallpapercrafter.com/",
+      "https://wallpapersok.com/",
+      "https://wallpapersmax.com/",
+      "https://github.com/roigoatzzz",
+      "https://linktr.ee/svrbrndmg",
+      "https://www.flaticon.com/free-icons/rocky-mountains",
+      "https://fmhy.net/"
+    ];
+
+    // 1. External Link Logic
+    document.querySelectorAll('a').forEach(link => {
+      if (link.hostname !== window.location.hostname && link.hostname !== '') {
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener noreferrer');
+      }
+    });
+
+    // 2. Instant Category Search
+    const searchInput = document.getElementById('categorySearch');
+    const chips = document.querySelectorAll('.chip');
+
+    searchInput.addEventListener('input', function() {
+      const query = searchInput.value.toLowerCase();
+      chips.forEach(chip => {
+        const text = chip.textContent.toLowerCase();
+        chip.style.display = text.includes(query) ? 'flex' : 'none';
+      });
+    });
+
+    // 3. Random Site Button Logic
+    const randomSiteButton = document.getElementById('randomSiteButton');
+    randomSiteButton.addEventListener('click', function() {
+      const randomIndex = Math.floor(Math.random() * allExternalLinks.length);
+      const randomLink = allExternalLinks[randomIndex];
+      window.open(randomLink, '_blank', 'noopener,noreferrer');
+    });
   });
 </script>
 </body>

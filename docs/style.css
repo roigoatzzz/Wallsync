@@ -18,6 +18,62 @@ html, body {
   z-index: 0;
   margin: 0;
   background: url("animenight.jpg") center / cover no-repeat;
+  transition: opacity 0.5s ease-in-out;
+}
+
+/* Search Input Styling */
+.search-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+#categorySearch {
+  width: 100%;
+  max-width: 400px;
+  padding: 12px 20px;
+  background: rgba(0, 0, 0, 0.6); /* Darker background for high contrast */
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 25px;
+  color: #ffffff !important; /* Forces the text to be pure white */
+  font-family: "Zain";
+  font-size: 20px;
+  outline: none;
+  backdrop-filter: blur(10px);
+  transition: 0.3s;
+}
+
+/* Styles the placeholder text color */
+#categorySearch::placeholder {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+#categorySearch:focus {
+  background: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.5);
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);
+}
+
+/* Random Button Styling */
+.random-button {
+  background: linear-gradient(135deg, rgba(144, 238, 144, 0.8), rgba(60, 179, 113, 0.8)); /* Green gradient */
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 25px;
+  color: white;
+  font-family: "Zain";
+  font-size: 20px;
+  padding: 12px 25px;
+  margin-top: 15px; /* Space from search bar */
+  cursor: pointer;
+  outline: none;
+  backdrop-filter: blur(10px);
+  transition: 0.3s ease;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+.random-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
 }
 
 .page {

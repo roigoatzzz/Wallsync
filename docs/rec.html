@@ -60,11 +60,26 @@
 </div>
 
 <script>
-  document.querySelectorAll('a').forEach(link => {
-    if (link.hostname !== window.location.hostname && link.hostname !== '') {
-      link.setAttribute('target', '_blank');
-      link.setAttribute('rel', 'noopener noreferrer');
-    }
+  document.addEventListener('DOMContentLoaded', function() {
+    // External links logic
+    document.querySelectorAll('a').forEach(link => {
+      if (link.hostname !== window.location.hostname && link.hostname !== '') {
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener noreferrer');
+      }
+    });
+
+    // Search/Filter logic for list items
+    const searchInput = document.getElementById('siteSearch');
+    const listItems = document.querySelectorAll('li');
+
+    searchInput.addEventListener('input', function() {
+      const query = searchInput.value.toLowerCase();
+      listItems.forEach(item => {
+        const text = item.textContent.toLowerCase();
+        item.style.display = text.includes(query) ? 'list-item' : 'none';
+      });
+    });
   });
 </script>
 </body>
