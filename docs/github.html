@@ -39,7 +39,13 @@
 </div>
 </div>
 
+<script>
+  document.querySelectorAll('a').forEach(link => {
+    if (link.hostname !== window.location.hostname && link.hostname !== '') {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+</script>
 </body>
 </html>
-
-

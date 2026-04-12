@@ -1,5 +1,6 @@
 html, body {
   margin: 0;
+  background-color: #0b0e14; /* Fixes the 'flashbang' by setting a dark default */
   font-family: "Zain";
   font-size: 24px;
   font-weight: 300;
@@ -164,26 +165,3 @@ ul {
 li {
   filter: drop-shadow(0px 3px 3px black);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -104,16 +104,15 @@ Thank you for helping improve this project!  Help make this megathread better fo
 </div>
 </div>
 
+<script>
+  // This script opens external links in a new tab, but keeps site navigation in the same tab
+  document.querySelectorAll('a').forEach(link => {
+    if (link.hostname !== window.location.hostname && link.hostname !== '') {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+</script>
 </body>
 
 </html>
-
-
-
-
-
-
-
-
-
-
