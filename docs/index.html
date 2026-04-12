@@ -30,7 +30,7 @@ Thank you for helping improve this project!  Help make this megathread better fo
 <div class="search-container">
   <input type="text" id="categorySearch" placeholder="Search categories (e.g. Anime, Linux, Live)...">
 </div>
-<button id="randomSiteButton" class="random-button">Surprise Me! (Random Website)</button>
+<button id="randomSiteButton" class="random-button">Surprise Me!</button>
 <hr>
 
 <div class="chipbox" style="width: 90%;">
@@ -341,17 +341,28 @@ Thank you for helping improve this project!  Help make this megathread better fo
       }
     });
 
-    // 2. Instant Category Search
+    // 2. Debounced Category Search
     const searchInput = document.getElementById('categorySearch');
     const chips = document.querySelectorAll('.chip');
 
-    searchInput.addEventListener('input', function() {
+    // Debounce helper: prevents a function from being called too frequently
+    function debounce(func, delay) {
+      let timeout;
+      return function(...args) {
+        clearTimeout(timeout);
+        timeout = setTimeout(() => func.apply(this, args), delay);
+      };
+    }
+
+    const performSearch = debounce(() => {
       const query = searchInput.value.toLowerCase();
       chips.forEach(chip => {
         const text = chip.textContent.toLowerCase();
         chip.style.display = text.includes(query) ? 'flex' : 'none';
       });
-    });
+    }, 150); // 150ms delay is a good balance between responsiveness and performance
+
+    searchInput.addEventListener('input', performSearch);
 
     // 3. Random Site Button Logic
     const randomSiteButton = document.getElementById('randomSiteButton');
