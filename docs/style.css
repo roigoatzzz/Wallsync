@@ -1,6 +1,6 @@
 html, body {
   margin: 0;
-  background-color: #0a0b0d; /* Fixes the 'flashbang' by setting a dark default */
+  background-color: #060b10; /* Better matches the deep blue of animenight.jpg */
   font-family: "Zain";
   font-size: 24px;
   font-weight: 300;
