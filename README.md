@@ -2,7 +2,7 @@
   <img src="assets/cover.png" alt="WallSync Banner" width="100%" />
 </p>
 
-<h1 align="center">🎨 WallSync Megathread</h1>
+<h1 align="center">🎨 WallSync</h1>
 
 🎨 I maintain WallSync — a huge megathread of wallpaper sites (anime, minimal, 4K, live, etc).
 If you're into desktop customization, check it out or contribute!
