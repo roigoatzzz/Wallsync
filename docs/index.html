@@ -341,16 +341,12 @@ Thank you for helping improve this project!  Help make this megathread better fo
       displaySearchResults(matchingLinks, query);
     }, 150);
 
-    function displaySearchResults(results, query) {
+        function displaySearchResults(results, query) {
       let resultsContainer = document.getElementById('search-results-container');
       
       if (!resultsContainer) {
         resultsContainer = document.createElement('div');
         resultsContainer.id = 'search-results-container';
-        resultsContainer.className = 'page'; 
-        resultsContainer.style.height = 'auto';
-        resultsContainer.style.marginTop = '20px';
-        resultsContainer.style.padding = '20px';
         const hr = document.querySelector('hr');
         hr.parentNode.insertBefore(resultsContainer, hr.nextSibling);
       }
@@ -358,9 +354,10 @@ Thank you for helping improve this project!  Help make this megathread better fo
       if (results.length === 0) {
         resultsContainer.innerHTML = `<p>No external links found for "${query}"</p>`;
       } else {
-        resultsContainer.innerHTML = `<p class="semibold">External links matching "${query}":</p><ul style="text-align: left; list-style: none; padding: 0;">` + 
+        resultsContainer.innerHTML = `<p class="semibold">External links matching "${query}":</p>
+          <ul class="search-results-list">` + 
           results.map(link => {
-            return `<li style="margin-bottom: 10px; text-align: center;"><a href="${link.url}" target="_blank" rel="noopener noreferrer">${link.name}</a></li>`;
+            return `<li class="search-result-item"><a href="${link.url}" target="_blank" rel="noopener noreferrer">${link.name}</a></li>`;
           }).join('') + `</ul>`;
       }
     }
