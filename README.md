@@ -174,7 +174,6 @@ Help make this megathread better for everyone!
 
 ### ⚪Minimalist Clean
 - ✨[Minimalistic Wallpapers](https://minimalistic-wallpaper.demolab.com/), [2](https://archimg.cc/) – Dynamic minimalist wallpaper
--✨ [Fluffy](https://wp.kernal.bid/) - Minimal, very clean, phone/desktop
 - [WallpapersClan](https://wallpapers-clan.com/) - Minimal, good quality, phone/desktop
 - [Simple Desktops](https://simpledesktops.com/) – Minimalist one-object wallpapers
 - [Positron Dream](https://www.positrondream.com/) – Minimalist and clean aesthetics  
