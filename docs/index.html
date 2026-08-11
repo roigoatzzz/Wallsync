@@ -116,7 +116,184 @@ Thank you for helping improve this project!  Help make this megathread better fo
 
 <script>
     document.addEventListener('DOMContentLoaded', function() {
-    // 1. External Link Logic
+      // List of all external links for search
+      const allExternalLinks = [
+        { name: "Wallhaven", url: "https://wallhaven.cc" },
+        { name: "Downloader", url: "https://github.com/eramdam/WallbaseDirectDownloader" },
+        { name: "Wallwindgy", url: "https://www.wallwidgy.app/" },
+        { name: "AlphaCoders", url: "https://alphacoders.com" },
+        { name: "SolidColor", url: "https://www.solidbackgrounds.com" },
+        { name: "Xmple", url: "https://xmple.com" },
+        { name: "WallpaperCave", url: "https://wallpapercave.com" },
+        { name: "WallpapersCraft", url: "https://wallpaperscraft.com" },
+        { name: "WallpaperAccess", url: "https://wallpaperaccess.com/" },
+        { name: "WallpaperDen", url: "https://wallpapersden.com/" },
+        { name: "Repalette", url: "https://ziap.github.io/repalette" },
+        { name: "Wallpaper Theme Converter", url: "https://notneelpatel.xyz/WallpaperThemeConverter/" },
+        { name: "Wallrice", url: "https://wallrice.xyz" },
+        { name: "Farbenfroh", url: "https://farbenfroh.io" },
+        { name: "Palettum", url: "https://palettum.com/" },
+        { name: "Search by Image", url: "https://github.com/dessant/search-by-image" },
+        { name: "SearchWallpapers", url: "https://cse.google.com/cse?cx=c6a789b434f5e4fe5" },
+        { name: "Google Images", url: "https://images.google.com" },
+        { name: "Bing Images", url: "https://bing.com/images" },
+        { name: "Yandex Images", url: "https://yandex.com/images" },
+        { name: "Tineye", url: "https://tineye.com" },
+        { name: "Rev Wallpaper Search", url: "https://we-img-search.ordinall.me/" },
+        { name: "r/WallpaperRequests", url: "https://www.reddit.com/r/WallpaperRequests/" },
+        { name: "r/Amoledbackgrounds", url: "https://www.reddit.com/r/Amoledbackgrounds" },
+        { name: "r/wallpaper", url: "https://www.reddit.com/r/wallpaper" },
+        { name: "r/wallpapers", url: "https://www.reddit.com/r/wallpapers" },
+        { name: "r/WallpaperDump", url: "https://www.reddit.com/r/WallpaperDump" },
+        { name: "r/MobileWallpaper", url: "https://www.reddit.com/r/MobileWallpaper/" },
+        { name: "r/phonewallpapers", url: "https://www.reddit.com/r/phonewallpapers/" },
+        { name: "r/iWallpaper", url: "https://www.reddit.com/r/iWallpaper/" },
+        { name: "r/iphonewallpapers", url: "https://www.reddit.com/r/iphonewallpapers/" },
+        { name: "r/LivingBackgrounds", url: "https://www.reddit.com/r/LivingBackgrounds/" },
+        { name: "r/MultiWall", url: "https://www.reddit.com/r/MultiWall" },
+        { name: "r/WidescreenWallpapers", url: "https://www.reddit.com/r/WidescreenWallpapers" },
+        { name: "r/animewallpaper", url: "https://www.reddit.com/r/animewallpaper/" },
+        { name: "r/AnimeWallpapersSFW", url: "https://www.reddit.com/r/AnimeWallpapersSFW/" },
+        { name: "Anime Pictures", url: "https://anime-pictures.net" },
+        { name: "WallpaperWaifu", url: "https://wallpaperwaifu.com" },
+        { name: "TheOtaku", url: "https://theotaku.com/wallpapers" },
+        { name: "HaoWallpaper", url: "https://haowallpaper.com" },
+        { name: "Studio Ghibli Official", url: "https://www.ghibli.jp/info/013772" },
+        { name: "ColorKit", url: "https://colorkit.co/solid-color-wallpapers/" },
+        { name: "Solarized Wallpapers", url: "https://github.com/visika/solarized-wallpapers" },
+        { name: "ArchMinimal", url: "https://github.com/LagrangianLad/arch-minimal-wallpapers" },
+        { name: "Debian-HD", url: "https://github.com/UncleSpellbinder/Debian-HD-Wallpaper" },
+        { name: "Ozan_1327 YouTube", url: "https://www.youtube.com/@ozan_1327/videos" },
+        { name: "Wallpaperxverse", url: "https://t.me/s/wallpaperxverse" },
+        { name: "Chromecast Backgrounds", url: "https://chromecastbg.alexmeub.com/" },
+        { name: "ChromeOS", url: "https://www.androidpolice.com/chromebook-chrome-os-wallpapers/" },
+        { name: "Xbox Wallpapers", url: "https://www.xbox.com/en-us/wallpapers/" },
+        { name: "PlayStation Wallpapers", url: "https://www.playstation.com/en-us/wallpapers/" },
+        { name: "SteamDeck Wallpapers Archive", url: "https://archive.org/details/SDDesktopWallpaper" },
+        { name: "Minecraft", url: "https://www.minecraft.net/en-us/collectibles?tabs=%7B%22tab%22%3A0%7D" },
+        { name: "LOL", url: "https://lolwallpapers.net/" },
+        { name: "Valorant", url: "https://playvalorant.com/en-us/media/" },
+        { name: "MihoYo", url: "https://www.hoyolab.com/article/383753" },
+        { name: "Brawl Stars", url: "https://drive.google.com/drive/folders/1-vugng1yqJkh7TrL_a29i8qyls4_1uYc" },
+        { name: "FantasyAnime", "url": "https://fantasyanime.com/" },
+        { name: "Razer", url: "https://www.razer.com/wallpapers" },
+        { name: "Mac Walls", url: "https://goo.gl/photos/HjY1hmo6p3jfFz8a7" },
+        { name: "Applescoop", url: "https://applescoop.org/wallpapers/" },
+        { name: "Apple Mega Repo", url: "https://mega.nz/folder/9Z1lFRCa#D-R2BS0CfU1uPCGlEWLVkA" },
+        { name: "Reycast", url: "https://www.raycast.com/wallpapers" },
+        { name: "Minimalistic Wallpapers", url: "https://minimalistic-wallpaper.demolab.com/" },
+        { name: "WallpaperClan", url: "https://wallpapers-clan.com/" },
+        { name: "Simple Desktops", url: "https://simpledesktops.com/" },
+        { name: "Positron Dream", url: "https://www.positrondream.com/" },
+        { name: "SetAsWall", url: "https://www.setaswall.com/" },
+        { name: "Bitday", url: "https://www.bitday.me/download/index.html" },
+        { name: "Scenic Illustrations", url: "https://www.pixeltrue.com/scenic-illustrations" },
+        { name: "CoolBackgrounds", url: "https://coolbackgrounds.io/" },
+        { name: "Ultimate Windows Wallpack", url: "https://drive.google.com/drive/u/0/folders/1-80cROdVY-GSwu9fGnJJyglcERKyJ-gP" },
+        { name: "VSThemes", url: "https://vsthemes.org/en/" },
+        { name: "Windows Wallpaper Wiki", url: "https://windowswallpaper.miraheze.org/wiki/Main_Page" },
+        { name: "Windows Spotlight Archive", url: "https://windows10spotlight.com/" },
+        { name: "Bing Wallpaper Archive", url: "https://bingwallpaper.anerg.com/" },
+        { name: "Microsoft Design Wallpapers", url: "https://microsoft.design/wallpapers/" },
+        { name: "WallpaperHub", url: "https://www.wallpaperhub.app/" },
+        { name: "MotionBGS", url: "https://motionbgs.com/" },
+        { name: "MoeWalls", url: "https://moewalls.com/" },
+        { name: "MyLiveWallpapers", url: "https://mylivewallpapers.com/" },
+        { name: "DesktopHut", "url": "https://www.desktophut.com/" },
+        { name: "Wallsflow", url: "https://wallsflow.com/" },
+        { name: "Wallshub", url: "https://wallshub.com/" },
+        { name: "Pixground", url: "https://www.youtube.com/@Pixground/videos" },
+        { name: "HypnoRimaVisuals", url: "https://www.youtube.com/@HypnoRimaVisuals/videos" },
+        { name: "Cosmic Orion", url: "https://www.youtube.com/@4KLiveWallpapers/videos" },
+        { name: "EronflyArt", url: "https://www.youtube.com/@EronflyArt/videos" },
+        { name: "3dfiction vintage", url: "https://3dfiction.com/" },
+        { name: "DualMonitorBackgrounds", url: "https://www.dualmonitorbackgrounds.com/" },
+        { name: "WallpapersWide", url: "https://wallpaperswide.com/" },
+        { name: "WallpaperFusion", url: "https://www.wallpaperfusion.com/" },
+        { name: "UltraWideWallpapers", url: "https://ultrawidewallpapers.net/" },
+        { name: "GruvboxWallpapers", url: "https://gruvbox-wallpapers.pages.dev/" },
+        { name: "NordBackgrounds", url: "https://github.com/dxnst/nord-backgrounds" },
+        { name: "Aesthetic Wallpapers", url: "https://github.com/D3Ext/aesthetic-wallpapers" },
+        { name: "Dracula Wallpapers", url: "https://github.com/dracula/wallpaper" },
+        { name: "Catppuccin Wallpapers", url: "https://github.com/orangci/walls-catppuccin-mocha" },
+        { name: "Onedark Wallpapers", url: "https://github.com/Narmis-E/onedark-wallpapers" },
+        { name: "TokyoNight Wallpapers", url: "https://github.com/tokyo-night/wallpapers" },
+        { name: "Wallpapers Collection", url: "https://github.com/JoydeepMallick/Wallpapers" },
+        { name: "AI", url: "https://github.com/Schneegans/ai-wallpapers" },
+        { name: "GetWallpapers", url: "https://getwallpapers.com/" },
+        { name: "WallpaperTag", url: "https://wallpapertag.com/" },
+        { name: "Dog", url: "https://wallpaper.dog/" },
+        { name: "RareGallery", url: "https://rare-gallery.com/" },
+        { name: "Kurzegesagt", url: "https://drive.google.com/drive/folders/1a4Hbz7Bn-ubmITJkqrwNTWW8zQNr1mwZ" },
+        { name: "lwallpapers", url: "https://wallpaper.castorisdead.xyz/" },
+        { name: "WallpapersXYZ", url: "https://wallpaperxyz.com/" },
+        { name: "Wallpapers GitLab", url: "https://gitlab.com/dwt1/wallpapers" },
+        { name: "Catppuccin Wallpapers", url: "https://t.me/catppuccinwallpapers" },
+        { name: "BestWallpapers", url: "https://t.me/s/bestwallpapes" },
+        { name: "WallpapersCentral", url: "https://t.me/wallpaperselection" },
+        { name: "Deer", url: "https://t.me/wpr_13" },
+        { name: "Amoled", url: "https://t.me/amoledwallpapers" },
+        { name: "WallpaperHeaven", url: "https://t.me/wallpaper_heaven19" },
+        { name: "AHSRIR", url: "https://t.me/animewallpapers106" },
+        { name: "G_Walls", url: "https://t.me/G_Walls" },
+        { name: "DropMyWall", url: "https://t.me/dropmywall" },
+        { name: "Iconic", url: "https://t.me/IconicWallpaperPremium" },
+        { name: "Wallpapers", url: "https://t.me/wall69papers" },
+        { name: "Phones", url: "https://t.me/New_4K_Wallpapers" },
+        { name: "ImanCraft", url: "https://t.me/imancrafft" },
+        { name: "DesktopWallpapers", url: "https://t.me/desktopwallpapers" },
+        { name: "Distros Wallpapers", url: "https://github.com/LinuxKits/Distro-wallpapers" },
+        { name: "Awesome-Wallpapers", url: "https://github.com/dpejoh/awesome-wallpapers" },
+        { name: "Phone", url: "https://github.com/dpejoh/phone-wallpapers" },
+        { name: "Archcraft Wallpapers", url: "https://github.com/archcraft-os/archcraft-wallpapers" },
+        { name: "Arch Linux Wallpapers", url: "https://archlinux.org/packages/extra/any/archlinux-wallpaper/" },
+        { name: "Archpapers", url: "https://github.com/connorslade/ArchPapers" },
+        { name: "CachyOS Wallpapers", url: "https://github.com/CachyOS/cachyos-wallpapers" },
+        { name: "Cosmic", url: "https://github.com/pop-os/cosmic-wallpapers/tree/mastee/original" },
+        { name: "Debian Wallpapers", url: "https://www.debugpoint.com/default-debian-wallpapers-gallery/" },
+        { name: "Deepin Wallpapers", url: "https://github.com/linuxdeepin/deepin-wallpapers" },
+        { name: "ElementaryOS", url: "https://github.com/elementary/wallpapers/tree/main/backgrounds" },
+        { name: "EndeavourOS Community Wallpapers", url: "https://github.com/EndeavourOS-Community-Editions/Community-wallpapers" },
+        { name: "Fedora Wallpapers", url: "https://fedoraproject.org/wiki/Wallpapers" },
+        { name: "Gnome Backgrounds", url: "https://zebreus.github.io/all-gnome-backgrounds/" },
+        { name: "KDE", url: "https://github.com/KDE/plasma-workspace-wallpapers" },
+        { name: "Linux Mint Wallpapers", url: "https://github.com/rt2yrru/linux_mint_wallpaper" },
+        { name: "Lumina", url: "https://github.com/lumina-desktop/lumina-themes" },
+        { name: "Lxqt", url: "https://github.com/lxqt/lxqt-themes/tree/master/wallpapers" },
+        { name: "Manjaro", url: "https://gitlab.manjaro.org/artwork/wallpapers" },
+        { name: "MATE", url: "https://github.com/mate-desktop/mate-backgrounds" },
+        { name: "MX Linux", url: "https://github.com/MX-Linux/mx21-artwork/tree/main/backgrounds" },
+        { name: "NixOS", url: "https://github.com/NixOS/nixos-artwork/tree/master/wallpapers" },
+        { name: "OpenSUSE Wallpapers", url: "https://en.opensuse.org/openSUSE:Wallpapers" },
+        { name: "Pop!_OS Wallpapers", url: "https://github.com/pop-os/wallpapers/tree/master/original" },
+        { name: "RockyLinux", url: "https://github.com/rocky-linux/branding/tree/main/wallpapers" },
+        { name: "Solus", url: "https://github.com/getsolus/artwork/tree/master/backgrounds" },
+        { name: "Tuxedo OS", url: "https://github.com/tuxedocomputers/wallpapers" },
+        { name: "Ubuntu", url: "https://drive.google.com/drive/folders/1dKGvGgFp4ymGNBPU6LRScfBm4KuwIn2c" },
+        { name: "UKUI", url: "https://github.com/ukui/ukui-wallpapers/tree/master/backgrounds" },
+        { name: "Ubuntu Budgie Wallpapers", url: "https://github.com/UbuntuBudgie/budgie-wallpapers" },
+        { name: "Vanilla OS", url: "https://github.com/Vanilla-OS/vanilla-backgrounds/tree/main/backgrounds" },
+        { name: "VoidLinux Wallpapers", url: "https://github.com/oSoWoSo/Void-Wallpapers/tree/main/assets/walls" },
+        { name: "Xfce", url: "https://gitlab.xfce.org/xfce/xfdesktop/-/tree/master/backgrounds" },
+        { name: "Zorin OS 17 Wallpapers", url: "https://drive.google.com/file/d/1XYFNkCi2pDdujL9QNZvkU2eqFE1U86n3/view" },
+        { name: "HDQwalls", url: "https://hdqwalls.com/" },
+        { name: "UHD Wallpaper", url: "https://www.uhdpaper.com/" },
+        { name: "WallpaperCam", url: "https://www.wallpaper.cam/" },
+        { name: "4k Wallpapers", url: "https://4kwallpapers.com/" },
+        { name: "Wallscloud", url: "https://wallscloud.net/en" },
+        { name: "WallsPic", url: "https://wallspic.com/" },
+        { name: "Backie", url: "https://backiee.com/" },
+        { name: "WallpaperFlare", url: "https://www.wallpaperflare.com/" },
+        { name: "WallpaperCat", url: "https://wallpapercat.com/" },
+        { name: "PixGround", url: "https://www.pixground.com/" },
+        { name: "WallpaperGod", url: "https://wallpapergod.com/" },
+        { name: "Wallpapercrafter", url: "https://wallpapercrafter.com/" },
+        { name: "WallpapersOk", url: "https://wallpapersok.com/" },
+        { name: "WallpapersMax", url: "https://wallpapersmax.com/" },
+        { name: "FMHY", url: "https://fmhy.net/" }
+      ];
+
+      // 1. External Link Logic
     document.querySelectorAll('a').forEach(link => {
       if (link.hostname !== window.location.hostname && link.hostname !== '') {
         link.setAttribute('target', '_blank');
@@ -124,11 +301,11 @@ Thank you for helping improve this project!  Help make this megathread better fo
       }
     });
 
-    // 2. Debounced Category Search
+        // 2. Search Logic
     const searchInput = document.getElementById('categorySearch');
     const chips = document.querySelectorAll('.chip');
 
-    // Debounce helper: prevents a function from being called too frequently
+    // Debounce helper
     function debounce(func, delay) {
       let timeout;
       return function(...args) {
@@ -138,14 +315,58 @@ Thank you for helping improve this project!  Help make this megathread better fo
     }
 
     const performSearch = debounce(() => {
-      const query = searchInput.value.toLowerCase();
+      const query = searchInput.value.toLowerCase().trim();
+      
+      if (query === "") {
+        // Reset chips and hide search results if query is empty
+        chips.forEach(chip => chip.style.display = 'flex');
+        const existingResults = document.getElementById('search-results-container');
+        if (existingResults) existingResults.remove();
+        return;
+      }
+
+      // Filter chips
       chips.forEach(chip => {
         const text = chip.textContent.toLowerCase();
         chip.style.display = text.includes(query) ? 'flex' : 'none';
       });
-    }, 150); // 150ms delay is a good balance between responsiveness and performance
 
-        searchInput.addEventListener('input', performSearch);
+            // Find matching links from allExternalLinks
+      const matchingLinks = allExternalLinks.filter(link => {
+        const name = link.name.toLowerCase();
+        const url = link.url.toLowerCase();
+        return name.includes(query) || url.includes(query);
+      });
+
+      displaySearchResults(matchingLinks, query);
+    }, 150);
+
+    function displaySearchResults(results, query) {
+      let resultsContainer = document.getElementById('search-results-container');
+      
+      if (!resultsContainer) {
+        resultsContainer = document.createElement('div');
+        resultsContainer.id = 'search-results-container';
+        resultsContainer.className = 'page'; 
+        resultsContainer.style.height = 'auto';
+        resultsContainer.style.marginTop = '20px';
+        resultsContainer.style.padding = '20px';
+        const hr = document.querySelector('hr');
+        hr.parentNode.insertBefore(resultsContainer, hr.nextSibling);
+      }
+
+      if (results.length === 0) {
+        resultsContainer.innerHTML = `<p>No external links found for "${query}"</p>`;
+      } else {
+        resultsContainer.innerHTML = `<p class="semibold">External links matching "${query}":</p><ul style="text-align: left; list-style: none; padding: 0;">` + 
+          results.map(link => {
+            return `<li style="margin-bottom: 10px; text-align: center;"><a href="${link.url}" target="_blank" rel="noopener noreferrer">${link.name}</a></li>`;
+          }).join('') + `</ul>`;
+      }
+    }
+
+    searchInput.addEventListener('input', performSearch);
+
   });
 </script>
 </body>
