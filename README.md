@@ -67,6 +67,7 @@ Help make this megathread better for everyone!
 - ✨ [AlphaCoders](https://alphacoders.com/) - Another big option. All platforms
 - 🩷[SolidColor](https://www.solidbackgrounds.com/) - For enjoyers of empty backgrounds, Lots of colors options
 - 🩷[Xmple](https://xmple.com/) - Abstract Vector + Solid colors wallpaper
+- [PhWalls](https://phwalls.com) - Wallpapers for official brands/enterprise.
 - [WallpaperCave](https://wallpapercave.com/) – Community-contributed wallpaper database  
 - [WallpapersCraft](https://wallpaperscraft.com/) – Mobile and desktop resolutions  
 - [WallpaperAccess](https://wallpaperaccess.com/) - Mobile/Desktop  
@@ -166,6 +167,7 @@ Help make this megathread better for everyone!
 
 - [Mac Walls](https://goo.gl/photos/HjY1hmo6p3jfFz8a7) – Every MacS wallpaper
 - ✨[Upscaled](https://512pixels.net/projects/default-mac-wallpapers-in-5k/) - Upscaled in 6k  
+- [AppleWalls](https://applewalls.com/) - Explore original iPhone, iPad, Mac and Live wallpapers.
 - [BasicAppleBlog Wallpapers](https://basicappleguy.com/basicappleblog/category/Wallpaper) – Custom iOS/macOS style wallpapers  
 - [Applescoop](https://applescoop.org/wallpapers/) - For iPhone
 - [Apple](https://mega.nz/folder/9Z1lFRCa#D-R2BS0CfU1uPCGlEWLVkA)- Apple wallpapers, Mega repo
@@ -324,6 +326,7 @@ Help make this megathread better for everyone!
 - ✨ [WallpaperCam](https://www.wallpaper.cam/) - 4K/8k wallpapers , desktop/phone 
 - ✨ [4k Wallpapers](https://4kwallpapers.com/) - Mostly high-resolution
 - [WallpaperClan](https://wallpapers-clan.com/) - Mostly good to find what you need, Phone/Desktop
+- [WallpaperFeed](https://wallpaperfeed.com/) - Free 4K Wallpapers for Every Screen.
 - [Wallscloud](https://wallscloud.net/en) - Good quality, choice of resolution
 - [WallsPic](https://wallspic.com/) – Mixed high-res wallpapers
 - [MovieScreencaps](https://movie-screencaps.com/) - Screencap for movies(download possible)
