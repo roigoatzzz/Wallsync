@@ -13,7 +13,7 @@ Wallpaper of the website: https://wallpapers-clan.com/desktop-wallpapers/anime-s
 
 Reddit: https://www.reddit.com/r/WallSyncHub/
 
-<h1 align="center"> I need testers for my website, because I Can't garantee it all of them works! Please report bugs or offline links! </h1>
+<h1 align="center"> I need testers for my website, because I can't verify if all of them works! Report bugs or offline links! </h1>
 
 <hr />
 
