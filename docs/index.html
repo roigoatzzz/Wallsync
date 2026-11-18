@@ -35,6 +35,18 @@ Thank you for helping improve this project!  Help make this megathread better fo
 <div class="search-container">
   <input type="text" id="categorySearch" placeholder="Search categories (e.g. Anime, Linux, Live)...">
 </div>
+<div class="wallpaper-controls" aria-label="Browser wallpaper controls">
+  <select id="wallpaperSelect" title="Choose a WallSync browser background">
+    <option value="animenight.jpg">Anime Night</option>
+    <option value="decoration.jpg">Decoration</option>
+    <option value="blackdots.jpg">Black Dots</option>
+    <option value="fullmoon.jpg">Full Moon</option>
+  </select>
+  <button id="randomWallpaperButton" type="button">Random background</button>
+  <label for="wallpaperUpload">Upload background</label>
+  <input class="wallpaper-upload" id="wallpaperUpload" type="file" accept="image/*">
+  <button id="resetWallpaperButton" type="button">Reset</button>
+</div>
 <button id="randomSiteButton" class="random-button" type="button" disabled>Loading random sites...</button>
 <div id="link-status-summary" aria-live="polite">Checking link status...</div>
 <hr>
@@ -118,6 +130,87 @@ Thank you for helping improve this project!  Help make this megathread better fo
 
 <script>
     document.addEventListener('DOMContentLoaded', function() {
+      const wallpaperSelect = document.getElementById('wallpaperSelect');
+      const randomWallpaperButton = document.getElementById('randomWallpaperButton');
+      const wallpaperUpload = document.getElementById('wallpaperUpload');
+      const resetWallpaperButton = document.getElementById('resetWallpaperButton');
+      const wallpaperArea = document.querySelector('.bg');
+      const wallpaperStorageKey = 'wallsync-browser-wallpaper';
+      const builtInWallpapers = [
+        'animenight.jpg',
+        'decoration.jpg',
+        'blackdots.jpg',
+        'fullmoon.jpg'
+      ];
+
+      function setBrowserWallpaper(value, persist = true) {
+        const wallpaperValue = value.startsWith('data:image/')
+          ? `url("${value}")`
+          : `url("${value}")`;
+        wallpaperArea.style.setProperty('--wallpaper-image', wallpaperValue);
+
+        if (persist) {
+          try {
+            localStorage.setItem(wallpaperStorageKey, value);
+          } catch (error) {
+            console.warn('Could not save the browser wallpaper:', error);
+          }
+        }
+
+        if (builtInWallpapers.includes(value)) {
+          wallpaperSelect.value = value;
+        }
+      }
+
+      let savedWallpaper = null;
+      try {
+        savedWallpaper = localStorage.getItem(wallpaperStorageKey);
+      } catch (error) {
+        console.warn('Could not read the saved browser wallpaper:', error);
+      }
+
+      if (savedWallpaper) {
+        setBrowserWallpaper(savedWallpaper, false);
+      }
+
+      wallpaperSelect.addEventListener('change', function() {
+        setBrowserWallpaper(wallpaperSelect.value);
+      });
+
+      randomWallpaperButton.addEventListener('click', function() {
+        const currentIndex = builtInWallpapers.indexOf(wallpaperSelect.value);
+        const candidates = builtInWallpapers.filter((_, index) => index !== currentIndex);
+        const randomWallpaper = candidates[Math.floor(Math.random() * candidates.length)];
+        setBrowserWallpaper(randomWallpaper);
+      });
+
+      wallpaperUpload.addEventListener('change', function() {
+        const file = wallpaperUpload.files && wallpaperUpload.files[0];
+        if (!file || !file.type.startsWith('image/')) {
+          return;
+        }
+        if (file.size > 4 * 1024 * 1024) {
+          alert('Please choose an image smaller than 4 MB.');
+          wallpaperUpload.value = '';
+          return;
+        }
+
+        const reader = new FileReader();
+        reader.onload = function() {
+          setBrowserWallpaper(reader.result);
+        };
+        reader.readAsDataURL(file);
+      });
+
+      resetWallpaperButton.addEventListener('click', function() {
+        try {
+          localStorage.removeItem(wallpaperStorageKey);
+        } catch (error) {
+          console.warn('Could not remove the saved browser wallpaper:', error);
+        }
+        setBrowserWallpaper('animenight.jpg', false);
+      });
+
       // List of all external links for search
       let allExternalLinks = [
         { name: "Wallhaven", url: "https://wallhaven.cc" },

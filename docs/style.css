@@ -17,8 +17,60 @@ html, body {
   height: 100vh;
   z-index: 0;
   margin: 0;
-  background: url("animenight.jpg") center / cover no-repeat;
+  background: var(--wallpaper-image, url("animenight.jpg")) center / cover no-repeat;
   transition: opacity 0.5s ease-in-out;
+}
+
+.wallpaper-controls {
+  width: 100%;
+  max-width: 720px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin: 10px auto 20px;
+}
+
+.wallpaper-controls label,
+.wallpaper-controls button {
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 20px;
+  background: rgba(0, 0, 0, 0.55);
+  color: white;
+  font-family: "Zain";
+  font-size: 18px;
+  padding: 8px 14px;
+}
+
+.wallpaper-controls select {
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 20px;
+  background: rgba(0, 0, 0, 0.55);
+  color: white;
+  font-family: "Zain";
+  font-size: 18px;
+  padding: 8px 12px;
+}
+
+.wallpaper-controls select option {
+  background: #111820;
+  color: white;
+}
+
+.wallpaper-controls button,
+.wallpaper-controls label {
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.wallpaper-controls button:hover,
+.wallpaper-controls label:hover {
+  background: rgba(255, 255, 255, 0.18);
+}
+
+.wallpaper-upload {
+  display: none;
 }
 
 /* Search Input Styling */
