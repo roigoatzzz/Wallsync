@@ -1,0 +1,1516 @@
+{
+  "checked_at": "2026-11-18T01:51:58.284466+00:00",
+  "summary": {
+    "working": 207,
+    "broken": 0,
+    "uncertain": 8
+  },
+  "links": {
+    "https://theotaku.com/wallpapers": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "anime.html"
+      ]
+    },
+    "https://applescoop.org/wallpapers/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "apple.html"
+      ]
+    },
+    "https://anime-pictures.net": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "anime.html"
+      ]
+    },
+    "https://wallpaperwaifu.com": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "anime.html"
+      ]
+    },
+    "https://mega.nz/folder/9Z1lFRCa#D-R2BS0CfU1uPCGlEWLVkA": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "apple.html"
+      ]
+    },
+    "https://getwallpapers.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "collections.html"
+      ]
+    },
+    "https://wallpaper.dog/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "collections.html"
+      ]
+    },
+    "https://512pixels.net/projects/default-mac-wallpapers-in-5k/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "apple.html"
+      ]
+    },
+    "https://www.raycast.com/wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "apple.html"
+      ]
+    },
+    "https://wallpapertag.com/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "collections.html"
+      ]
+    },
+    "https://applewalls.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "apple.html"
+      ]
+    },
+    "https://wallpaper.castorisdead.xyz/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "collections.html"
+      ]
+    },
+    "https://gitlab.com/dwt1/wallpapers": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "collections.html"
+      ]
+    },
+    "https://www.ghibli.jp/info/013772": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "anime.html"
+      ]
+    },
+    "https://drive.google.com/drive/folders/0B-9Li62rpt59dXYtNmhVRFRnaXc?resourcekey=0-_YwGtwDOc3jMCaP5grgS9w&usp=drive_link": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "collections.html"
+      ]
+    },
+    "https://drive.google.com/drive/folders/1a4Hbz7Bn-ubmITJkqrwNTWW8zQNr1mwZ": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "collections.html"
+      ]
+    },
+    "https://ziap.github.io/repalette": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "converter.html"
+      ]
+    },
+    "https://notneelpatel.xyz/WallpaperThemeConverter/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "converter.html"
+      ]
+    },
+    "https://goo.gl/photos/HjY1hmo6p3jfFz8a7": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "apple.html"
+      ]
+    },
+    "https://linktr.ee/svrbrndmg": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "credits.html"
+      ]
+    },
+    "https://github.com/roigoatzzz": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "credits.html"
+      ]
+    },
+    "https://wallpaperxyz.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "collections.html"
+      ]
+    },
+    "https://fmhy.net/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "credits.html"
+      ]
+    },
+    "https://www.minecraft.net/en-us/collectibles?tabs=%7B%22tab%22%3A0%7D": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "games.html"
+      ]
+    },
+    "https://wallrice.xyz": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "converter.html"
+      ]
+    },
+    "https://rare-gallery.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "collections.html"
+      ]
+    },
+    "https://basicappleguy.com/basicappleblog/category/Wallpaper": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "apple.html"
+      ]
+    },
+    "https://www.hoyolab.com/article/383753": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "games.html"
+      ]
+    },
+    "https://playvalorant.com/en-us/media/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "games.html"
+      ]
+    },
+    "https://drive.google.com/drive/folders/10ulrhy1E74FGjoGuiF1YX1n9mOwoyfSy": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "games.html"
+      ]
+    },
+    "https://www.flaticon.com/free-icons/rocky-mountains": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "credits.html"
+      ]
+    },
+    "https://www.hoyolab.com/article/31953796": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "games.html"
+      ]
+    },
+    "https://haowallpaper.com": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "anime.html"
+      ]
+    },
+    "https://hoyo.global/art-gallery/official-artwork/#!": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "games.html"
+      ]
+    },
+    "https://www.steamgriddb.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "games.html"
+      ]
+    },
+    "https://www.hoyolab.com/topicDetail/147423": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "games.html"
+      ]
+    },
+    "https://www.cyberpunk.net/ca/en/cyberpunk-2077#media": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "games.html"
+      ]
+    },
+    "https://overwatch.blizzard.com/en-us/media/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "games.html"
+      ]
+    },
+    "https://fankit.supercell.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "games.html"
+      ]
+    },
+    "https://drive.google.com/drive/folders/1-vugng1yqJkh7TrL_a29i8qyls4_1uYc": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "games.html"
+      ]
+    },
+    "https://github.com/D3Ext/aesthetic-wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "github.html"
+      ]
+    },
+    "https://www.razer.com/wallpapers": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "games.html"
+      ]
+    },
+    "https://fantasyanime.com/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "games.html"
+      ]
+    },
+    "https://github.com/dracula/wallpaper": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "github.html"
+      ]
+    },
+    "https://hoyo.global/art-gallery/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "games.html"
+      ]
+    },
+    "https://photos.app.goo.gl/h2eM1Bw1xGomqXmt9": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "collections.html"
+      ]
+    },
+    "https://github.com/ashish0kumar/windots/tree/main/walls": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "github.html"
+      ]
+    },
+    "https://github.com/orangci/walls-catppuccin-mocha": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "github.html"
+      ]
+    },
+    "https://github.com/dxnst/nord-backgrounds": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "github.html"
+      ]
+    },
+    "https://github.com/Narmis-E/onedark-wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "github.html"
+      ]
+    },
+    "https://palettum.com/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "converter.html"
+      ]
+    },
+    "https://github.com/SleepyCatHey/CozyPixels": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "github.html"
+      ]
+    },
+    "https://github.com/dharmx/walls": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "github.html"
+      ]
+    },
+    "https://github.com/orangci/walls": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "github.html"
+      ]
+    },
+    "https://www.reddit.com/r/WallSyncHub/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "index.html"
+      ]
+    },
+    "https://github.com/JoydeepMallick/Wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "github.html"
+      ]
+    },
+    "https://github.com/helpotters/dracula-wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "github.html"
+      ]
+    },
+    "https://github.com/vyrx-dev/Wallpapers/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "github.html"
+      ]
+    },
+    "https://github.com/roigoatzzz/Wallsync": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "index.html"
+      ]
+    },
+    "https://github.com/Schneegans/ai-wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "github.html"
+      ]
+    },
+    "https://github.com/LinuxKits/Distro-wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart1.html"
+      ]
+    },
+    "https://github.com/George443001/Distro-wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart1.html"
+      ]
+    },
+    "https://github.com/dpejoh/awesome-wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart1.html"
+      ]
+    },
+    "https://github.com/archcraft-os/archcraft-wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart1.html"
+      ]
+    },
+    "https://github.com/tokyo-night/wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "github.html"
+      ]
+    },
+    "https://github.com/connorslade/ArchPapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart1.html"
+      ]
+    },
+    "https://press.cdprojektred.com/en#media": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "games.html"
+      ]
+    },
+    "https://github.com/dpejoh/phone-wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart1.html"
+      ]
+    },
+    "https://github.com/CachyOS/cachyos-wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart1.html"
+      ]
+    },
+    "https://github.com/pop-os/cosmic-wallpapers/tree/master/original": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart1.html"
+      ]
+    },
+    "https://archlinux.org/packages/extra/any/archlinux-wallpaper/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "linuxpart1.html"
+      ]
+    },
+    "https://github.com/linuxdeepin/deepin-wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart1.html"
+      ]
+    },
+    "https://www.debugpoint.com/default-debian-wallpapers-gallery/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "linuxpart1.html"
+      ]
+    },
+    "https://zebreus.github.io/all-gnome-backgrounds/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart1contd.html"
+      ]
+    },
+    "https://github.com/EndeavourOS-Community-Editions/Community-wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart1contd.html"
+      ]
+    },
+    "https://gruvbox-wallpapers.pages.dev/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "github.html"
+      ]
+    },
+    "https://github.com/KDE/plasma-workspace-wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart1contd.html"
+      ]
+    },
+    "https://github.com/rt2yrru/linux_mint_wallpaper": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart1contd.html"
+      ]
+    },
+    "https://github.com/lxqt/lxqt-themes/tree/master/wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart1contd.html"
+      ]
+    },
+    "https://github.com/elementary/wallpapers/tree/main/backgrounds": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart1.html"
+      ]
+    },
+    "https://fedoraproject.org/wiki/Wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart1contd.html"
+      ]
+    },
+    "https://github.com/mate-desktop/mate-backgrounds": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart1contd.html"
+      ]
+    },
+    "https://github.com/NixOS/nixos-artwork/tree/master/wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart2.html"
+      ]
+    },
+    "https://github.com/MX-Linux/mx21-artwork/tree/main/backgrounds": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart2.html"
+      ]
+    },
+    "https://github.com/lumina-desktop/lumina-themes": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart1contd.html"
+      ]
+    },
+    "https://github.com/pop-os/wallpapers/tree/master/original": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart2.html"
+      ]
+    },
+    "https://github.com/openSUSE/artwork/tree/archival/Wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart2.html"
+      ]
+    },
+    "https://github.com/tuxedocomputers/wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart2.html"
+      ]
+    },
+    "https://github.com/rocky-linux/branding/tree/main/wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart2.html"
+      ]
+    },
+    "https://github.com/getsolus/artwork/tree/master/backgrounds": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart2.html"
+      ]
+    },
+    "https://github.com/ubuntucinnamon/ubuntucinnamon-wallpapers/tree/master/usr/share/backgrounds/ubuntucinnamon": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart2contd.html"
+      ]
+    },
+    "https://github.com/ukui/ukui-wallpapers/tree/master/backgrounds": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart2.html"
+      ]
+    },
+    "https://invent.kde.org/plasma/plasma-workspace-wallpapers": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "linuxpart1contd.html"
+      ]
+    },
+    "https://drive.google.com/drive/folders/1dKGvGgFp4ymGNBPU6LRScfBm4KuwIn2c": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "linuxpart2.html"
+      ]
+    },
+    "https://lolwallpapers.net/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "games.html"
+      ]
+    },
+    "https://motionbgs.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "live.html"
+      ]
+    },
+    "https://moewalls.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "live.html"
+      ]
+    },
+    "https://www.mediafire.com/folder/0zfw0ds7s38xz/zorin-mountain": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "linuxpart2contd.html"
+      ]
+    },
+    "https://www.youtube.com/@BaluRelaxingNature/videos": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "live.html"
+      ]
+    },
+    "https://www.youtube.com/@primalearth8951/videos": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "live.html"
+      ]
+    },
+    "https://www.desktophut.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "live.html"
+      ]
+    },
+    "https://wallegend.net/en/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "live.html"
+      ]
+    },
+    "https://wallsflow.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "live.html"
+      ]
+    },
+    "https://github.com/Vanilla-OS/vanilla-backgrounds/tree/main/backgrounds": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart2contd.html"
+      ]
+    },
+    "https://gitlab.xfce.org/xfce/xfdesktop/-/tree/master/backgrounds": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "linuxpart2contd.html"
+      ]
+    },
+    "https://www.youtube.com/@4KLiveWallpapers/videos": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "livecontd.html"
+      ]
+    },
+    "https://www.youtube.com/@Pixground/videos": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "livecontd.html"
+      ]
+    },
+    "https://3dfiction.com/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "livecontd.html"
+      ]
+    },
+    "https://minimalistic-wallpaper.demolab.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "minimalist.html"
+      ]
+    },
+    "https://www.positrondream.com/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "minimalist.html"
+      ]
+    },
+    "https://www.youtube.com/@HypnoRimaVisuals/videos": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "livecontd.html"
+      ]
+    },
+    "https://github.com/oSoWoSo/Void-Wallpapers/tree/main/assets/walls": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart2contd.html"
+      ]
+    },
+    "https://www.youtube.com/@EronflyArt/videos": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "livecontd.html"
+      ]
+    },
+    "https://www.setaswall.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "minimalist.html"
+      ]
+    },
+    "https://wallpapers-clan.com/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "minimalist.html",
+        "other.html"
+      ]
+    },
+    "https://wallpaperswide.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "multimonitor.html"
+      ]
+    },
+    "https://github.com/UbuntuBudgie/budgie-wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart2.html"
+      ]
+    },
+    "https://www.wallpaperfusion.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "multimonitor.html"
+      ]
+    },
+    "https://www.uhdpaper.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "other.html"
+      ]
+    },
+    "https://hdqwalls.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "other.html"
+      ]
+    },
+    "https://ultrawidewallpapers.net/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "multimonitor.html"
+      ]
+    },
+    "https://simpledesktops.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "minimalist.html"
+      ]
+    },
+    "https://www.wallpaper.cam/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "other.html"
+      ]
+    },
+    "https://backiee.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "other.html"
+      ]
+    },
+    "https://www.dualmonitorbackgrounds.com/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "multimonitor.html"
+      ]
+    },
+    "https://archimg.cc/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "minimalist.html"
+      ]
+    },
+    "https://wallpapercat.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "other.html"
+      ]
+    },
+    "https://4kwallpapers.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "other.html"
+      ]
+    },
+    "https://wallspic.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "other.html"
+      ]
+    },
+    "https://www.pixground.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "othercontd.html"
+      ]
+    },
+    "https://wallscloud.net/en": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "other.html"
+      ]
+    },
+    "https://wallpapersok.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "othercontd.html"
+      ]
+    },
+    "https://wallhaven.cc": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "rec.html"
+      ]
+    },
+    "https://wallshub.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "live.html"
+      ]
+    },
+    "https://github.com/eramdam/WallbaseDirectDownloader": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "rec.html"
+      ]
+    },
+    "https://alphacoders.com": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "rec.html"
+      ]
+    },
+    "https://wallpapergod.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "othercontd.html"
+      ]
+    },
+    "https://www.bitday.me/download/index.html": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "minimalist.html"
+      ]
+    },
+    "https://xmple.com": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "rec.html"
+      ]
+    },
+    "https://www.solidbackgrounds.com": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "rec.html"
+      ]
+    },
+    "https://wallpapercrafter.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "othercontd.html"
+      ]
+    },
+    "https://wallpaperfeed.com/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "othercontd.html"
+      ]
+    },
+    "https://wallpapersbyrequest.blogspot.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "reddit.html"
+      ]
+    },
+    "https://wallpapercave.com": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "rec.html"
+      ]
+    },
+    "https://www.wallwidgy.app/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "rec.html"
+      ]
+    },
+    "https://wallpapersmax.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "othercontd.html"
+      ]
+    },
+    "https://phwalls.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "rec.html"
+      ]
+    },
+    "https://github.com/UncleSpellbinder/EndeavourOS-HD-Wallpaper": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "linuxpart1contd.html"
+      ]
+    },
+    "https://www.reddit.com/r/iWallpaper/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "reddit.html"
+      ]
+    },
+    "https://www.reddit.com/r/iphonewallpapers/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "reddit.html"
+      ]
+    },
+    "https://wallpaperaccess.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "rec.html"
+      ]
+    },
+    "https://www.reddit.com/r/WallpaperRequests/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "reddit.html"
+      ]
+    },
+    "https://www.reddit.com/r/MobileWallpaper/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "reddit.html"
+      ]
+    },
+    "https://www.reddit.com/r/animewallpaper/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "redditcontd.html"
+      ]
+    },
+    "https://www.reddit.com/r/AnimeWallpapersSFW/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "redditcontd.html"
+      ]
+    },
+    "https://www.reddit.com/r/WidescreenWallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "redditcontd.html"
+      ]
+    },
+    "https://www.reddit.com/r/Amoledbackgrounds": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "reddit.html"
+      ]
+    },
+    "https://www.reddit.com/r/phonewallpapers/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "reddit.html"
+      ]
+    },
+    "https://www.reddit.com/r/wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "reddit.html"
+      ]
+    },
+    "https://www.reddit.com/r/wallpaper": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "reddit.html"
+      ]
+    },
+    "https://cse.google.com/cse?cx=c6a789b434f5e4fe5": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "reverse.html"
+      ]
+    },
+    "https://images.google.com": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "reverse.html"
+      ]
+    },
+    "https://tineye.com": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "reverse.html"
+      ]
+    },
+    "https://github.com/dessant/search-by-image": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "reverse.html"
+      ]
+    },
+    "https://www.reddit.com/r/WallpaperDump": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "reddit.html"
+      ]
+    },
+    "https://www.reddit.com/r/LivingBackgrounds/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "reddit.html"
+      ]
+    },
+    "https://coolbackgrounds.io/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "scenic.html"
+      ]
+    },
+    "https://www.reddit.com/r/MultiWall": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "reddit.html"
+      ]
+    },
+    "https://www.pixeltrue.com/scenic-illustrations": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "scenic.html"
+      ]
+    },
+    "https://colorkit.co/solid-color-wallpapers/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "small.html"
+      ]
+    },
+    "https://www.youtube.com/@ozan_1327/videos": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "small.html"
+      ]
+    },
+    "https://github.com/LagrangianLad/arch-minimal-wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "small.html"
+      ]
+    },
+    "https://bing.com/images": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "reverse.html"
+      ]
+    },
+    "https://github.com/UncleSpellbinder/Debian-HD-Wallpaper": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "small.html"
+      ]
+    },
+    "https://chromecastbg.alexmeub.com/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "specific.html"
+      ]
+    },
+    "https://www.androidpolice.com/chromebook-chrome-os-wallpapers/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "specific.html"
+      ]
+    },
+    "https://www.xbox.com/en-us/wallpapers/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "specific.html"
+      ]
+    },
+    "https://github.com/visika/solarized-wallpapers": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "small.html"
+      ]
+    },
+    "https://archive.org/details/SDDesktopWallpaper": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "specific.html"
+      ]
+    },
+    "https://www.playstation.com/en-us/wallpapers/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "specific.html"
+      ]
+    },
+    "https://t.me/s/bestwallpapes": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "telegram.html"
+      ]
+    },
+    "https://t.me/wallpaperselection": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "telegram.html"
+      ]
+    },
+    "https://t.me/amoledwallpapers": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "telegram.html"
+      ]
+    },
+    "https://t.me/s/wallpaperxverse": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "small.html"
+      ]
+    },
+    "https://t.me/wallpaper_heaven19": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "telegram.html"
+      ]
+    },
+    "https://t.me/animewallpapers106": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "telegram.html"
+      ]
+    },
+    "https://we-img-search.ordinall.me/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "reverse.html"
+      ]
+    },
+    "https://yandex.com/images": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "reverse.html"
+      ]
+    },
+    "https://t.me/wpr_13": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "telegram.html"
+      ]
+    },
+    "https://t.me/G_Walls": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "telegram.html"
+      ]
+    },
+    "https://t.me/dropmywall": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "telegram.html"
+      ]
+    },
+    "https://t.me/IconicWallpaperPremium": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "telegram.html"
+      ]
+    },
+    "https://t.me/wall69papers": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "telegram.html"
+      ]
+    },
+    "https://t.me/New_4K_Wallpapers": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "telegram.html"
+      ]
+    },
+    "https://t.me/imancrafft": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "telegram.html"
+      ]
+    },
+    "https://windows10spotlight.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "windows.html"
+      ]
+    },
+    "https://bing.gifposter.com/": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "windows.html"
+      ]
+    },
+    "https://t.me/desktopwallpapers": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "telegram.html"
+      ]
+    },
+    "https://microsoft.design/wallpapers/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "windows.html"
+      ]
+    },
+    "https://t.me/catppuccinwallpapers": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "telegram.html"
+      ]
+    },
+    "https://mega.nz/folder/aDxj3ZQS#n01Uuhqdp8ls_gObearKdw": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "windows.html"
+      ]
+    },
+    "https://www.wallpaperhub.app/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "windows.html"
+      ]
+    },
+    "https://windowswallpaper.miraheze.org/wiki/Main_Page": {
+      "status": "working",
+      "detail": "206",
+      "pages": [
+        "windows.html"
+      ]
+    },
+    "https://www.deviantart.com/windowsaesthetics/gallery": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "windows.html"
+      ]
+    },
+    "https://bingwallpaper.anerg.com/": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "windows.html"
+      ]
+    },
+    "https://drive.google.com/drive/u/0/folders/1-80cROdVY-GSwu9fGnJJyglcERKyJ-gP": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "windows.html"
+      ]
+    },
+    "https://wallpaperscraft.com": {
+      "status": "working",
+      "detail": "200",
+      "pages": [
+        "rec.html"
+      ]
+    },
+    "https://farbenfroh.io": {
+      "status": "uncertain",
+      "detail": "403",
+      "pages": [
+        "converter.html"
+      ]
+    },
+    "https://gitlab.manjaro.org/artwork/wallpapers": {
+      "status": "uncertain",
+      "detail": "502",
+      "pages": [
+        "linuxpart1contd.html"
+      ]
+    },
+    "https://en.opensuse.org/openSUSE:Wallpapers": {
+      "status": "uncertain",
+      "detail": "403",
+      "pages": [
+        "linuxpart2.html"
+      ]
+    },
+    "https://wallpaperengine.space/": {
+      "status": "uncertain",
+      "detail": "429",
+      "pages": [
+        "live.html"
+      ]
+    },
+    "https://mylivewallpapers.com/": {
+      "status": "uncertain",
+      "detail": "307",
+      "pages": [
+        "live.html"
+      ]
+    },
+    "https://www.wallpaperflare.com/": {
+      "status": "uncertain",
+      "detail": "403",
+      "pages": [
+        "other.html"
+      ]
+    },
+    "https://coolwallpapers.me/": {
+      "status": "uncertain",
+      "detail": "403",
+      "pages": [
+        "othercontd.html"
+      ]
+    },
+    "https://wallpapersden.com/": {
+      "status": "uncertain",
+      "detail": "403",
+      "pages": [
+        "rec.html"
+      ]
+    }
+  }
+}

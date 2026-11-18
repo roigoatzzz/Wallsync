@@ -28,6 +28,31 @@ Please follow these guidelines:
 - Thank you for helping improve this project!
 
 Help make this megathread better for everyone!
+
+### Check wallpaper links
+
+Run the external link checker from the repository root:
+
+```sh
+python scripts/check_links.py --markdown
+```
+
+The GitHub Actions workflow also checks links on pull requests, pushes to `main`, and every Monday.
+
+#### Current status
+
+- **0 confirmed broken links**
+- **Working:** 207
+- **Uncertain:** 8 links may block automated checks or be temporarily unreachable
+  - [CoolWallpapers](https://coolwallpapers.me/) — HTTP 403
+  - [OpenSUSE Wallpapers](https://en.opensuse.org/openSUSE:Wallpapers) — HTTP 403
+  - [Farbenfroh](https://farbenfroh.io/) — HTTP 403
+  - [Manjaro Wallpapers](https://gitlab.manjaro.org/artwork/wallpapers) — HTTP 502
+  - [MyLiveWallpapers](https://mylivewallpapers.com/) — redirect response
+  - [Wallpaper Engine](https://wallpaperengine.space/) — HTTP 429
+  - [WallpaperDen](https://wallpapersden.com/) — HTTP 403
+  - [WallpaperFlare](https://www.wallpaperflare.com/) — HTTP 403
+
 <hr />
 <p align="center">✨= My Favorite Places</p>
 <p align="center">🩷= For clean minds</p>

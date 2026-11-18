@@ -55,6 +55,49 @@ html, body {
   box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);
 }
 
+.random-button {
+  background: linear-gradient(135deg, rgba(144, 238, 144, 0.8), rgba(60, 179, 113, 0.8));
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 25px;
+  color: white;
+  font-family: "Zain";
+  font-size: 20px;
+  padding: 12px 25px;
+  margin-top: 15px;
+  transition: 0.3s ease;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.random-button:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+}
+
+.random-button:disabled {
+  cursor: wait;
+  opacity: 0.7;
+}
+
+.link-status {
+  display: inline-block;
+  margin-left: 6px;
+  font-size: 14px;
+  line-height: 1;
+  vertical-align: middle;
+  filter: none;
+}
+
+.link-status.uncertain {
+  color: #ffd166;
+}
+
+#link-status-summary {
+  margin: 8px auto 14px;
+  text-align: center;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.85);
+}
+
 /* Search results styling */
 #search-results-container {
   width: 100%;

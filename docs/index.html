@@ -35,6 +35,8 @@ Thank you for helping improve this project!  Help make this megathread better fo
 <div class="search-container">
   <input type="text" id="categorySearch" placeholder="Search categories (e.g. Anime, Linux, Live)...">
 </div>
+<button id="randomSiteButton" class="random-button" type="button" disabled>Loading random sites...</button>
+<div id="link-status-summary" aria-live="polite">Checking link status...</div>
 <hr>
 
 <div class="chipbox" style="width: 90%;">
@@ -117,7 +119,7 @@ Thank you for helping improve this project!  Help make this megathread better fo
 <script>
     document.addEventListener('DOMContentLoaded', function() {
       // List of all external links for search
-      const allExternalLinks = [
+      let allExternalLinks = [
         { name: "Wallhaven", url: "https://wallhaven.cc" },
         { name: "Downloader", url: "https://github.com/eramdam/WallbaseDirectDownloader" },
         { name: "Wallwindgy", url: "https://www.wallwidgy.app/" },
@@ -293,6 +295,80 @@ Thank you for helping improve this project!  Help make this megathread better fo
         { name: "FMHY", url: "https://fmhy.net/" }
       ];
 
+      const randomSiteButton = document.getElementById('randomSiteButton');
+      const pageFiles = [
+        'apple.html', 'anime.html', 'collections.html', 'converter.html',
+        'credits.html', 'games.html', 'github.html', 'linuxpart1.html',
+        'linuxpart1contd.html', 'linuxpart2.html', 'linuxpart2contd.html',
+        'live.html', 'livecontd.html', 'minimalist.html', 'multimonitor.html',
+        'other.html', 'othercontd.html', 'rec.html', 'reddit.html',
+        'redditcontd.html', 'reverse.html', 'scenic.html', 'small.html',
+        'specific.html', 'telegram.html', 'windows.html'
+      ];
+
+      function collectExternalLinks(documentToRead, pageUrl) {
+        return Array.from(documentToRead.querySelectorAll('a[href]'))
+          .map(link => {
+            const url = new URL(link.getAttribute('href'), pageUrl);
+            return { name: link.textContent.trim() || url.hostname, url: url.href };
+          })
+          .filter(link => ['http:', 'https:'].includes(new URL(link.url).protocol))
+          .filter(link => new URL(link.url).hostname !== window.location.hostname);
+      }
+
+      function updateExternalLinks(links) {
+        allExternalLinks = Array.from(new Map(links.map(link => [link.url, link])).values());
+        randomSiteButton.disabled = allExternalLinks.length === 0;
+        randomSiteButton.textContent = allExternalLinks.length
+          ? 'Surprise Me!'
+          : 'No random sites available';
+      }
+
+      const currentPageLinks = collectExternalLinks(document, window.location.href);
+      updateExternalLinks(currentPageLinks);
+
+      Promise.allSettled(pageFiles.map(async pageFile => {
+        const response = await fetch(pageFile);
+        if (!response.ok) {
+          throw new Error(`Could not load ${pageFile}: ${response.status}`);
+        }
+        return collectExternalLinks(
+          new DOMParser().parseFromString(await response.text(), 'text/html'),
+          new URL(pageFile, window.location.href)
+        );
+      })).then(results => {
+        results
+          .filter(result => result.status === 'rejected')
+          .forEach(result => console.error('Random-site link loading failed:', result.reason));
+        updateExternalLinks(allExternalLinks.concat(
+          results
+            .filter(result => result.status === 'fulfilled')
+            .flatMap(result => result.value)
+        ));
+      });
+
+      const linkStatusSummary = document.getElementById('link-status-summary');
+      let linkStatuses = {};
+
+      fetch('link-status.json')
+        .then(response => {
+          if (!response.ok) {
+            throw new Error(`Could not load link status: ${response.status}`);
+          }
+          return response.json();
+        })
+        .then(statusData => {
+          linkStatuses = statusData.links || {};
+          const summary = statusData.summary || {};
+          linkStatusSummary.textContent =
+            `Link status: ${summary.working || 0} working, ` +
+            `${summary.broken || 0} broken, ${summary.uncertain || 0} uncertain`;
+        })
+        .catch(error => {
+          console.error('Link status loading failed:', error);
+          linkStatusSummary.textContent = 'Link status is not available';
+        });
+
       // 1. External Link Logic
     document.querySelectorAll('a').forEach(link => {
       if (link.hostname !== window.location.hostname && link.hostname !== '') {
@@ -357,12 +433,26 @@ Thank you for helping improve this project!  Help make this megathread better fo
         resultsContainer.innerHTML = `<p class="semibold">External links matching "${query}":</p>
           <ul class="search-results-list">` + 
           results.map(link => {
-            return `<li class="search-result-item"><a href="${link.url}" target="_blank" rel="noopener noreferrer">${link.name}</a></li>`;
+          const status = linkStatuses[link.url];
+          const statusBadge = status && status.status === 'uncertain'
+            ? ' <span class="link-status uncertain" title="Automated check: ' +
+              `${status.detail.replace(/</g, '&lt;').replace(/>/g, '&gt;')}` +
+              '">⚠</span>'
+            : '';
+          return `<li class="search-result-item"><a href="${link.url}" target="_blank" rel="noopener noreferrer">${link.name}</a>${statusBadge}</li>`;
           }).join('') + `</ul>`;
       }
     }
 
     searchInput.addEventListener('input', performSearch);
+
+    randomSiteButton.addEventListener('click', function() {
+      if (allExternalLinks.length === 0) {
+        return;
+      }
+      const randomLink = allExternalLinks[Math.floor(Math.random() * allExternalLinks.length)];
+      window.open(randomLink.url, '_blank', 'noopener,noreferrer');
+    });
 
   });
 </script>

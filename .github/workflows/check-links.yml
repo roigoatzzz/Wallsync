@@ -1,0 +1,27 @@
+name: Check WallSync links
+
+on:
+  pull_request:
+  push:
+    branches: ["main"]
+  schedule:
+    - cron: "0 12 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Check external links
+        run: python scripts/check_links.py --markdown --strict --status-json docs/link-status.json
+      - name: Upload link status
+        uses: actions/upload-artifact@v4
+        with:
+          name: wallsync-link-status
+          path: docs/link-status.json
+          if-no-files-found: error
