@@ -78,6 +78,8 @@ html, body {
   width: 100%;
   display: flex;
   justify-content: center;
+  align-items: center;
+  gap: 10px;
   margin-bottom: 20px;
 }
 
@@ -107,27 +109,63 @@ html, body {
   box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);
 }
 
-.random-button {
-  background: linear-gradient(135deg, rgba(144, 238, 144, 0.8), rgba(60, 179, 113, 0.8));
+.search-clear {
   border: 1px solid rgba(255, 255, 255, 0.5);
-  border-radius: 25px;
+  border-radius: 20px;
+  background: rgba(0, 0, 0, 0.55);
   color: white;
   font-family: "Zain";
-  font-size: 20px;
-  padding: 12px 25px;
-  margin-top: 15px;
-  transition: 0.3s ease;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  font-size: 18px;
+  padding: 10px 14px;
+  cursor: pointer;
 }
 
-.random-button:hover:not(:disabled) {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+.search-clear:hover {
+  background: rgba(255, 255, 255, 0.18);
 }
 
-.random-button:disabled {
-  cursor: wait;
-  opacity: 0.7;
+#search-results-container {
+  width: 100%;
+  max-width: 800px;
+  background: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(10px);
+  border-radius: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  margin: 20px auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: all 0.3s ease;
+}
+
+.search-results-header {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.search-results-header p {
+  margin: 0;
+}
+
+.search-result-item {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 8px 16px;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transition: 0.2s;
+}
+
+.search-result-item.status-broken {
+  border-color: rgba(255, 120, 120, 0.45);
+}
+
+.search-result-item.status-uncertain {
+  border-color: rgba(255, 209, 102, 0.45);
 }
 
 .link-status {

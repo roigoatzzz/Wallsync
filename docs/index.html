@@ -33,7 +33,8 @@ Ensure links are safe and relevant, respect formatting for consistency.
 Thank you for helping improve this project!  Help make this megathread better for everyone!</p>
 
 <div class="search-container">
-  <input type="text" id="categorySearch" placeholder="Search categories (e.g. Anime, Linux, Live)...">
+  <input type="search" id="categorySearch" placeholder="Search wallpapers or categories..." autocomplete="off" aria-label="Search WallSync">
+  <button id="clearSearchButton" class="search-clear" type="button" aria-label="Clear search" hidden>Clear</button>
 </div>
 <div class="wallpaper-controls" aria-label="Browser wallpaper controls">
   <select id="wallpaperSelect" title="Choose a WallSync browser background">
@@ -47,7 +48,6 @@ Thank you for helping improve this project!  Help make this megathread better fo
   <input class="wallpaper-upload" id="wallpaperUpload" type="file" accept="image/*">
   <button id="resetWallpaperButton" type="button">Reset</button>
 </div>
-<button id="randomSiteButton" class="random-button" type="button" disabled>Loading random sites...</button>
 <div id="link-status-summary" aria-live="polite">Checking link status...</div>
 <hr>
 
@@ -140,7 +140,10 @@ Thank you for helping improve this project!  Help make this megathread better fo
         'animenight.jpg',
         'decoration.jpg',
         'blackdots.jpg',
-        'fullmoon.jpg'
+        'fullmoon.jpg',
+        'sunset.jpg',
+        'forest.jpg'
+
       ];
 
       function setBrowserWallpaper(value, persist = true) {
@@ -211,8 +214,9 @@ Thank you for helping improve this project!  Help make this megathread better fo
         setBrowserWallpaper('animenight.jpg', false);
       });
 
-      // List of all external links for search
-      let allExternalLinks = [
+      let allExternalLinks = [];
+      /*
+      Legacy external-link list replaced by page-based search discovery.
         { name: "Wallhaven", url: "https://wallhaven.cc" },
         { name: "Downloader", url: "https://github.com/eramdam/WallbaseDirectDownloader" },
         { name: "Wallwindgy", url: "https://www.wallwidgy.app/" },
@@ -387,8 +391,8 @@ Thank you for helping improve this project!  Help make this megathread better fo
         { name: "WallpapersMax", url: "https://wallpapersmax.com/" },
         { name: "FMHY", url: "https://fmhy.net/" }
       ];
+      */
 
-      const randomSiteButton = document.getElementById('randomSiteButton');
       const pageFiles = [
         'apple.html', 'anime.html', 'collections.html', 'converter.html',
         'credits.html', 'games.html', 'github.html', 'linuxpart1.html',
@@ -411,10 +415,6 @@ Thank you for helping improve this project!  Help make this megathread better fo
 
       function updateExternalLinks(links) {
         allExternalLinks = Array.from(new Map(links.map(link => [link.url, link])).values());
-        randomSiteButton.disabled = allExternalLinks.length === 0;
-        randomSiteButton.textContent = allExternalLinks.length
-          ? 'Surprise Me!'
-          : 'No random sites available';
       }
 
       const currentPageLinks = collectExternalLinks(document, window.location.href);
@@ -470,49 +470,73 @@ Thank you for helping improve this project!  Help make this megathread better fo
       }
     });
 
-        // 2. Search Logic
     const searchInput = document.getElementById('categorySearch');
-    const chips = document.querySelectorAll('.chip');
+    const clearSearchButton = document.getElementById('clearSearchButton');
+    const chips = Array.from(document.querySelectorAll('.chip'));
+    let searchTimer;
 
-    // Debounce helper
-    function debounce(func, delay) {
-      let timeout;
-      return function(...args) {
-        clearTimeout(timeout);
-        timeout = setTimeout(() => func.apply(this, args), delay);
-      };
+    function normalizeSearchValue(value) {
+      return value.toLowerCase().normalize('NFKD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .replace(/[^a-z0-9]+/g, ' ')
+        .trim();
     }
 
-    const performSearch = debounce(() => {
-      const query = searchInput.value.toLowerCase().trim();
-      
-      if (query === "") {
-        // Reset chips and hide search results if query is empty
-        chips.forEach(chip => chip.style.display = 'flex');
-        const existingResults = document.getElementById('search-results-container');
-        if (existingResults) existingResults.remove();
+    function escapeHtml(value) {
+      return String(value).replace(/[&<>"']/g, character => ({
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        "'": '&#39;'
+      })[character]);
+    }
+
+    function rankLink(link, terms) {
+      const name = normalizeSearchValue(link.name);
+      const url = normalizeSearchValue(link.url);
+      let score = 0;
+      terms.forEach(term => {
+        if (name === term) score += 100;
+        else if (name.startsWith(term)) score += 60;
+        else if (name.includes(term)) score += 40;
+        else if (url.includes(term)) score += 10;
+        else score -= 100;
+      });
+      return score;
+    }
+
+    function clearSearch() {
+      searchInput.value = '';
+      clearSearchButton.hidden = true;
+      chips.forEach(chip => chip.style.display = 'flex');
+      const existingResults = document.getElementById('search-results-container');
+      if (existingResults) existingResults.remove();
+      searchInput.focus();
+    }
+
+    function performSearch() {
+      const query = normalizeSearchValue(searchInput.value);
+      clearSearchButton.hidden = searchInput.value.length === 0;
+      if (!query) {
+        clearSearch();
         return;
       }
 
-      // Filter chips
+      const terms = query.split(' ');
       chips.forEach(chip => {
-        const text = chip.textContent.toLowerCase();
-        chip.style.display = text.includes(query) ? 'flex' : 'none';
+        const chipText = normalizeSearchValue(chip.textContent);
+        chip.style.display = terms.some(term => chipText.includes(term)) ? 'flex' : 'none';
       });
 
-            // Find matching links from allExternalLinks
-      const matchingLinks = allExternalLinks.filter(link => {
-        const name = link.name.toLowerCase();
-        const url = link.url.toLowerCase();
-        return name.includes(query) || url.includes(query);
-      });
+      const matches = allExternalLinks
+        .map(link => ({ link, score: rankLink(link, terms) }))
+        .filter(match => match.score > 0)
+        .sort((a, b) => b.score - a.score || a.link.name.localeCompare(b.link.name))
+        .slice(0, 50)
+        .map(match => match.link);
 
-      displaySearchResults(matchingLinks, query);
-    }, 150);
-
-        function displaySearchResults(results, query) {
       let resultsContainer = document.getElementById('search-results-container');
-      
       if (!resultsContainer) {
         resultsContainer = document.createElement('div');
         resultsContainer.id = 'search-results-container';
@@ -520,31 +544,32 @@ Thank you for helping improve this project!  Help make this megathread better fo
         hr.parentNode.insertBefore(resultsContainer, hr.nextSibling);
       }
 
-      if (results.length === 0) {
-        resultsContainer.innerHTML = `<p>No external links found for "${query}"</p>`;
-      } else {
-        resultsContainer.innerHTML = `<p class="semibold">External links matching "${query}":</p>
-          <ul class="search-results-list">` + 
-          results.map(link => {
-          const status = linkStatuses[link.url];
-          const statusBadge = status && status.status === 'uncertain'
-            ? ' <span class="link-status uncertain" title="Automated check: ' +
-              `${status.detail.replace(/</g, '&lt;').replace(/>/g, '&gt;')}` +
-              '">⚠</span>'
-            : '';
-          return `<li class="search-result-item"><a href="${link.url}" target="_blank" rel="noopener noreferrer">${link.name}</a>${statusBadge}</li>`;
-          }).join('') + `</ul>`;
-      }
-    }
-
-    searchInput.addEventListener('input', performSearch);
-
-    randomSiteButton.addEventListener('click', function() {
-      if (allExternalLinks.length === 0) {
+      if (!matches.length) {
+        resultsContainer.innerHTML = '<p>No matching wallpaper sources found.</p>';
         return;
       }
-      const randomLink = allExternalLinks[Math.floor(Math.random() * allExternalLinks.length)];
-      window.open(randomLink.url, '_blank', 'noopener,noreferrer');
+
+      resultsContainer.innerHTML =
+        `<div class="search-results-header"><p class="semibold">${matches.length} result${matches.length === 1 ? '' : 's'} for "${escapeHtml(searchInput.value.trim())}"</p></div>` +
+        '<ul class="search-results-list">' +
+        matches.map(link => {
+          const status = linkStatuses[link.url];
+          const statusBadge = status
+            ? ` <span class="link-status ${status.status}" title="${escapeHtml(status.detail)}">` +
+              (status.status === 'broken' ? '!' : status.status === 'uncertain' ? '⚠' : '') +
+              '</span>'
+            : '';
+          return `<li class="search-result-item status-${status ? status.status : 'working'}"><a href="${escapeHtml(link.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(link.name)}</a>${statusBadge}</li>`;
+        }).join('') + '</ul>';
+    }
+
+    searchInput.addEventListener('input', function() {
+      clearTimeout(searchTimer);
+      searchTimer = setTimeout(performSearch, 120);
+    });
+    clearSearchButton.addEventListener('click', clearSearch);
+    searchInput.addEventListener('keydown', function(event) {
+      if (event.key === 'Escape') clearSearch();
     });
 
   });
